@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '72523a09212a045d13ee7d5ef99a32a2',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '02d97cc0bfc03baad44645265aecc041',
+  'native_key' => 
+  array (
+    0 => 10,
+    1 => 'OnBeforeSaveWebPageCache',
+  ),
+  'object' => '{"pluginid":10,"event":"OnBeforeSaveWebPageCache","priority":0,"propertyset":0}',
+);

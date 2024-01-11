@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '70262fdb9953e98bda52a4796e5f0995',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '4b68e7ae30127a80b07bbc5a8f8cb966',
+  'native_key' => 'resource_static_path',
+  'object' => '{"key":"resource_static_path","value":"{assets_path}","xtype":"textfield","namespace":"core","area":"static_resources","editedon":null}',
+);

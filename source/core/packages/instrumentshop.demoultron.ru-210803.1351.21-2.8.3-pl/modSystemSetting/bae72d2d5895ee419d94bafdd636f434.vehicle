@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '542908a3b12a674d5da9008b12862a6d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'bae72d2d5895ee419d94bafdd636f434',
+  'native_key' => 'stercseo.migration_status',
+  'object' => '{"key":"stercseo.migration_status","value":"1","xtype":"textfield","namespace":"stercseo_custom","area":"","editedon":null}',
+);

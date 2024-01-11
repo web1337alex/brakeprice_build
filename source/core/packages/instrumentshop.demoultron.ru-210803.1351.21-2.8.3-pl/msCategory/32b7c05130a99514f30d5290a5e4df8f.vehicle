@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b305b3962651a546831dcd49843653c5',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => '32b7c05130a99514f30d5290a5e4df8f',
+  'native_key' => 45,
+  'object' => '{"id":45,"type":"document","contentType":"text\\/html","pagetitle":"\\u0421\\u0442\\u0430\\u043d\\u043a\\u0438","longtitle":"","description":"","alias":"stanki","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":33,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":6,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487605994,"editedby":1,"editedon":1511874783,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487605980,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"stanki\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

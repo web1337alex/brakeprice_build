@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2c6725c4f5557d3b43375a874a7277cd',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '3aca33bbe45bffb1d2bb8fbae450f24d',
+  'native_key' => 88,
+  'object' => '{"id":88,"source":1,"property_preprocess":0,"name":"gallery","description":"","editor_type":0,"category":5,"cache_type":0,"snippet":"[[getImageList?\\n    &tvname=`gallery`\\n    &tpl=`galleryElement`\\n    &limit=`0`\\n    &toPlaceholder=`galleryOuter`\\n]]\\n\\n\\n\\n[[+galleryOuter:notempty=`\\n<div class=\\"gallery-wrapper\\">\\n    <div class=\\"row\\">\\n        <div class=\\"col-xs-8\\">\\n        <\\/div>\\n        <div class=\\"col-xs-4 text-right\\">\\n            <span class=\\"gallery-carousel-prev\\"><i class=\\"material-icons\\">navigate_before<\\/i><\\/span> \\n            <span class=\\"gallery-carousel-next\\"><i class=\\"material-icons\\">navigate_next<\\/i><\\/span>\\n        <\\/div>\\n    <\\/div>\\n    <div class=\\"push20\\"><\\/div>\\n    \\n    <div class=\\"gallery-carousel lightgallery\\">\\n        [[+galleryOuter]]\\n    <\\/div>\\n<\\/div>\\n`]]","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"[[getImageList?\\n    &tvname=`gallery`\\n    &tpl=`galleryElement`\\n    &limit=`0`\\n    &toPlaceholder=`galleryOuter`\\n]]\\n\\n\\n\\n[[+galleryOuter:notempty=`\\n<div class=\\"gallery-wrapper\\">\\n    <div class=\\"row\\">\\n        <div class=\\"col-xs-8\\">\\n        <\\/div>\\n        <div class=\\"col-xs-4 text-right\\">\\n            <span class=\\"gallery-carousel-prev\\"><i class=\\"material-icons\\">navigate_before<\\/i><\\/span> \\n            <span class=\\"gallery-carousel-next\\"><i class=\\"material-icons\\">navigate_next<\\/i><\\/span>\\n        <\\/div>\\n    <\\/div>\\n    <div class=\\"push20\\"><\\/div>\\n    \\n    <div class=\\"gallery-carousel lightgallery\\">\\n        [[+galleryOuter]]\\n    <\\/div>\\n<\\/div>\\n`]]"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bb7aad033029cb140bf98a853cdc2cf7',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '558aea628372fa4b0a538f69f049d767',
+  'native_key' => 'seopro.usesitename',
+  'object' => '{"key":"seopro.usesitename","value":"1","xtype":"combo-boolean","namespace":"seopro","area":"general","editedon":null}',
+);

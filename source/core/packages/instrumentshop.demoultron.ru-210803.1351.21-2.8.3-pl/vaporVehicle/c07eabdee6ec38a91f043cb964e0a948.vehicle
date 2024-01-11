@@ -1,0 +1,29 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_order_logs',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_order_logs`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_order_logs` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `user_id` int(10) unsigned NOT NULL DEFAULT 0,
+  `order_id` int(10) unsigned NOT NULL DEFAULT 0,
+  `timestamp` datetime DEFAULT \'0000-00-00 00:00:00\',
+  `action` varchar(100) NOT NULL DEFAULT \'\',
+  `entry` varchar(255) NOT NULL DEFAULT \'0\',
+  `ip` text NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `user_id` (`user_id`),
+  KEY `order_id` (`order_id`)
+) ENGINE=MyISAM AUTO_INCREMENT=117 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => 'fd70dedb02a2c64cebb33ecb03dad180',
+  'package' => '',
+  'signature' => 'c07eabdee6ec38a91f043cb964e0a948',
+  'native_key' => 'fd70dedb02a2c64cebb33ecb03dad180',
+);

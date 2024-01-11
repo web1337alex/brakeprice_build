@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '48e5b4cdf29db16ea32b1b325b653da7',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'e5f2b02ca9deec9cc8caeed238a2bd2c',
+  'native_key' => 95,
+  'object' => '{"id":95,"template":1,"name":"new_user","description":"perm.new_user_desc","value":1}',
+);

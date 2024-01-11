@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a21d8c27d8031b7055554723182f59d8',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => '822675baf1c400665a069257294b6e8e',
+  'native_key' => 61,
+  'object' => '{"id":61,"type":"document","contentType":"text\\/html","pagetitle":"\\u0411\\u043e\\u0440\\u043e\\u0437\\u0434\\u043e\\u0434\\u0435\\u043b\\u044b","longtitle":"","description":"","alias":"borozdodelyi","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":127,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":3,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487606342,"editedby":1,"editedon":1489581274,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487606340,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"borozdodelyi\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

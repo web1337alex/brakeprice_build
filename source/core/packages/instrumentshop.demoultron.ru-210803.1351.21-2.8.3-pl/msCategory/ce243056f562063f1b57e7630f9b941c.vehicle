@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '408c314bce9aedd44c2ea43e4adc6584',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => 'ce243056f562063f1b57e7630f9b941c',
+  'native_key' => 49,
+  'object' => '{"id":49,"type":"document","contentType":"text\\/html","pagetitle":"\\u0422\\u043e\\u0432\\u0430\\u0440\\u044b \\u0434\\u043b\\u044f \\u043e\\u0442\\u0434\\u044b\\u0445\\u0430, \\u0441\\u043f\\u043e\\u0440\\u0442\\u0430 \\u0438 \\u0442\\u0443\\u0440\\u0438\\u0437\\u043c\\u0430","longtitle":"","description":"","alias":"tovaryi-dlya-otdyixa-sporta-i-turizma","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":33,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":11,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487606055,"editedby":1,"editedon":1511874980,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487606040,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"tovaryi-dlya-otdyixa-sporta-i-turizma\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

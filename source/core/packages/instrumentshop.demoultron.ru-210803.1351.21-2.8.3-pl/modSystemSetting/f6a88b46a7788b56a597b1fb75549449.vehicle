@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'facf5a69bb53bf1db91bf57bfee29a61',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f6a88b46a7788b56a597b1fb75549449',
+  'native_key' => 'ms2_payment_paypal_success_id',
+  'object' => '{"key":"ms2_payment_paypal_success_id","value":"","xtype":"numberfield","namespace":"minishop2","area":"ms2_payment","editedon":null}',
+);

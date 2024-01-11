@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2ebc1a0291c87eb880d2ee96df5f8f41',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'cc0ac01f307fa59909f43cea977de4f2',
+  'native_key' => 57,
+  'object' => '{"id":57,"source":1,"property_preprocess":0,"name":"tpl.msEmail.sent.user","description":"\\u0427\\u0430\\u043d\\u043a \\u043f\\u0438\\u0441\\u044c\\u043c\\u0430 \\u043e\\u0442\\u043f\\u0440\\u0430\\u0432\\u043b\\u0435\\u043d\\u043d\\u043e\\u0433\\u043e \\u0437\\u0430\\u043a\\u0430\\u0437\\u0430 \\u043f\\u043e\\u043b\\u044c\\u0437\\u043e\\u0432\\u0430\\u0442\\u0435\\u043b\\u044e.","editor_type":0,"category":22,"cache_type":0,"snippet":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_sent_user\' | lexicon : $order}\\r\\n{\\/block}","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_email_sent_user.tpl","content":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_sent_user\' | lexicon : $order}\\r\\n{\\/block}"}',
+);

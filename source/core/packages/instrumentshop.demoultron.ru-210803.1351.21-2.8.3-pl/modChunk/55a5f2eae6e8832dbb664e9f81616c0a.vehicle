@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '32d7dcfea023f829fb52c07ad8c9757b',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '55a5f2eae6e8832dbb664e9f81616c0a',
+  'native_key' => 55,
+  'object' => '{"id":55,"source":1,"property_preprocess":0,"name":"tpl.msEmail.paid.user","description":"\\u0427\\u0430\\u043d\\u043a \\u043f\\u0438\\u0441\\u044c\\u043c\\u0430 \\u043e\\u043f\\u043b\\u0430\\u0447\\u0435\\u043d\\u043d\\u043e\\u0433\\u043e \\u0437\\u0430\\u043a\\u0430\\u0437\\u0430 \\u043f\\u043e\\u043b\\u044c\\u0437\\u043e\\u0432\\u0430\\u0442\\u0435\\u043b\\u044e.","editor_type":0,"category":22,"cache_type":0,"snippet":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_paid_user\' | lexicon : $order}\\r\\n{\\/block}","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_email_paid_user.tpl","content":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_paid_user\' | lexicon : $order}\\r\\n{\\/block}"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8e5ec2f6f64f431ade26ad8d28436344',
+  'package' => 'modx',
+  'class' => 'modActionField',
+  'signature' => '01100281fad89c781c0aba52ef36bee8',
+  'native_key' => 842,
+  'object' => '{"id":842,"action":"resource\\/create","name":"uri_override","type":"field","tab":"modx-page-settings-right-box-left","form":"modx-panel-resource","other":"","rank":4}',
+);

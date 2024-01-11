@@ -1,0 +1,29 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'formit_forms',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]formit_forms`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]formit_forms` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `form` varchar(255) NOT NULL DEFAULT \'\',
+  `context_key` varchar(100) NOT NULL DEFAULT \'\',
+  `values` text NOT NULL,
+  `ip` varchar(100) NOT NULL DEFAULT \'\',
+  `date` int(11) NOT NULL DEFAULT 0,
+  `encrypted` tinyint(1) NOT NULL DEFAULT 0,
+  `encryption_type` int(2) NOT NULL DEFAULT 1,
+  `hash` varchar(255) NOT NULL DEFAULT \'\',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '4db26bcf27cd02cd31246d9f44f77ecd',
+  'package' => '',
+  'signature' => 'e573ce83782e3d4c014e9601a3cb42b7',
+  'native_key' => '4db26bcf27cd02cd31246d9f44f77ecd',
+);

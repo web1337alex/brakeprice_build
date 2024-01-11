@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '94c12d9c8566464adf34987ff4f1387c',
+  'package' => 'minishop2',
+  'class' => 'msProduct',
+  'signature' => '13fffa2b8c0996ab536b2bf610581fd8',
+  'native_key' => 139,
+  'object' => '{"id":139,"type":"document","contentType":"text\\/html","pagetitle":"\\u0411\\u0435\\u043d\\u0437\\u0438\\u043d\\u043e\\u0432\\u044b\\u0439 \\u0433\\u0435\\u043d\\u0435\\u0440\\u0430\\u0442\\u043e\\u0440 Hyundai HHY960A","longtitle":"","description":"","alias":"benzinovyij-generator-hyundai-hhy960a","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":133,"isfolder":0,"introtext":"","content":"","richtext":1,"template":3,"menuindex":1,"searchable":1,"cacheable":1,"createdby":1,"createdon":1530360264,"editedby":1,"editedon":1530360314,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1530360240,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msProduct","context_key":"web","content_type":1,"uri":"benzinovyij-generator-hyundai-hhy960a","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\"}}","article":"","price":7900,"old_price":0,"weight":0,"image":"\\/assets\\/images\\/products\\/139\\/6f9145279a9af28b5a7b66e9c18d3ef8.jpg","thumb":"\\/assets\\/images\\/products\\/139\\/x220\\/6f9145279a9af28b5a7b66e9c18d3ef8.jpg","vendor":8,"made_in":"\\u041a\\u043e\\u0440\\u0435\\u044f","new":0,"popular":0,"favorite":0,"tags":null,"color":"[\\"\\\\u0441\\\\u0435\\\\u0440\\\\u044b\\\\u0439\\"]","size":null,"source":2,"vendor.id":8,"vendor.name":"Hyundai","vendor.resource":138,"vendor.country":"","vendor.logo":"","vendor.address":"","vendor.phone":"","vendor.fax":"","vendor.email":"","vendor.description":"","vendor.properties":null}',
+);

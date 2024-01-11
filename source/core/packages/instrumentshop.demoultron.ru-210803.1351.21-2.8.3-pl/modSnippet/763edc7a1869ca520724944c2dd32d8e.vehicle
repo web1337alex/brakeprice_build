@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '76069193953af0015c4752a6bc8addfb',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => '763edc7a1869ca520724944c2dd32d8e',
+  'native_key' => 75,
+  'object' => '{"id":75,"source":1,"property_preprocess":0,"name":"msMiniCart","description":"","editor_type":0,"category":22,"cache_type":0,"snippet":"\\/** @var modX $modx *\\/\\n\\/** @var array $scriptProperties *\\/\\n\\/** @var miniShop2 $miniShop2 *\\/\\n$miniShop2 = $modx->getService(\'miniShop2\');\\n$miniShop2->initialize($modx->context->key);\\n\\n$tpl = $modx->getOption(\'tpl\', $scriptProperties, \'tpl.msMiniCart\');\\n\\n$cart = $miniShop2->cart->status();\\n$cart[\'total_cost\'] = $miniShop2->formatPrice($cart[\'total_cost\']);\\n$cart[\'total_weight\'] = $miniShop2->formatWeight($cart[\'total_weight\']);\\n\\nreturn $miniShop2->pdoTools->getChunk($tpl, $cart);","locked":0,"properties":"a:1:{s:3:\\"tpl\\";a:7:{s:4:\\"name\\";s:3:\\"tpl\\";s:4:\\"desc\\";s:12:\\"ms2_prop_tpl\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:14:\\"tpl.msMiniCart\\";s:7:\\"lexicon\\";s:20:\\"minishop2:properties\\";s:4:\\"area\\";s:0:\\"\\";}}","moduleguid":"","static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/snippets\\/snippet.ms_minicart.php","content":"\\/** @var modX $modx *\\/\\n\\/** @var array $scriptProperties *\\/\\n\\/** @var miniShop2 $miniShop2 *\\/\\n$miniShop2 = $modx->getService(\'miniShop2\');\\n$miniShop2->initialize($modx->context->key);\\n\\n$tpl = $modx->getOption(\'tpl\', $scriptProperties, \'tpl.msMiniCart\');\\n\\n$cart = $miniShop2->cart->status();\\n$cart[\'total_cost\'] = $miniShop2->formatPrice($cart[\'total_cost\']);\\n$cart[\'total_weight\'] = $miniShop2->formatWeight($cart[\'total_weight\']);\\n\\nreturn $miniShop2->pdoTools->getChunk($tpl, $cart);"}',
+);

@@ -1,0 +1,31 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_payments',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_payments`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_payments` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL,
+  `description` text DEFAULT NULL,
+  `price` varchar(11) DEFAULT \'0\',
+  `logo` varchar(255) DEFAULT NULL,
+  `rank` tinyint(1) unsigned DEFAULT 0,
+  `active` tinyint(1) unsigned DEFAULT 1,
+  `class` varchar(50) DEFAULT NULL,
+  `properties` text DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=3 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]ms2_payments` (`id`, `name`, `description`, `price`, `logo`, `rank`, `active`, `class`, `properties`) VALUES (\'1\', \'Оплата наличными\', NULL, \'0\', NULL, \'0\', \'1\', NULL, NULL)',
+      1 => 'INSERT INTO `[[++table_prefix]]ms2_payments` (`id`, `name`, `description`, `price`, `logo`, `rank`, `active`, `class`, `properties`) VALUES (\'2\', \'PayPal\', NULL, \'0\', NULL, \'1\', \'1\', \'PayPal\', NULL)',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '2d62ef3a6d99156d4362e1501d35c692',
+  'package' => '',
+  'signature' => '6bf3c7538c7b8999822761b836a46d5e',
+  'native_key' => '2d62ef3a6d99156d4362e1501d35c692',
+);

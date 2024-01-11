@@ -1,0 +1,20 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'php',
+      'body' => '{"type":"php","source":"instrumentshop.demoultron.ru-210803.1351.21-2.8.3-pl\\/modSystemSetting\\/7572fcb79d9d91dbf42c33a086882de7.resolve.extension_packages.resolver","name":"resolve.extension_packages"}',
+    ),
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5429f3fb44837e81eb33f60ea3fde5fb',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '7572fcb79d9d91dbf42c33a086882de7',
+  'native_key' => 'extension_packages',
+  'object' => '{"key":"extension_packages","value":"{\\"1\\":{\\"minishop2\\":{\\"path\\":\\"[[++core_path]]components\\\\\\/minishop2\\\\\\/model\\\\\\/\\"}}}","xtype":"textfield","namespace":"core","area":"system","editedon":"2018-08-16 13:19:59"}',
+);

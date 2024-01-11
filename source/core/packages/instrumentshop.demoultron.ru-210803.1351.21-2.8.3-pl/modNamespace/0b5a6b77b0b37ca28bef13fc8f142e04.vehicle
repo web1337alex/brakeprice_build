@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3fa17ecfae8d1f6cafc04f68884439e9',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '0b5a6b77b0b37ca28bef13fc8f142e04',
+  'native_key' => 'mapex',
+  'object' => '{"name":"mapex","path":"{core_path}components\\/mapex\\/","assets_path":""}',
+);

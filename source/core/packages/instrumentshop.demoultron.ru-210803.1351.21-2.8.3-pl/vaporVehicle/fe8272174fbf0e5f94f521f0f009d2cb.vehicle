@@ -1,0 +1,43 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'migx_formtab_fields',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]migx_formtab_fields`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]migx_formtab_fields` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `config_id` int(10) NOT NULL DEFAULT 0,
+  `formtab_id` int(10) NOT NULL DEFAULT 0,
+  `field` varchar(255) NOT NULL DEFAULT \'\',
+  `caption` varchar(255) NOT NULL DEFAULT \'\',
+  `description` text NOT NULL,
+  `pos` int(10) NOT NULL DEFAULT 0,
+  `description_is_code` tinyint(1) unsigned NOT NULL DEFAULT 0,
+  `inputTV` varchar(255) NOT NULL DEFAULT \'\',
+  `inputTVtype` varchar(255) NOT NULL DEFAULT \'\',
+  `validation` text NOT NULL,
+  `configs` varchar(255) NOT NULL DEFAULT \'\',
+  `restrictive_condition` text NOT NULL,
+  `display` varchar(255) NOT NULL DEFAULT \'\',
+  `sourceFrom` varchar(255) NOT NULL DEFAULT \'\',
+  `sources` varchar(255) NOT NULL DEFAULT \'\',
+  `inputOptionValues` text NOT NULL,
+  `default` text NOT NULL,
+  `extended` text NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `config_id` (`config_id`),
+  KEY `formtab_id` (`formtab_id`),
+  KEY `field` (`field`),
+  KEY `pos` (`pos`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '4637ac49fa5c3e85ac8c7eed86532d8b',
+  'package' => '',
+  'signature' => 'fe8272174fbf0e5f94f521f0f009d2cb',
+  'native_key' => '4637ac49fa5c3e85ac8c7eed86532d8b',
+);

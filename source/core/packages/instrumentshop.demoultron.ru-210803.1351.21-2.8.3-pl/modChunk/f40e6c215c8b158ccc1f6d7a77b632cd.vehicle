@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a551524e9f31a4fd5a5299420ee58b5f',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'f40e6c215c8b158ccc1f6d7a77b632cd',
+  'native_key' => 23,
+  'object' => '{"id":23,"source":1,"property_preprocess":0,"name":"galleryElement","description":"","editor_type":0,"category":6,"cache_type":0,"snippet":"[[+picture:notempty=`\\n<div class=\\"item\\">\\n    <div class=\\"element relative\\">\\n        <a href=\\"[[+picture:phpthumbon=`&w=1920&q=90`]]\\" class=\\"absolute lightgallery-link\\" data-sub-html=\\"[[+picture-text]]\\">\\n            <i class=\\"material-icons\\">search<\\/i>\\n        <\\/a>\\n        <img src=\\"[[+picture:phpthumbon=`&w=500&h=380&zc=1&q=90`]]\\" alt=\\"[[+picture-text]]\\" \\/>\\n    <\\/div>\\n<\\/div>\\n`]]","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"[[+picture:notempty=`\\n<div class=\\"item\\">\\n    <div class=\\"element relative\\">\\n        <a href=\\"[[+picture:phpthumbon=`&w=1920&q=90`]]\\" class=\\"absolute lightgallery-link\\" data-sub-html=\\"[[+picture-text]]\\">\\n            <i class=\\"material-icons\\">search<\\/i>\\n        <\\/a>\\n        <img src=\\"[[+picture:phpthumbon=`&w=500&h=380&zc=1&q=90`]]\\" alt=\\"[[+picture-text]]\\" \\/>\\n    <\\/div>\\n<\\/div>\\n`]]"}',
+);

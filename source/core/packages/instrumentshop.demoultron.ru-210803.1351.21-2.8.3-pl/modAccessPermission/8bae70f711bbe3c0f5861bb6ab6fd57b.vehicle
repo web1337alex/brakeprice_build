@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '46e25badd41358990dda23b26a4842e8',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '8bae70f711bbe3c0f5861bb6ab6fd57b',
+  'native_key' => 55,
+  'object' => '{"id":55,"template":1,"name":"file_tree","description":"perm.file_tree_desc","value":1}',
+);

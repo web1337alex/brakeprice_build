@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '54a9db09d5f7a482536af0c5bf27357e',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'ba06a0c81ac51c0ed78fcc4353467032',
+  'native_key' => 'tiny.forced_root_block',
+  'object' => '{"key":"tiny.forced_root_block","value":"p","xtype":"textfield","namespace":"tinymce","area":"cleanup-output","editedon":null}',
+);

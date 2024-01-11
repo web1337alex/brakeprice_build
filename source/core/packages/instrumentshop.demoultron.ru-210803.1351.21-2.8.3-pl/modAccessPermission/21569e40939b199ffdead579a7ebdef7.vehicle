@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2f1c1db60e82b71191833f463d7a915d',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '21569e40939b199ffdead579a7ebdef7',
+  'native_key' => 227,
+  'object' => '{"id":227,"template":8,"name":"mssetting_list","description":"mssetting_list","value":1}',
+);

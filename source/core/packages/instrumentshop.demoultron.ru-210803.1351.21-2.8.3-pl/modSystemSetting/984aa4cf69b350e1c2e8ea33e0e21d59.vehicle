@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '16fc0d9fdbcf28706e44ae83ee2008ac',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '984aa4cf69b350e1c2e8ea33e0e21d59',
+  'native_key' => 'seopro.searchengine',
+  'object' => '{"key":"seopro.searchengine","value":"google","xtype":"textfield","namespace":"seopro","area":"general","editedon":null}',
+);

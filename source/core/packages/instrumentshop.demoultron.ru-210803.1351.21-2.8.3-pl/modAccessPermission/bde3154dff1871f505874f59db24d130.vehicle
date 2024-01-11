@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3fda1de8cf69a3f7ae0ebdd9eb305cbb',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'bde3154dff1871f505874f59db24d130',
+  'native_key' => 234,
+  'object' => '{"id":234,"template":1,"name":"formit_encryptions","description":"To view the formit package, encriptions part.","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4ecd9893491c3c33e5d16e7cb0815ceb',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => 'f1f4f8b4ed1e7170f681cfc08b94bf28',
+  'native_key' => 29,
+  'object' => '{"id":29,"source":1,"property_preprocess":0,"type":"text","name":"action_t_text","caption":"\\u041a\\u0440\\u0430\\u0442\\u043a\\u043e\\u0435 \\u043e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435","description":"","editor_type":0,"category":36,"locked":0,"elements":"","rank":2,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:5:{s:10:\\"allowBlank\\";s:4:\\"true\\";s:9:\\"minLength\\";s:0:\\"\\";s:9:\\"maxLength\\";s:0:\\"\\";s:5:\\"regex\\";s:0:\\"\\";s:9:\\"regexText\\";s:0:\\"\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

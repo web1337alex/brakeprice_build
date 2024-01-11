@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '45fb2c87deab3663b11922f4e0f5698b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '9fa62d4d519316c39aff1d5264fadbbc',
+  'native_key' => 'tiny.nowrap',
+  'object' => '{"key":"tiny.nowrap","value":"","xtype":"combo-boolean","namespace":"tinymce","area":"general","editedon":null}',
+);

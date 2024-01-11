@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3f74cdd49f793dbc80eb0251d5812842',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '1f2897fb65ba7adecd6940edf913f7eb',
+  'native_key' => 20,
+  'object' => '{"id":20,"template":1,"name":"delete_document","description":"perm.delete_document_desc","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f1df505e8a640bafdc0feed430076488',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '535447c81e2b0f90d2d1b5e5d50cd1e4',
+  'native_key' => 91,
+  'object' => '{"id":91,"template":1,"name":"new_role","description":"perm.new_role_desc","value":1}',
+);

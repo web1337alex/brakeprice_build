@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a9804f44b093db7f15e7ceb37b38f51a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '1a101a10ada0f40767ba6089a9e5fc1c',
+  'native_key' => 'resource_static_allow_absolute',
+  'object' => '{"key":"resource_static_allow_absolute","value":"0","xtype":"combo-boolean","namespace":"core","area":"static_resources","editedon":null}',
+);

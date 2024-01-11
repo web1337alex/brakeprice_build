@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '19bc52ce66d21c503217866a57f42e71',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '3f2cb2721fe14c73d8524369c3871218',
+  'native_key' => 'ace.show_invisibles',
+  'object' => '{"key":"ace.show_invisibles","value":"0","xtype":"combo-boolean","namespace":"ace","area":"general","editedon":null}',
+);

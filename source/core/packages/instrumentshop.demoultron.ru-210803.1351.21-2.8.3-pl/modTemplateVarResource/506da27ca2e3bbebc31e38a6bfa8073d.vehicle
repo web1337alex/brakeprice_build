@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '327da73bbdd7b319766732c655a8df36',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '506da27ca2e3bbebc31e38a6bfa8073d',
+  'native_key' => 49,
+  'object' => '{"id":49,"tmplvarid":6,"contentid":104,"value":"images\\/catalog-categories\\/desert.jpg"}',
+);

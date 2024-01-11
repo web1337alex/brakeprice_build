@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4c0b1a2f792d4734e60af751f6154d62',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '63acb80d665d6192ed4e202a6632ba76',
+  'native_key' => 'access_context_enabled',
+  'object' => '{"key":"access_context_enabled","value":"1","xtype":"combo-boolean","namespace":"core","area":"authentication","editedon":null}',
+);

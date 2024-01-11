@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b8d113b5a3edf4110a9045c73f40349b',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => 'bb78dc10a004f97f96a4c8e926817f8b',
+  'native_key' => 63,
+  'object' => '{"id":63,"type":"document","contentType":"text\\/html","pagetitle":"\\u042d\\u043b\\u0435\\u043a\\u0442\\u0440\\u0438\\u043a\\u0430 \\u0438 \\u0441\\u0432\\u0435\\u0442","longtitle":"","description":"","alias":"elektrika-i-svet","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":33,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":3,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487606399,"editedby":1,"editedon":1511874633,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487606340,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"elektrika-i-svet\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

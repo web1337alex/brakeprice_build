@@ -1,0 +1,28 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'clientconfig_group',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]clientconfig_group`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]clientconfig_group` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `label` varchar(75) NOT NULL DEFAULT \'\',
+  `description` text NOT NULL,
+  `sortorder` int(10) NOT NULL DEFAULT 0,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]clientconfig_group` (`id`, `label`, `description`, `sortorder`) VALUES (\'1\', \'Основные настройки\', \'\', \'0\')',
+      1 => 'INSERT INTO `[[++table_prefix]]clientconfig_group` (`id`, `label`, `description`, `sortorder`) VALUES (\'2\', \'Соцсети\', \'\', \'0\')',
+      2 => 'INSERT INTO `[[++table_prefix]]clientconfig_group` (`id`, `label`, `description`, `sortorder`) VALUES (\'3\', \'Элементы дизайна\', \'\', \'3\')',
+      3 => 'INSERT INTO `[[++table_prefix]]clientconfig_group` (`id`, `label`, `description`, `sortorder`) VALUES (\'4\', \'Html блоки\', \'\', \'4\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '958a53f7663d77459fa88ef68020f1c4',
+  'package' => '',
+  'signature' => 'd8ea6b9df1b05a64fa8afd19acc8dc7c',
+  'native_key' => '958a53f7663d77459fa88ef68020f1c4',
+);

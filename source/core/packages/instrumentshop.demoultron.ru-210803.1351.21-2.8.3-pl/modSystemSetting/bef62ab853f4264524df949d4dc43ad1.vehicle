@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bd4326d557d918b5c9573b3beb9579d1',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'bef62ab853f4264524df949d4dc43ad1',
+  'native_key' => 'phpthumb_cache_source_enabled',
+  'object' => '{"key":"phpthumb_cache_source_enabled","value":"","xtype":"combo-boolean","namespace":"core","area":"phpthumb","editedon":null}',
+);

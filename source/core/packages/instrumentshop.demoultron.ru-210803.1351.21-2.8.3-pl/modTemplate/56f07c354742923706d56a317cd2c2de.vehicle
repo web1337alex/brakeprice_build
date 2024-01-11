@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'be33c350db953ed2bda4085528a1c1b2',
+  'package' => 'modx',
+  'class' => 'modTemplate',
+  'signature' => '56f07c354742923706d56a317cd2c2de',
+  'native_key' => 1,
+  'object' => '{"id":1,"source":0,"property_preprocess":0,"templatename":"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0439 \\u0448\\u0430\\u0431\\u043b\\u043e\\u043d","description":"Template","editor_type":0,"category":30,"icon":"","template_type":0,"content":"<!DOCTYPE html>\\n<html>\\n<head>\\n    [[$head]]\\n<\\/head>\\n<body class=\\"base-template id-[[*id]] parent-[[*parent]]\\">\\n\\n    [[$header]]\\n        <div class=\\"middle\\">\\n            <div class=\\"breadcrumbs-wrapper\\">\\n                [[$breadcrumbs]]\\n            <\\/div>\\n            <h1>[[*pagetitle]]<\\/h1>\\n            \\n            [[*img:notempty=`\\n            <div class=\\"article-img\\">\\n                <img src=\\"[[*img:phpthumbof=`&w=1170&h=460&zc=1&q=90`]]\\" alt=\\"[[*pagetitle:striptags:title]]\\" \\/>\\n            <\\/div>\\n            `]] \\n            <div class=\\"content\\">\\n                \\n                [[*content:notempty=`\\n                \\n                    [[*content]]\\n                \\n                \\n                    [[*parent:is=`8`:then=`\\n                    <div class=\\"share\\">\\n                        <script src=\\"\\/\\/yastatic.net\\/es5-shims\\/0.0.2\\/es5-shims.min.js\\"><\\/script>\\n                        <script src=\\"\\/\\/yastatic.net\\/share2\\/share.js\\"><\\/script>\\n                        <div class=\\"ya-share2\\" data-services=\\"vkontakte,facebook,odnoklassniki,gplus\\"><\\/div>\\n                    <\\/div>\\n                    <div class=\\"push30\\"><\\/div>\\n                    `]]\\n                \\n                `]]\\n                \\n                [[$gallery]]\\n            <\\/div>\\n        <\\/div>\\n    [[$footer]]\\n<\\/body>\\n<\\/html>","locked":0,"properties":"a:0:{}","static":0,"static_file":""}',
+);

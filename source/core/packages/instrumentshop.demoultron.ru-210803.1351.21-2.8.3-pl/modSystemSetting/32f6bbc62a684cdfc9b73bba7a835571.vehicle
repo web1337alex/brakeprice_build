@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '87662a92592c6dedb9ec9a480d754211',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '32f6bbc62a684cdfc9b73bba7a835571',
+  'native_key' => 'mail_encoding',
+  'object' => '{"key":"mail_encoding","value":"8bit","xtype":"textfield","namespace":"core","area":"mail","editedon":null}',
+);

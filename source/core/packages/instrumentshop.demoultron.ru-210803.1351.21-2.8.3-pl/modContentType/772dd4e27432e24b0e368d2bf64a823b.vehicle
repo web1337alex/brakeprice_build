@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e341179d39473abc54078e9ba865f779',
+  'package' => 'modx',
+  'class' => 'modContentType',
+  'signature' => '772dd4e27432e24b0e368d2bf64a823b',
+  'native_key' => 4,
+  'object' => '{"id":4,"name":"CSS","description":"CSS content","mime_type":"text\\/css","file_extensions":".css","headers":null,"binary":0}',
+);

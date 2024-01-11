@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8cf57206ee8ccfd6c77ef07879c52fd7',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '871c5387f27674f2feda7f516f1bba01',
+  'native_key' => 122,
+  'object' => '{"id":122,"source":1,"property_preprocess":0,"name":"tpl.ecForm.Success","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div class=\\"alert alert-success\\" role=\\"alert\\">\\n    [[%ec_fe_send_success]]\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/easycomm\\/elements\\/chunks\\/chunk.ec_form_success.tpl","content":"<div class=\\"alert alert-success\\" role=\\"alert\\">\\n    [[%ec_fe_send_success]]\\n<\\/div>"}',
+);

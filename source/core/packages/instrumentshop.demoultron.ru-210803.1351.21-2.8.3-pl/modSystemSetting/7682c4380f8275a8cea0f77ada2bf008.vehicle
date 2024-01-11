@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f0f7faa26ed05c6269cd4f14432db6e8',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '7682c4380f8275a8cea0f77ada2bf008',
+  'native_key' => 'ms2_add_icon_product',
+  'object' => '{"key":"ms2_add_icon_product","value":"icon icon-tag","xtype":"textfield","namespace":"minishop2","area":"ms2_category","editedon":null}',
+);

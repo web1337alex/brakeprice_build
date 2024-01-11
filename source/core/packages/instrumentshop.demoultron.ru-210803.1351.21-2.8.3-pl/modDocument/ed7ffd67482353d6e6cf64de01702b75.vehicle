@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e6eff80009f6f7fe13ecef365816bece',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => 'ed7ffd67482353d6e6cf64de01702b75',
+  'native_key' => 3,
+  'object' => '{"id":3,"type":"document","contentType":"text\\/html","pagetitle":"404.","longtitle":"","description":"","alias":"404","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":2,"isfolder":0,"introtext":"","content":"<p>\\u0417\\u0430\\u043f\\u0440\\u0430\\u0448\\u0438\\u0432\\u0430\\u0435\\u043c\\u0430\\u044f \\u0441\\u0442\\u0440\\u0430\\u043d\\u0438\\u0446\\u0430 \\u043d\\u0435 \\u043d\\u0430\\u0439\\u0434\\u0435\\u043d\\u0430.<\\/p>","richtext":1,"template":1,"menuindex":0,"searchable":1,"cacheable":1,"createdby":1,"createdon":1469215556,"editedby":0,"editedon":0,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1469215556,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"404","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

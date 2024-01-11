@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a3c4c145a592445863f3e1d4a7ea03ef',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => 'd277f5ed267841801b70efb81fcafbdf',
+  'native_key' => 86,
+  'object' => '{"id":86,"source":1,"property_preprocess":0,"name":"stripPhone","description":"","editor_type":0,"category":29,"cache_type":0,"snippet":"$string = $phone;\\n$string = preg_replace(\'~[^+0-9]+~\', \'\', $string);\\nreturn $string;","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"$string = $phone;\\n$string = preg_replace(\'~[^+0-9]+~\', \'\', $string);\\nreturn $string;"}',
+);

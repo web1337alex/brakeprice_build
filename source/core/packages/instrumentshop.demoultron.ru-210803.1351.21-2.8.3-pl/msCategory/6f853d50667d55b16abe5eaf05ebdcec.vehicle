@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e994d3be6fb452f29f7464e43eae5f8c',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => '6f853d50667d55b16abe5eaf05ebdcec',
+  'native_key' => 54,
+  'object' => '{"id":54,"type":"document","contentType":"text\\/html","pagetitle":"\\u0413\\u0430\\u0439\\u043a\\u043e\\u0432\\u0435\\u0440\\u0442\\u044b","longtitle":"\\u0410\\u043a\\u043a\\u0443\\u043c\\u0443\\u043b\\u044f\\u0442\\u043e\\u0440\\u043d\\u044b\\u0435 \\u0433\\u0430\\u0439\\u043a\\u043e\\u0432\\u0435\\u0440\\u0442\\u044b","description":"","alias":"akkumulyatornyie-gajkovertyi","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":128,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":3,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487606212,"editedby":1,"editedon":1511874011,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487606160,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"akkumulyatornyie-gajkovertyi\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd0d21dbed6cde8d93227ffdc727d0b13',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '8fe4d0fbec3ffea8363346fb783452eb',
+  'native_key' => 15,
+  'object' => '{"id":15,"template":1,"name":"database","description":"perm.database_desc","value":1}',
+);

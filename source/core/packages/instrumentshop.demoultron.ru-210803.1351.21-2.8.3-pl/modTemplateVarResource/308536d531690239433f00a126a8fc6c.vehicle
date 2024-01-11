@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '85a1024c50594b8d941aae693879ca4d',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '308536d531690239433f00a126a8fc6c',
+  'native_key' => 39,
+  'object' => '{"id":39,"tmplvarid":6,"contentid":45,"value":"images\\/catalog-categories\\/shashlichki.jpg"}',
+);

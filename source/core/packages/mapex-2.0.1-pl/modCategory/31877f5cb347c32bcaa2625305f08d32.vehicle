@@ -1,0 +1,140 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => 
+  array (
+    'Chunks' => 
+    array (
+      'c7752f901eb4f097b03137671355f401' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":1,"source":0,"property_preprocess":0,"name":"mapexMapTpl","description":"","editor_type":0,"category":1,"cache_type":0,"snippet":"<div id=\\"[[+mapId]]\\" [[+style]]><\\/div>\\n<script type=\\"text\\/javascript\\">\\n    ymaps.ready(function(){\\n        [[+mapId]] = new ymaps.Map(\\"[[+mapId]]\\", {\\n            center: [[+map.center]],\\n            zoom: [[+map.zoom]]\\n        });\\n        [[+mapId]].setType(\\"[[+map.type]]\\");\\n        var [[+mapId]]Controls = \\"[[+controls]]\\".split(\',\');\\n        for(var i = 0; i < [[+mapId]]Controls.length; i++){\\n            [[+mapId]].controls.add([[+mapId]]Controls[i]);\\n        }\\n        [[+placemarks]]\\n        [[+polylines]]\\n        [[+polygons]]\\n        [[+routes]]\\n    });\\n<\\/script>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div id=\\"[[+mapId]]\\" [[+style]]><\\/div>\\n<script type=\\"text\\/javascript\\">\\n    ymaps.ready(function(){\\n        [[+mapId]] = new ymaps.Map(\\"[[+mapId]]\\", {\\n            center: [[+map.center]],\\n            zoom: [[+map.zoom]]\\n        });\\n        [[+mapId]].setType(\\"[[+map.type]]\\");\\n        var [[+mapId]]Controls = \\"[[+controls]]\\".split(\',\');\\n        for(var i = 0; i < [[+mapId]]Controls.length; i++){\\n            [[+mapId]].controls.add([[+mapId]]Controls[i]);\\n        }\\n        [[+placemarks]]\\n        [[+polylines]]\\n        [[+polygons]]\\n        [[+routes]]\\n    });\\n<\\/script>"}',
+        'guid' => '6d9e267a92457388ce4a0f503a2bbd51',
+        'native_key' => 1,
+        'signature' => '918ffef0827da8000299ecb16d3c14d1',
+      ),
+      '85c60e9205b3b9dc4c839c3425e3c319' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":2,"source":0,"property_preprocess":0,"name":"mapexPlacemarkTpl","description":"","editor_type":0,"category":1,"cache_type":0,"snippet":"[[+mapId]].geoObjects.add(new ymaps.Placemark([[+coords]], [[+properties]], [[+options]]));\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"[[+mapId]].geoObjects.add(new ymaps.Placemark([[+coords]], [[+properties]], [[+options]]));\\n"}',
+        'guid' => '1f22a802278f25578ae6a6e44ff487a8',
+        'native_key' => 2,
+        'signature' => '8dfe91ee005b9db08beda94252bf971f',
+      ),
+      '6b93e8834d9acccb382213538351d361' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":4,"source":0,"property_preprocess":0,"name":"mapexPolygoneTpl","description":"","editor_type":0,"category":1,"cache_type":0,"snippet":"[[+mapId]].geoObjects.add(new ymaps.Polygon(\\n    [[+coords]],\\n    [[+properties]],\\n    [[+options]]\\n));\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"[[+mapId]].geoObjects.add(new ymaps.Polygon(\\n    [[+coords]],\\n    [[+properties]],\\n    [[+options]]\\n));\\n"}',
+        'guid' => '07b9336b0edc86349e82d92d57f7a157',
+        'native_key' => 4,
+        'signature' => 'ce95ec8e38dd025cae04f12ced6f9e3c',
+      ),
+      '27e77b9a24bde2fd4fbcfac6f69acf8e' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":3,"source":0,"property_preprocess":0,"name":"mapexPolylineTpl","description":"","editor_type":0,"category":1,"cache_type":0,"snippet":"[[+mapId]].geoObjects.add(new ymaps.Polyline([[+coords]], [[+properties]], [[+options]]));\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"[[+mapId]].geoObjects.add(new ymaps.Polyline([[+coords]], [[+properties]], [[+options]]));\\n"}',
+        'guid' => 'f9147596cea9e9cfbcfa2d06b5812a34',
+        'native_key' => 3,
+        'signature' => '08db890c64ed8cfe509e6ba76633b0f4',
+      ),
+      '178b57c5089008a40bf628a430f389d7' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":5,"source":0,"property_preprocess":0,"name":"mapexRouteTpl","description":"","editor_type":0,"category":1,"cache_type":0,"snippet":"ymaps.route(\\n    [[+coords]],\\n    {mapStateAutoApply: false}\\n    ).then(function (route) {\\n            [[+mapId]].geoObjects.add(route);\\n            var points = route.getWayPoints();  \\n            points.get(0).options.set(\'preset\', \'twirl#carIcon\');\\n            points.get(1).options.set(\'preset\', \'twirl#houseIcon\');\\n        },\\n        function (error) {\\n            alert(error.message);\\n        });\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"ymaps.route(\\n    [[+coords]],\\n    {mapStateAutoApply: false}\\n    ).then(function (route) {\\n            [[+mapId]].geoObjects.add(route);\\n            var points = route.getWayPoints();  \\n            points.get(0).options.set(\'preset\', \'twirl#carIcon\');\\n            points.get(1).options.set(\'preset\', \'twirl#houseIcon\');\\n        },\\n        function (error) {\\n            alert(error.message);\\n        });\\n"}',
+        'guid' => '9cc52fc37d5d568db013c027f1da45a1',
+        'native_key' => 5,
+        'signature' => '804371c8552168abe576e821cc3c373d',
+      ),
+    ),
+    'Snippets' => 
+    array (
+      'c6407267ffcb609fa9fe6fdf0c05e8fd' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":2,"source":1,"property_preprocess":0,"name":"mapexDrawMap","description":"","editor_type":0,"category":1,"cache_type":0,"snippet":"$map = $modx->getOption(\'map\', $scriptProperties, \'\');\\n$tpl = $modx->getOption(\'tpl\', $scriptProperties, \'mapexMapTpl\');\\nif($map == \'\' || $tpl == \'\'){\\n    return \'\';\\n}\\n$placemarkTpl = $modx->getOption(\'placemarkTpl\', $scriptProperties, \'mapexPlacemarkTpl\');\\n$polylineTpl = $modx->getOption(\'polylineTpl\', $scriptProperties, \'mapexPolylineTpl\');\\n$polygoneTpl = $modx->getOption(\'polygoneTpl\', $scriptProperties, \'mapexPolygoneTpl\');\\n$routeTpl = $modx->getOption(\'routeTpl\', $scriptProperties, \'mapexRouteTpl\');\\n\\n\\/\\/ can be: \\n\\/\\/ mapTools,typeSelector,zoomControl or smallZoomControl,scaleLine,miniMap,searchControl,trafficControl\\n$controls = $modx->getOption(\'controls\', $scriptProperties, \'mapTools\');\\n\\n$map = json_decode($map);\\n\\n$mapId = $modx->getOption(\'mapId\', $scriptProperties, \'mapexMap\');\\n$width = $modx->getOption(\'mapWidth\', $scriptProperties, \'500px\');\\n$height = $modx->getOption(\'mapHeight\', $scriptProperties, \'400px\');\\n\\n$includeJs = $modx->getOption(\'includeJs\', $scriptProperties, 1);\\nif($includeJs){\\n    $lang = $modx->getOption(\'lang\', $scriptProperties, \'ru-RU\');\\n    $modx->regClientStartupScript(\'http:\\/\\/api-maps.yandex.ru\\/2.0-stable\\/?load=package.full&lang=\'.$lang);\\n}\\n\\nif (!function_exists(\'mapex_prepare_coords\')) { \\n  function mapex_prepare_coords($coords) {\\n    return \'[\'.str_replace(\',\',\'.\',$coords[0]).\',\'.str_replace(\',\',\'.\',$coords[1]).\']\';\\n  } \\n} \\n\\n\\/\\/ Placemarks\\n$placemarks = \\"\\";\\nforeach($map->placemarks as $ob){\\n    $placemarks .= $modx->getChunk($placemarkTpl, array(\\n        \'mapId\' => $mapId,\\n        \'coords\' => mapex_prepare_coords($ob->coords),\\n        \'properties\' => json_encode(array(\\n            \'iconContent\' => $ob->params->iconContent,\\n            \'balloonContentBody\' => $ob->params->balloonContentBody,\\n            \'balloonContentHeader\' => $ob->params->balloonContentHeader,\\n        )),\\n        \'options\' => json_encode(array(\\n            \'preset\' => \'twirl#\'.$ob->params->color.(empty($ob->params->iconContent) ? \'DotIcon\' : \'StretchyIcon\'),\\n        )),\\n    ));\\n}\\n\\/\\/ colors for lines and polygons \\n$colors = array(\\n      \'blue\' => \'#006cff\',\\n      \'lightblue\' => \'#66c7ff\',\\n      \'night\' => \'#004056\',\\n      \'darkblue\' => \'#00339a\',\\n      \'green\' => \'#33cc00\',\\n      \'white\' => \'#ffffff\',\\n      \'red\' => \'#ff0000\',\\n      \'orange\' => \'#ffb400\',\\n      \'darkorange\' => \'#ff6600\',\\n      \'yellow\' => \'#ffea00\',\\n      \'violet\' => \'#b832fd\',\\n      \'pink\' => \'#fd32fb\'\\n    );\\n\\n\\/\\/ Lines\\n$polylines = \\"\\";\\nforeach($map->lines as $ob){\\n    $coords = array();\\n    foreach($ob->coords as $c){\\n        $coords[] = mapex_prepare_coords($c);\\n    }\\n    $polylines .= $modx->getChunk($polylineTpl, array(\\n        \'mapId\' => $mapId,\\n        \'coords\' => \'[ \'.implode(\', \', $coords).\' ]\',\\n        \'properties\' => json_encode(array(\\n            \'balloonContent\' => $ob->params->balloonContent,\\n        )),\\n        \'options\' => json_encode(array(\\n            \'strokeWidth\' => $ob->params->strokeWidth,\\n            \'strokeColor\' => array_key_exists($ob->params->strokeColor,$colors) ? $colors[$ob->params->strokeColor] : $ob->params->strokeColor,\\n            \'opacity\' => $ob->params->opacity,\\n        )),\\n    ));\\n}\\n\\/\\/ Polygons\\n$polygons = \\"\\";\\nforeach($map->polygons as $ob){\\n    $coords = array();\\n    foreach($ob->coords as $c){\\n        $coords2 = array();\\n        foreach($c as $c2){\\n            $coords2[] = mapex_prepare_coords($c2);\\n        }\\n        $coords[] = \'[ \'.implode(\', \', $coords2).\' ]\';\\n    }\\n\\n    $polygons .= $modx->getChunk($polygoneTpl, array(\\n        \'mapId\' => $mapId,\\n        \'coords\' => \'[ \'.implode(\', \', $coords).\' ]\',\\n        \'properties\' => json_encode(array(\\n            \'balloonContent\' => $ob->params->balloonContent,\\n        )),\\n        \'options\' => json_encode(array(\\n            \'strokeWidth\' => $ob->params->strokeWidth,\\n            \'strokeColor\' => array_key_exists($ob->params->strokeColor,$colors) ? $colors[$ob->params->strokeColor] : $ob->params->strokeColor,\\n            \'fillColor\' => $colors[$ob->params->fillColor],\\n            \'opacity\' => $ob->params->opacity,\\n        )),\\n    ));\\n}\\n\\/\\/ Routes\\n$routes = \\"\\";\\nif(count($map->routes) > 0){\\n    $coords = array();\\n    foreach($map->routes as $r){\\n        $coords[] = mapex_prepare_coords($r);\\n    }\\n    $routes .= $modx->getChunk($routeTpl, array(\\n            \'coords\' => \'[ \'.implode(\', \', $coords).\' ]\',\\n        ));\\n}\\n\\n$style = \'\';\\nif($width != \'\' && $height != \'\'){\\n    $style = \'style=\\"width:\'.$width.\';height:\'.$height.\';\\"\';\\n}\\n\\/\\/ Map\\nreturn $modx->getChunk($tpl, array(\\n        \'style\' => $style,\\n        \'mapId\' => $mapId,\\n        \'map\' => array(\\n                \'center\' => mapex_prepare_coords($map->coords->center),\\n                \'zoom\' => $map->coords->zoom,\\n                \'type\' => $map->type,\\n            ),\\n        \'controls\' => $controls,\\n        \'placemarks\' => $placemarks,\\n        \'polylines\' => $polylines,\\n        \'polygons\' => $polygons,\\n        \'routes\' => $routes,\\n    ));","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"$map = $modx->getOption(\'map\', $scriptProperties, \'\');\\n$tpl = $modx->getOption(\'tpl\', $scriptProperties, \'mapexMapTpl\');\\nif($map == \'\' || $tpl == \'\'){\\n    return \'\';\\n}\\n$placemarkTpl = $modx->getOption(\'placemarkTpl\', $scriptProperties, \'mapexPlacemarkTpl\');\\n$polylineTpl = $modx->getOption(\'polylineTpl\', $scriptProperties, \'mapexPolylineTpl\');\\n$polygoneTpl = $modx->getOption(\'polygoneTpl\', $scriptProperties, \'mapexPolygoneTpl\');\\n$routeTpl = $modx->getOption(\'routeTpl\', $scriptProperties, \'mapexRouteTpl\');\\n\\n\\/\\/ can be: \\n\\/\\/ mapTools,typeSelector,zoomControl or smallZoomControl,scaleLine,miniMap,searchControl,trafficControl\\n$controls = $modx->getOption(\'controls\', $scriptProperties, \'mapTools\');\\n\\n$map = json_decode($map);\\n\\n$mapId = $modx->getOption(\'mapId\', $scriptProperties, \'mapexMap\');\\n$width = $modx->getOption(\'mapWidth\', $scriptProperties, \'500px\');\\n$height = $modx->getOption(\'mapHeight\', $scriptProperties, \'400px\');\\n\\n$includeJs = $modx->getOption(\'includeJs\', $scriptProperties, 1);\\nif($includeJs){\\n    $lang = $modx->getOption(\'lang\', $scriptProperties, \'ru-RU\');\\n    $modx->regClientStartupScript(\'http:\\/\\/api-maps.yandex.ru\\/2.0-stable\\/?load=package.full&lang=\'.$lang);\\n}\\n\\nif (!function_exists(\'mapex_prepare_coords\')) { \\n  function mapex_prepare_coords($coords) {\\n    return \'[\'.str_replace(\',\',\'.\',$coords[0]).\',\'.str_replace(\',\',\'.\',$coords[1]).\']\';\\n  } \\n} \\n\\n\\/\\/ Placemarks\\n$placemarks = \\"\\";\\nforeach($map->placemarks as $ob){\\n    $placemarks .= $modx->getChunk($placemarkTpl, array(\\n        \'mapId\' => $mapId,\\n        \'coords\' => mapex_prepare_coords($ob->coords),\\n        \'properties\' => json_encode(array(\\n            \'iconContent\' => $ob->params->iconContent,\\n            \'balloonContentBody\' => $ob->params->balloonContentBody,\\n            \'balloonContentHeader\' => $ob->params->balloonContentHeader,\\n        )),\\n        \'options\' => json_encode(array(\\n            \'preset\' => \'twirl#\'.$ob->params->color.(empty($ob->params->iconContent) ? \'DotIcon\' : \'StretchyIcon\'),\\n        )),\\n    ));\\n}\\n\\/\\/ colors for lines and polygons \\n$colors = array(\\n      \'blue\' => \'#006cff\',\\n      \'lightblue\' => \'#66c7ff\',\\n      \'night\' => \'#004056\',\\n      \'darkblue\' => \'#00339a\',\\n      \'green\' => \'#33cc00\',\\n      \'white\' => \'#ffffff\',\\n      \'red\' => \'#ff0000\',\\n      \'orange\' => \'#ffb400\',\\n      \'darkorange\' => \'#ff6600\',\\n      \'yellow\' => \'#ffea00\',\\n      \'violet\' => \'#b832fd\',\\n      \'pink\' => \'#fd32fb\'\\n    );\\n\\n\\/\\/ Lines\\n$polylines = \\"\\";\\nforeach($map->lines as $ob){\\n    $coords = array();\\n    foreach($ob->coords as $c){\\n        $coords[] = mapex_prepare_coords($c);\\n    }\\n    $polylines .= $modx->getChunk($polylineTpl, array(\\n        \'mapId\' => $mapId,\\n        \'coords\' => \'[ \'.implode(\', \', $coords).\' ]\',\\n        \'properties\' => json_encode(array(\\n            \'balloonContent\' => $ob->params->balloonContent,\\n        )),\\n        \'options\' => json_encode(array(\\n            \'strokeWidth\' => $ob->params->strokeWidth,\\n            \'strokeColor\' => array_key_exists($ob->params->strokeColor,$colors) ? $colors[$ob->params->strokeColor] : $ob->params->strokeColor,\\n            \'opacity\' => $ob->params->opacity,\\n        )),\\n    ));\\n}\\n\\/\\/ Polygons\\n$polygons = \\"\\";\\nforeach($map->polygons as $ob){\\n    $coords = array();\\n    foreach($ob->coords as $c){\\n        $coords2 = array();\\n        foreach($c as $c2){\\n            $coords2[] = mapex_prepare_coords($c2);\\n        }\\n        $coords[] = \'[ \'.implode(\', \', $coords2).\' ]\';\\n    }\\n\\n    $polygons .= $modx->getChunk($polygoneTpl, array(\\n        \'mapId\' => $mapId,\\n        \'coords\' => \'[ \'.implode(\', \', $coords).\' ]\',\\n        \'properties\' => json_encode(array(\\n            \'balloonContent\' => $ob->params->balloonContent,\\n        )),\\n        \'options\' => json_encode(array(\\n            \'strokeWidth\' => $ob->params->strokeWidth,\\n            \'strokeColor\' => array_key_exists($ob->params->strokeColor,$colors) ? $colors[$ob->params->strokeColor] : $ob->params->strokeColor,\\n            \'fillColor\' => $colors[$ob->params->fillColor],\\n            \'opacity\' => $ob->params->opacity,\\n        )),\\n    ));\\n}\\n\\/\\/ Routes\\n$routes = \\"\\";\\nif(count($map->routes) > 0){\\n    $coords = array();\\n    foreach($map->routes as $r){\\n        $coords[] = mapex_prepare_coords($r);\\n    }\\n    $routes .= $modx->getChunk($routeTpl, array(\\n            \'coords\' => \'[ \'.implode(\', \', $coords).\' ]\',\\n        ));\\n}\\n\\n$style = \'\';\\nif($width != \'\' && $height != \'\'){\\n    $style = \'style=\\"width:\'.$width.\';height:\'.$height.\';\\"\';\\n}\\n\\/\\/ Map\\nreturn $modx->getChunk($tpl, array(\\n        \'style\' => $style,\\n        \'mapId\' => $mapId,\\n        \'map\' => array(\\n                \'center\' => mapex_prepare_coords($map->coords->center),\\n                \'zoom\' => $map->coords->zoom,\\n                \'type\' => $map->type,\\n            ),\\n        \'controls\' => $controls,\\n        \'placemarks\' => $placemarks,\\n        \'polylines\' => $polylines,\\n        \'polygons\' => $polygons,\\n        \'routes\' => $routes,\\n    ));"}',
+        'guid' => '02c54c015645f158c3a400598a00fdab',
+        'native_key' => 2,
+        'signature' => 'd758c519a70703e86ec28f70f61ceb95',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Chunks' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'TemplateVars' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'Templates' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'templatename',
+    ),
+    'Snippets' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+  ),
+  'namespace' => 'mapex',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"mapex-2.0.1-pl\\/modCategory\\/31877f5cb347c32bcaa2625305f08d32\\/0\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"mapex"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"mapex-2.0.1-pl\\/modCategory\\/31877f5cb347c32bcaa2625305f08d32\\/1\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"mapex"}',
+    ),
+    2 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"mapex-2.0.1-pl\\/modCategory\\/31877f5cb347c32bcaa2625305f08d32\\/2\\/","target":"return \\"\\".MODX_CORE_PATH.\\"components\\/\\";","name":"mapex"}',
+    ),
+    3 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"mapex-2.0.1-pl\\/modCategory\\/31877f5cb347c32bcaa2625305f08d32\\/3\\/","target":"return \\"\\".MODX_ASSETS_PATH.\\"components\\/\\";","name":"mapex"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8d57739ba56baa1490f1bf009858e1ef',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '31877f5cb347c32bcaa2625305f08d32',
+  'native_key' => 1,
+  'object' => '{"id":1,"parent":0,"category":"Mapex"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5d310704b78d054248c928776380cb7d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '6e452d220ca9ada0e273dacb789f7e36',
+  'native_key' => 'tiny.remove_redundant_brs',
+  'object' => '{"key":"tiny.remove_redundant_brs","value":"1","xtype":"combo-boolean","namespace":"tinymce","area":"cleanup-output","editedon":null}',
+);

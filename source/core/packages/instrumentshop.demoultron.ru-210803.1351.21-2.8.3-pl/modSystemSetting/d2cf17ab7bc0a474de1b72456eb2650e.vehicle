@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '696392acc3f93025229a5d97943cf930',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd2cf17ab7bc0a474de1b72456eb2650e',
+  'native_key' => 'settings_version',
+  'object' => '{"key":"settings_version","value":"2.8.3-pl","xtype":"textfield","namespace":"core","area":"system","editedon":"2021-08-03 12:33:44"}',
+);

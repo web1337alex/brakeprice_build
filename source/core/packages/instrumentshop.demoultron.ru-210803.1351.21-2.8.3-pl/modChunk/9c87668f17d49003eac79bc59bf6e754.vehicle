@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'dec615ec471a9c63a80c3c23c258b067',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '9c87668f17d49003eac79bc59bf6e754',
+  'native_key' => 92,
+  'object' => '{"id":92,"source":0,"property_preprocess":0,"name":"fiDefaultEmailTpl","description":"The default chunk used for the email. Please do not edit this chunk, as this will be overwritten when updating FormIt.","editor_type":0,"category":11,"cache_type":0,"snippet":"<p>[[+fields]]<\\/p>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<p>[[+fields]]<\\/p>"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '75f84bec98a3dc8041613cd61a08ec81',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => 'df1ae5ba58d6c5b8d7e0868aa5fcfdfc',
+  'native_key' => 40,
+  'object' => '{"id":40,"tmplvarid":6,"contentid":46,"value":"images\\/catalog-categories\\/pizza.jpg"}',
+);

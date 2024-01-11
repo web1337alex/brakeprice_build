@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5f6c0776a7baa3c4e5a9e567318be332',
+  'package' => 'modx.transport',
+  'class' => 'modTransportProvider',
+  'signature' => '3140b7b9c6112695c87a71d7a9492082',
+  'native_key' => 2,
+  'object' => '{"id":2,"name":"modstore.pro","description":"Repository of modstore.pro","service_url":"http:\\/\\/modstore.pro\\/extras\\/","username":"","api_key":"","created":"2016-11-11 14:02:32","updated":null,"active":1,"priority":10,"properties":""}',
+);

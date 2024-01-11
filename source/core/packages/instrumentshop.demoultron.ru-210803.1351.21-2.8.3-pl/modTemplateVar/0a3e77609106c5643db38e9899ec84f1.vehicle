@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '580c772316da2ce0355fc4064df24f85',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '0a3e77609106c5643db38e9899ec84f1',
+  'native_key' => 4,
+  'object' => '{"id":4,"source":1,"property_preprocess":0,"type":"textarea","name":"textareaFM","caption":"","description":"","editor_type":0,"category":3,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:1:{s:10:\\"allowBlank\\";s:4:\\"true\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

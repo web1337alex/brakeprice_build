@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f3e602b5442987835c12790586800d09',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '616290283bc5857d495c27966d5e95cc',
+  'native_key' => 'stercseo.priority',
+  'object' => '{"key":"stercseo.priority","value":"0.5","xtype":"textfield","namespace":"stercseo","area":"general","editedon":null}',
+);

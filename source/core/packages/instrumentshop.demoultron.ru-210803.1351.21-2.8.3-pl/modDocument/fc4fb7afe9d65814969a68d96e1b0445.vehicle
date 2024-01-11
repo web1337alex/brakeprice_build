@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '149418ba25930b5aba92134a4b2e9a8a',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => 'fc4fb7afe9d65814969a68d96e1b0445',
+  'native_key' => 8,
+  'object' => '{"id":8,"type":"document","contentType":"text\\/html","pagetitle":"\\u041d\\u043e\\u0432\\u043e\\u0441\\u0442\\u0438 \\u0438 \\u0430\\u043a\\u0446\\u0438\\u0438","longtitle":"","description":"","alias":"novosti","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":1,"introtext":"","content":"<div class=\\"news\\" id=\\"pdopage\\">\\r\\n    <div class=\\"row rows\\" style=\\"overflow: hidden;\\">\\r\\n        [[!pdoPage?\\r\\n            &tpl=`newsElement`\\r\\n            &includeTVs=`img`\\r\\n            &includeContent=`1`\\r\\n            &pageLimit=`7`\\r\\n            &limit=`12`\\r\\n            &ajaxMode=`default`\\r\\n            &pageVarKey=`newslistpage`\\r\\n            &tplPageLast=`@INLINE `\\r\\n            &tplPageLastEmpty=`@INLINE `\\r\\n            &tplPageFirst=`@INLINE `\\r\\n            &tplPageFirstEmpty=`@INLINE `\\r\\n        ]]\\r\\n    <\\/div>\\r\\n    [[!+page.nav]]\\r\\n<\\/div>","richtext":0,"template":1,"menuindex":6,"searchable":1,"cacheable":1,"createdby":1,"createdon":1478866997,"editedby":1,"editedon":1512207717,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1478866980,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"novosti\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":null}}"}',
+);

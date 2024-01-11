@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6d347507c68887aed28e0d21b574564c',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '134d296d1a37482b4d912d9d8a8e8175',
+  'native_key' => 'seopro.allowbranding',
+  'object' => '{"key":"seopro.allowbranding","value":"1","xtype":"combo-boolean","namespace":"seopro","area":"general","editedon":null}',
+);

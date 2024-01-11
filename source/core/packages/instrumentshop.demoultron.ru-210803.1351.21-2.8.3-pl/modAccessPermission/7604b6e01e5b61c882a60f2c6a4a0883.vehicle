@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '043c38f6a3a00b607e4a309be4b2642c',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '7604b6e01e5b61c882a60f2c6a4a0883',
+  'native_key' => 233,
+  'object' => '{"id":233,"template":1,"name":"formit","description":"To view the formit package.","value":1}',
+);

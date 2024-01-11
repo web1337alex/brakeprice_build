@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'aef44d96417a72cbe101aabbb40de559',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '195cc7dc774e27abcc808d6cc01f9ba0',
+  'native_key' => 4,
+  'object' => '{"id":4,"type":"document","contentType":"text\\/xml","pagetitle":"sitemap","longtitle":"","description":"","alias":"sitemap","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":2,"isfolder":0,"introtext":"","content":"[[StercSeoSiteMap?]]","richtext":0,"template":0,"menuindex":1,"searchable":1,"cacheable":1,"createdby":1,"createdon":1469215608,"editedby":1,"editedon":1607757143,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1469215560,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":2,"uri":"sitemap.xml","uri_override":1,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":null,\\"priority\\":null,\\"changefreq\\":null,\\"urls\\":null}}"}',
+);

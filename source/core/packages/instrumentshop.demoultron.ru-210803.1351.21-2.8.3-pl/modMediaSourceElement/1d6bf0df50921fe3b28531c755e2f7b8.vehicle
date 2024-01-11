@@ -1,0 +1,18 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '266b41af540ff825bf744fb6ee686bd3',
+  'package' => 'modx.sources',
+  'class' => 'modMediaSourceElement',
+  'signature' => '1d6bf0df50921fe3b28531c755e2f7b8',
+  'native_key' => 
+  array (
+    0 => 1,
+    1 => 1,
+    2 => 'modTemplateVar',
+    3 => 'web',
+  ),
+  'object' => '{"source":1,"object_class":"modTemplateVar","object":1,"context_key":"web"}',
+);

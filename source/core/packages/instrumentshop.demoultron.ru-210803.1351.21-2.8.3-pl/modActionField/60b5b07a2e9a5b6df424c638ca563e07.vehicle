@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd94eee2c0f34f0593a1e1a75276a6892',
+  'package' => 'modx',
+  'class' => 'modActionField',
+  'signature' => '60b5b07a2e9a5b6df424c638ca563e07',
+  'native_key' => 805,
+  'object' => '{"id":805,"action":"resource\\/update","name":"syncsite","type":"field","tab":"modx-page-settings-right-box-right","form":"modx-panel-resource","other":"","rank":1}',
+);

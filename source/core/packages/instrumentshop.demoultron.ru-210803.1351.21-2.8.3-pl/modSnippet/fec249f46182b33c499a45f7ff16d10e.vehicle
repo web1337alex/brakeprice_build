@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c85bb1507cd7dc814672876d8ee1ce08',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => 'fec249f46182b33c499a45f7ff16d10e',
+  'native_key' => 104,
+  'object' => '{"id":104,"source":1,"property_preprocess":0,"name":"title","description":"","editor_type":0,"category":29,"cache_type":0,"snippet":"$str = preg_replace (\\"#([^=])\\\\\\"([^\\\\\\"]+)\\\\\\"#\\", \\"\\\\\\\\1\\u00ab\\\\\\\\2\\u00bb\\", $input);\\r\\nreturn str_replace(\'&\', \'\', $str);","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"$str = preg_replace (\\"#([^=])\\\\\\"([^\\\\\\"]+)\\\\\\"#\\", \\"\\\\\\\\1\\u00ab\\\\\\\\2\\u00bb\\", $input);\\r\\nreturn str_replace(\'&\', \'\', $str);"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '763c0faf30f3897c668752665014dda4',
+  'package' => 'modx',
+  'class' => 'modLexiconEntry',
+  'signature' => '026c5ba206e85237757c5989ff6a3091',
+  'native_key' => 3,
+  'object' => '{"id":3,"name":"ms2_frontend_room","value":"\\u041a\\u0432\\u0430\\u0440\\u0442\\u0438\\u0440\\u0430","topic":"default","namespace":"minishop2","language":"ru","createdon":"2017-02-26 15:04:08","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e6c97529debfc9a509a2bc8616ecdb3d',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'a49e5a74439519be31b062d4b8b23b36',
+  'native_key' => 95,
+  'object' => '{"id":95,"source":0,"property_preprocess":0,"name":"fiDefaultOptionTpl","description":"The default chunk used by the FormItCountryOptions snippet for the select option. Please do not edit this chunk, as this will be overwritten when updating FormIt.","editor_type":0,"category":11,"cache_type":0,"snippet":"<option value=\\"[[+value]]\\"[[+selected]]>[[+text]]<\\/option>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<option value=\\"[[+value]]\\"[[+selected]]>[[+text]]<\\/option>"}',
+);

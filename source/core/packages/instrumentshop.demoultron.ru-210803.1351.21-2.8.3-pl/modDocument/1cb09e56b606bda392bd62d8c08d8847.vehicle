@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4f6e9b24b17ceef5668b238cca6ccc05',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '1cb09e56b606bda392bd62d8c08d8847',
+  'native_key' => 38,
+  'object' => '{"id":38,"type":"document","contentType":"text\\/html","pagetitle":"\\u041a\\u043e\\u0440\\u0437\\u0438\\u043d\\u0430","longtitle":"","description":"","alias":"korzina","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":2,"isfolder":0,"introtext":"","content":"[[!msCart?&tpl=`tpl.msCart.custom`]]","richtext":0,"template":1,"menuindex":4,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487604067,"editedby":1,"editedon":1534412995,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487604060,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"korzina","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":null}}"}',
+);

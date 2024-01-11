@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6ba31974ca40fb54694777785b4e0dca',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '5c68cdecd831c8f1296fc2f39c433356',
+  'native_key' => 'stercseo.xmlsitemap.dependent_ultimateparent',
+  'object' => '{"key":"stercseo.xmlsitemap.dependent_ultimateparent","value":"0","xtype":"combo-boolean","namespace":"stercseo","area":"XML Sitemap","editedon":null}',
+);

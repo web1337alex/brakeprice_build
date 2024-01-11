@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'eb74eba3ff19a607123bb4bbfafb21b4',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '601d3482a66f6a564840ef4ca5e6844f',
+  'native_key' => 'msOnGetProductFields',
+  'object' => '{"name":"msOnGetProductFields","service":6,"groupname":"miniShop2"}',
+);

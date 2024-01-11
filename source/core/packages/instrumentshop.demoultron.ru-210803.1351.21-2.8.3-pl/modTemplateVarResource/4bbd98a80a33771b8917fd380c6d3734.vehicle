@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7c351b4e87851701a48b446800278164',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '4bbd98a80a33771b8917fd380c6d3734',
+  'native_key' => 42,
+  'object' => '{"id":42,"tmplvarid":6,"contentid":48,"value":"images\\/catalog-categories\\/business.jpg"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1e167b07ebf95e06834e0c2c259999c1',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '738046ff32c830f8ab3489c08d8e6e25',
+  'native_key' => 226,
+  'object' => '{"id":226,"template":8,"name":"mssetting_view","description":"mssetting_view","value":1}',
+);

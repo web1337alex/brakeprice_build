@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3adfa5288d95a3bfcc50d708c5de2bc1',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd7a7ddfca0d646a102fc1873d8a70e9c',
+  'native_key' => 'ms2_payment_paypal_api_url',
+  'object' => '{"key":"ms2_payment_paypal_api_url","value":"https:\\/\\/api-3t.paypal.com\\/nvp","xtype":"textfield","namespace":"minishop2","area":"ms2_payment","editedon":null}',
+);

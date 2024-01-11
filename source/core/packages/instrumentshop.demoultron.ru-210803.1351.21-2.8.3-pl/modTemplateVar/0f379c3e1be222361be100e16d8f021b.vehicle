@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '90b0686783d66f16e64c7e777511a21f',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '0f379c3e1be222361be100e16d8f021b',
+  'native_key' => 18,
+  'object' => '{"id":18,"source":1,"property_preprocess":0,"type":"mapex.yandex","name":"mapex_yandex","caption":"\\u041e\\u0442\\u043c\\u0435\\u0442\\u0438\\u0442\\u044c \\u043d\\u0430 \\u042f\\u043d\\u0434\\u0435\\u043a\\u0441 \\u043a\\u0430\\u0440\\u0442\\u0435","description":"","editor_type":0,"category":24,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:0:{}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

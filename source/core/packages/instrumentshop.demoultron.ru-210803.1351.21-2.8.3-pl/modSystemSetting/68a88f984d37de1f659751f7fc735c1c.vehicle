@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5faec4d8581f87edff2a48ce7e9b6839',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '68a88f984d37de1f659751f7fc735c1c',
+  'native_key' => 'formit.max_chars_textfield',
+  'object' => '{"key":"formit.max_chars_textfield","value":"125","xtype":"textfield","namespace":"formit","area":"formit","editedon":null}',
+);

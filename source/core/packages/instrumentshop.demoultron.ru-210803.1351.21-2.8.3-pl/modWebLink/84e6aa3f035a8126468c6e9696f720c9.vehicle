@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3823f7622f37faa9373147608015e5fb',
+  'package' => 'modx',
+  'class' => 'modWebLink',
+  'signature' => '84e6aa3f035a8126468c6e9696f720c9',
+  'native_key' => 118,
+  'object' => '{"id":118,"type":"document","contentType":"text\\/html","pagetitle":"\\u041c\\u0430\\u0433\\u0430\\u0437\\u0438\\u043d","longtitle":"","description":"","alias":"catalog","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":0,"introtext":"","content":"33","richtext":1,"template":1,"menuindex":1,"searchable":1,"cacheable":1,"createdby":1,"createdon":1489505003,"editedby":1,"editedon":1489505010,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1489504980,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modWebLink","context_key":"web","content_type":1,"uri":"catalog","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":null},\\"core\\":{\\"responseCode\\":\\"HTTP\\\\\\/1.1 301 Moved Permanently\\"}}"}',
+);

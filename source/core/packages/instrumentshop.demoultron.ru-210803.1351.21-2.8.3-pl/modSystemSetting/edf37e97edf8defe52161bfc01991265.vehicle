@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6ab4f558e37baeb56934a3645625ea6f',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'edf37e97edf8defe52161bfc01991265',
+  'native_key' => 'ugm_pl_only',
+  'object' => '{"key":"ugm_pl_only","value":"1","xtype":"combo-boolean","namespace":"upgrademodx","area":"Form","editedon":null}',
+);

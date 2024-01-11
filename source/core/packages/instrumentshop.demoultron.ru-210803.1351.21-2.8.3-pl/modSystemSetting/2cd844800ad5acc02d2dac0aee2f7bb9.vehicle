@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e8b8ca42186d6dc3c287cb86bead265d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '2cd844800ad5acc02d2dac0aee2f7bb9',
+  'native_key' => 'ugm_language',
+  'object' => '{"key":"ugm_language","value":"en","xtype":"textfield","namespace":"upgrademodx","area":"Form","editedon":null}',
+);

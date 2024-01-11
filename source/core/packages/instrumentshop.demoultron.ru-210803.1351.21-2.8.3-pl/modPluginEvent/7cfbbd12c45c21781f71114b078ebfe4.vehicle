@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1ecd12fdaaa0e853c3ad299b13b6cbd9',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '7cfbbd12c45c21781f71114b078ebfe4',
+  'native_key' => 
+  array (
+    0 => 13,
+    1 => 'OnFileManagerUpload',
+  ),
+  'object' => '{"pluginid":13,"event":"OnFileManagerUpload","priority":0,"propertyset":0}',
+);

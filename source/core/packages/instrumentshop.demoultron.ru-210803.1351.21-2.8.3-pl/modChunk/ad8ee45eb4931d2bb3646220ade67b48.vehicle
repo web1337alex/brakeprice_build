@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0636d507395bb1e7b6e96a539ceb726c',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'ad8ee45eb4931d2bb3646220ade67b48',
+  'native_key' => 104,
+  'object' => '{"id":104,"source":1,"property_preprocess":0,"name":"tpl.mFilter2.filter.select","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\">\\n\\t<h4 class=\\"filter_title\\">[[%mse2_filter_[[+table]]_[[+filter]]]]<\\/h4>\\n\\t<select name=\\"[[+filter_key]]\\" id=\\"[[+table]][[+delimeter]][[+filter]]_0\\">\\n\\t\\t<option value=\\"\\" selected>[[%mse2_select]]<\\/option>\\n\\t\\t[[+rows]]\\n\\t<\\/select>\\n<\\/fieldset>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/msearch2\\/elements\\/chunks\\/chunk.mfilter2.filter.select.tpl","content":"<fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\">\\n\\t<h4 class=\\"filter_title\\">[[%mse2_filter_[[+table]]_[[+filter]]]]<\\/h4>\\n\\t<select name=\\"[[+filter_key]]\\" id=\\"[[+table]][[+delimeter]][[+filter]]_0\\">\\n\\t\\t<option value=\\"\\" selected>[[%mse2_select]]<\\/option>\\n\\t\\t[[+rows]]\\n\\t<\\/select>\\n<\\/fieldset>"}',
+);

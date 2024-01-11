@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'dc8f718ffbd481400ce5c07ed007f669',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '751b0f39f113e7124107f8c8553b6e05',
+  'native_key' => 7,
+  'object' => '{"id":7,"source":1,"property_preprocess":0,"type":"migx","name":"gallery","caption":"\\u0413\\u0430\\u043b\\u0435\\u0440\\u0435\\u044f","description":"","editor_type":0,"category":7,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:7:{s:7:\\"configs\\";s:0:\\"\\";s:8:\\"formtabs\\";s:178:\\"[{\\"caption\\":\\"\\u0413\\u0430\\u043b\\u0435\\u0440\\u0435\\u044f\\", \\"fields\\": [\\n{\\"field\\":\\"picture\\",\\"caption\\":\\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\\",\\"inputTV\\":\\"pictureFM\\"},\\n{\\"field\\":\\"picture-text\\",\\"caption\\":\\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435\\"}\\n]\\n}]\\";s:7:\\"columns\\";s:158:\\"[\\n{\\"header\\": \\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\\", \\"dataIndex\\": \\"picture\\",\\"renderer\\": \\"this.renderImage\\"},\\n{\\"header\\": \\"\\u0417\\u0430\\u0433\\u043e\\u043b\\u043e\\u0432\\u043e\\u043a\\", \\"dataIndex\\": \\"picture-text\\"}\\n]\\";s:7:\\"btntext\\";s:0:\\"\\";s:10:\\"previewurl\\";s:0:\\"\\";s:10:\\"jsonvarkey\\";s:0:\\"\\";s:19:\\"autoResourceFolders\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

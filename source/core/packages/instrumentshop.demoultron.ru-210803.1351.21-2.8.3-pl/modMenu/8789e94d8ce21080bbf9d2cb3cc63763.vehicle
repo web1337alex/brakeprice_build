@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7b79d5c125e777e9c9ed2f7b4695cf87',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '8789e94d8ce21080bbf9d2cb3cc63763',
+  'native_key' => 'remove_locks',
+  'object' => '{"text":"remove_locks","parent":"manage","action":"","description":"remove_locks_desc","icon":"","menuindex":2,"params":"","handler":"MODx.removeLocks();return false;","permissions":"remove_locks","namespace":"core"}',
+);

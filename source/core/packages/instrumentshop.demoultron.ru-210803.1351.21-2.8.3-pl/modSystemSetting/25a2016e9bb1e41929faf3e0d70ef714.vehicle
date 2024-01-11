@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ad9e88851514bf2ef1d9ba87588855df',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '25a2016e9bb1e41929faf3e0d70ef714',
+  'native_key' => 'ugm_cert_path',
+  'object' => '{"key":"ugm_cert_path","value":"","xtype":"textfield","namespace":"upgrademodx","area":"GitHub","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0a577a542385183c2b92817a4fe2ee38',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => 'c118e4f67768fd049134ac72cc467578',
+  'native_key' => 52,
+  'object' => '{"id":52,"tmplvarid":6,"contentid":62,"value":"images\\/catalog-categories\\/gunkan.png"}',
+);

@@ -1,0 +1,15 @@
+<?php return array (
+  'class' => 'xPDOFileVehicle',
+  'object' => 
+  array (
+    'source' => 'instrumentshop.demoultron.ru-210803.1351.21-2.8.3-pl/xPDOFileVehicle/c018f4ebbfb40e1eee427faa1a95723d/',
+    'target' => 'return MODX_CORE_PATH;',
+    'name' => 'components',
+  ),
+  'vehicle_class' => 'xPDOFileVehicle',
+  'vehicle_package' => 'transport',
+  'guid' => 'fd77c47660c64d1b40d5f898a8235d1b',
+  'package' => '',
+  'signature' => 'c018f4ebbfb40e1eee427faa1a95723d',
+  'native_key' => 'fd77c47660c64d1b40d5f898a8235d1b',
+);

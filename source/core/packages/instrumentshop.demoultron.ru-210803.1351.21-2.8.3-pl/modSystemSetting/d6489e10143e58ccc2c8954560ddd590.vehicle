@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0a9cf6864e46c402e7658ec3517202e0',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd6489e10143e58ccc2c8954560ddd590',
+  'native_key' => 'ugm_last_check',
+  'object' => '{"key":"ugm_last_check","value":"2021-08-03 13:41:54","xtype":"textfield","namespace":"upgrademodx","area":"Widget","editedon":"2021-08-03 13:41:54"}',
+);

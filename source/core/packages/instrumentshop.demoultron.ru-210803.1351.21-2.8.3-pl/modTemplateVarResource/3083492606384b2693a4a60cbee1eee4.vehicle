@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '74d32d6ba95be61dfa3d19b0c2b28a04',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '3083492606384b2693a4a60cbee1eee4',
+  'native_key' => 2,
+  'object' => '{"id":2,"tmplvarid":6,"contentid":10,"value":"images\\/news\\/20150905-074408-richtonehdr.jpg"}',
+);

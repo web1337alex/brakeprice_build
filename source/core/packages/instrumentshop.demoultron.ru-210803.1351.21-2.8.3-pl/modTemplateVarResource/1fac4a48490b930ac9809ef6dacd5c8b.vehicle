@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c03aaf155b38bdd7c15f811c9d7e121c',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '1fac4a48490b930ac9809ef6dacd5c8b',
+  'native_key' => 31,
+  'object' => '{"id":31,"tmplvarid":18,"contentid":32,"value":"{\\"coords\\":{\\"center\\":[56.0408538715532,92.75105063229373],\\"zoom\\":14},\\"type\\":\\"yandex#map\\",\\"placemarks\\":[{\\"coords\\":[56.04007311631436,92.7498389313658],\\"params\\":{\\"color\\":\\"blue\\",\\"iconContent\\":\\"\\",\\"balloonContentBody\\":\\"\\u041e\\u041e\\u041e \\u00ab\\u0412\\u0430\\u0448\\u0430 \\u0444\\u0438\\u0440\\u043c\\u0430\\u00bb\\",\\"balloonContentHeader\\":\\"\\"}}],\\"polygons\\":[],\\"lines\\":[],\\"routes\\":[]}"}',
+);

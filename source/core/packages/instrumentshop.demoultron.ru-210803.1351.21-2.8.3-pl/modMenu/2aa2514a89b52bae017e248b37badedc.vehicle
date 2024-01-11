@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'afc1bd7cd03545cc64a8947604c72e9c',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '2aa2514a89b52bae017e248b37badedc',
+  'native_key' => 'users',
+  'object' => '{"text":"users","parent":"manage","action":"security\\/user","description":"user_management_desc","icon":"","menuindex":0,"params":"","handler":"","permissions":"view_user","namespace":"core"}',
+);

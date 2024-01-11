@@ -1,0 +1,43 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'migx_configs',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]migx_configs`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]migx_configs` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) NOT NULL DEFAULT \'\',
+  `formtabs` text NOT NULL,
+  `contextmenus` text NOT NULL,
+  `actionbuttons` text NOT NULL,
+  `columnbuttons` text NOT NULL,
+  `filters` text NOT NULL,
+  `extended` text NOT NULL,
+  `columns` text NOT NULL,
+  `createdby` int(10) NOT NULL DEFAULT 0,
+  `createdon` datetime DEFAULT NULL,
+  `editedby` int(10) NOT NULL DEFAULT 0,
+  `editedon` datetime DEFAULT NULL,
+  `deleted` tinyint(1) unsigned NOT NULL DEFAULT 0,
+  `deletedon` datetime DEFAULT NULL,
+  `deletedby` int(10) NOT NULL DEFAULT 0,
+  `published` tinyint(1) unsigned NOT NULL DEFAULT 0,
+  `publishedon` datetime DEFAULT NULL,
+  `publishedby` int(10) NOT NULL DEFAULT 0,
+  `category` varchar(255) NOT NULL DEFAULT \'\',
+  `permissions` text NOT NULL,
+  `fieldpermissions` text NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `category` (`category`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => 'f73456836395d7296007c7391c11212f',
+  'package' => '',
+  'signature' => 'a3e6a8ba300a5381c36c55f9dec96e31',
+  'native_key' => 'f73456836395d7296007c7391c11212f',
+);

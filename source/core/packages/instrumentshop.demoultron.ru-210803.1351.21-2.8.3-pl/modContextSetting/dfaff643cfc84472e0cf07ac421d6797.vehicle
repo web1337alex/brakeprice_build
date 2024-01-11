@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '22f370ec2c87ef1012293c09e455a341',
+  'package' => 'modx',
+  'class' => 'modContextSetting',
+  'signature' => 'dfaff643cfc84472e0cf07ac421d6797',
+  'native_key' => 
+  array (
+    0 => 'web',
+    1 => 'site_status',
+  ),
+  'object' => '{"context_key":"web","key":"site_status","value":"0","xtype":"combo-boolean","namespace":"pdotools","area":"","editedon":"2021-08-03 13:24:46"}',
+);

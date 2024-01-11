@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f74bde9eb28bff1d2645e2782f79f17a',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '7ce145fa3d583269fa10c2e202ceca41',
+  'native_key' => 126,
+  'object' => '{"id":126,"type":"document","contentType":"text\\/html","pagetitle":"Metabo","longtitle":"","description":"","alias":"metabo","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":120,"isfolder":0,"introtext":"","content":"","richtext":1,"template":6,"menuindex":5,"searchable":1,"cacheable":1,"createdby":1,"createdon":1511871340,"editedby":0,"editedon":0,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1511871340,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"metabo","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\"}}"}',
+);

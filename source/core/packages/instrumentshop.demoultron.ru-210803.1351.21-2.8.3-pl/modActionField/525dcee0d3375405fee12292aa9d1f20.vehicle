@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'afbf0a610e8fad570b075e54d40f8918',
+  'package' => 'modx',
+  'class' => 'modActionField',
+  'signature' => '525dcee0d3375405fee12292aa9d1f20',
+  'native_key' => 845,
+  'object' => '{"id":845,"action":"resource\\/create","name":"cacheable","type":"field","tab":"modx-page-settings-right-box-right","form":"modx-panel-resource","other":"","rank":0}',
+);

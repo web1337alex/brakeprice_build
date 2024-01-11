@@ -1,0 +1,31 @@
+<?php return array (
+  'class' => 'xPDOFileVehicle',
+  'object' => 
+  array (
+    'source' => 'instrumentshop.demoultron.ru-210803.1351.21-2.8.3-pl/xPDOFileVehicle/7aa373a670f3cfc0c1c057a0c4a29273/',
+    'target' => 'return MODX_CORE_PATH . \'components/vapor/model/\';',
+    'name' => 'vapor',
+  ),
+  'vehicle_class' => 'xPDOFileVehicle',
+  'validate' => 
+  array (
+    0 => 
+    array (
+      'type' => 'php',
+      'body' => '{"type":"php","source":"instrumentshop.demoultron.ru-210803.1351.21-2.8.3-pl\\/xPDOFileVehicle\\/7aa373a670f3cfc0c1c057a0c4a29273.validate.truncate_tables.validator","classes":{"0":"modAccessAction","1":"modAccessActionDom","2":"modAccessCategory","3":"modAccessContext","4":"modAccessElement","5":"modAccessMenu","6":"modAccessPermission","7":"modAccessPolicy","8":"modAccessPolicyTemplate","9":"modAccessPolicyTemplateGroup","10":"modAccessResource","11":"modAccessResourceGroup","12":"modAccessTemplateVar","13":"modAction","14":"modActionDom","15":"modActionField","17":"modCategory","18":"modCategoryClosure","19":"modChunk","20":"modClassMap","21":"modContentType","22":"modContext","23":"modContextResource","24":"modContextSetting","25":"modElementPropertySet","26":"modEvent","27":"modFormCustomizationProfile","28":"modFormCustomizationProfileUserGroup","29":"modFormCustomizationSet","30":"modLexiconEntry","32":"modMenu","33":"modNamespace","34":"modPlugin","35":"modPluginEvent","36":"modPropertySet","37":"modResource","38":"modResourceGroup","39":"modResourceGroupResource","41":"modSnippet","42":"modSystemSetting","43":"modTemplate","44":"modTemplateVar","45":"modTemplateVarResource","46":"modTemplateVarResourceGroup","47":"modTemplateVarTemplate","50":"modUserGroup","52":"modUserGroupRole","55":"modWorkspace","56":"registry.db.modDbRegisterMessage","57":"registry.db.modDbRegisterTopic","58":"registry.db.modDbRegisterQueue","59":"transport.modTransportProvider","60":"transport.modTransportPackage","61":"modDashboard","62":"modDashboardWidget","63":"modDashboardWidgetPlacement","64":"sources.modAccessMediaSource","65":"sources.modMediaSource","66":"sources.modMediaSourceElement","67":"sources.modMediaSourceContext"},"name":"validate.truncate_tables"}',
+    ),
+  ),
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'php',
+      'body' => '{"type":"php","source":"instrumentshop.demoultron.ru-210803.1351.21-2.8.3-pl\\/xPDOFileVehicle\\/7aa373a670f3cfc0c1c057a0c4a29273.resolve.vapor_model.resolver","name":"resolve.vapor_model"}',
+    ),
+  ),
+  'vehicle_package' => 'transport',
+  'guid' => 'def795725f0bccae73f282d731a188d3',
+  'package' => '',
+  'signature' => '7aa373a670f3cfc0c1c057a0c4a29273',
+  'native_key' => 'def795725f0bccae73f282d731a188d3',
+);

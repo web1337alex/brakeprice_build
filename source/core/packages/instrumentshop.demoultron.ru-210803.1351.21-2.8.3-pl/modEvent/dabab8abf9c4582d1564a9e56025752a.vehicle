@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f5aee36f08dc2ddf9f605e8e99cb5c72',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => 'dabab8abf9c4582d1564a9e56025752a',
+  'native_key' => 'OnRichTextEditorRegister',
+  'object' => '{"name":"OnRichTextEditorRegister","service":1,"groupname":"RichText Editor"}',
+);

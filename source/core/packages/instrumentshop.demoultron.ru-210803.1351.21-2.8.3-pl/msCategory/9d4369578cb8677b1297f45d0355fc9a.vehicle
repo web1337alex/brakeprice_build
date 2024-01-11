@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7053852e9b3982d35a6b15a7f4a09a09',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => '9d4369578cb8677b1297f45d0355fc9a',
+  'native_key' => 43,
+  'object' => '{"id":43,"type":"document","contentType":"text\\/html","pagetitle":"\\u0411\\u0435\\u043d\\u0437\\u043e\\u043f\\u0438\\u043b\\u044b","longtitle":"","description":"","alias":"benzopilyi","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":101,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":1,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487605961,"editedby":1,"editedon":1511874599,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487605920,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"benzopilyi\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c5e6ac7011d4672a96e024c7e07409d5',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '5f58cd2e64ec6dcfabb9ca2ca024087e',
+  'native_key' => 'formit.user_name',
+  'object' => '{"key":"formit.user_name","value":"","xtype":"textfield","namespace":"core","area":"","editedon":null}',
+);

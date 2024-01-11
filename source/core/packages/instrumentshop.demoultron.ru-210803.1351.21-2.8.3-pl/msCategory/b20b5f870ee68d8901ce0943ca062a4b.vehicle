@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6629ad340bfdfc03d3d13435561fbbce',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => 'b20b5f870ee68d8901ce0943ca062a4b',
+  'native_key' => 65,
+  'object' => '{"id":65,"type":"document","contentType":"text\\/html","pagetitle":"\\u0417\\u0430\\u0440\\u044f\\u0434\\u043d\\u044b\\u0435 \\u0443\\u0441\\u0442\\u0440\\u043e\\u0439\\u0441\\u0442\\u0432\\u0430 \\u0434\\u043b\\u044f \\u0430\\u043a\\u043a\\u0443\\u043c\\u0443\\u043b\\u044f\\u0442\\u043e\\u0440\\u043e\\u0432","longtitle":"","description":"","alias":"zaryadnyie-ustrojstva-dlya-akkumulyatorov","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":128,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":6,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487606449,"editedby":1,"editedon":1511874165,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487606400,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"zaryadnyie-ustrojstva-dlya-akkumulyatorov\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '53b33088f4277946dac69b9d00503950',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '6cd3909e2038406b7bfc558330029c30',
+  'native_key' => 9,
+  'object' => '{"id":9,"namespace":"minishop2","controller":"controllers\\/mgr\\/orders","haslayout":1,"lang_topics":"minishop2:default","assets":"","help_url":""}',
+);

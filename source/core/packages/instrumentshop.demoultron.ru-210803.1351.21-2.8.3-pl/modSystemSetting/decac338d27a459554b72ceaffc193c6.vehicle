@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5e1f228a5dca9256596c9459be08027e',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'decac338d27a459554b72ceaffc193c6',
+  'native_key' => 'seopro.disabledtemplates',
+  'object' => '{"key":"seopro.disabledtemplates","value":"","xtype":"textfield","namespace":"seopro","area":"general","editedon":null}',
+);

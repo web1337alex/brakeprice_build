@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2e2dee27f7214eae96ce626d8ef2237c',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '30ad24869ea56cb450c79526cf0fc5d7',
+  'native_key' => 237,
+  'object' => '{"id":237,"template":8,"name":"msorder_remove","description":"msorder_remove","value":1}',
+);

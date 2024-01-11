@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '49ae9af0baaead3b81dbed2955708fd4',
+  'package' => 'modx.registry.db',
+  'class' => 'modDbRegisterMessage',
+  'signature' => '28067e1c764e60ab329d7de480a5d8b2',
+  'native_key' => 
+  array (
+    0 => 3,
+    1 => '5157c60510560e6a99dcdffe70f9e597',
+  ),
+  'object' => '{"topic":3,"id":"5157c60510560e6a99dcdffe70f9e597","created":"2020-12-12 00:46:16","valid":"2020-12-12 00:46:16","accessed":null,"accesses":0,"expires":1607809576,"payload":"if (time() > 1607809576) return null;\\nreturn true;\\n","kill":0}',
+);

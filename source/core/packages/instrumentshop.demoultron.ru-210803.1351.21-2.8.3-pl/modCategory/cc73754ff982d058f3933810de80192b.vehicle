@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e38e01746c8f6bb8e779270c2d6ea860',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'cc73754ff982d058f3933810de80192b',
+  'native_key' => 23,
+  'object' => '{"id":23,"parent":0,"category":"Mapex","rank":0}',
+);

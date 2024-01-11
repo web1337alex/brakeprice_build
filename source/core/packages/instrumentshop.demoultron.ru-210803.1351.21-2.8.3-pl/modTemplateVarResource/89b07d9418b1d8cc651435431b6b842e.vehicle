@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b2896183a6221ea95ddb2f7a9305b2df',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '89b07d9418b1d8cc651435431b6b842e',
+  'native_key' => 37,
+  'object' => '{"id":37,"tmplvarid":6,"contentid":72,"value":"images\\/catalog-categories\\/salat.jpg"}',
+);

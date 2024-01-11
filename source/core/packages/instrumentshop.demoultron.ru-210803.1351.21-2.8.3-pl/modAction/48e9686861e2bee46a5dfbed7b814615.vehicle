@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '33edb2f993f8d652f8974e0092c27187',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => '48e9686861e2bee46a5dfbed7b814615',
+  'native_key' => 15,
+  'object' => '{"id":15,"namespace":"moddevtools","controller":"index","haslayout":1,"lang_topics":"moddevtools:default","assets":"","help_url":""}',
+);

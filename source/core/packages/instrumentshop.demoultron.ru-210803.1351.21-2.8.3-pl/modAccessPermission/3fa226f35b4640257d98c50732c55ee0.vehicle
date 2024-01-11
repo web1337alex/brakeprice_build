@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bc518bceebeaa9035c40a60ad72098bb',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '3fa226f35b4640257d98c50732c55ee0',
+  'native_key' => 181,
+  'object' => '{"id":181,"template":2,"name":"move","description":"perm.move_desc","value":1}',
+);

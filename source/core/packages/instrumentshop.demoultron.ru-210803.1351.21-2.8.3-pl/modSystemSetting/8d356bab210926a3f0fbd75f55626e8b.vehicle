@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '21fea7ff1078896031a5916383d998ef',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '8d356bab210926a3f0fbd75f55626e8b',
+  'native_key' => 'ms2_plugins',
+  'object' => '{"key":"ms2_plugins","value":"[]","xtype":"textarea","namespace":"minishop2","area":"ms2_main","editedon":"2018-06-30 18:44:49"}',
+);

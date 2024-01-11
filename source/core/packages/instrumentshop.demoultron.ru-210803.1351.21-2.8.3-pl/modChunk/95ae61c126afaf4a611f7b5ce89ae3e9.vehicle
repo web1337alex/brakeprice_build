@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'df9b0b67e039baeb4b6de4115d43071a',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '95ae61c126afaf4a611f7b5ce89ae3e9',
+  'native_key' => 119,
+  'object' => '{"id":119,"source":1,"property_preprocess":0,"name":"tpl.ecMessages.Row","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div id=\\"ec-[[+thread_name]]-message-[[+id]]\\" class=\\"ec-message\\">\\n    <p><strong>[[+user_name]]<\\/strong><span class=\\"ec-message__date\\"> [[+date:dateAgo]]<\\/span><\\/p>\\n    <div class=\\"ec-stars\\">\\n        <span class=\\"rating-[[+rating]]\\"><\\/span>\\n    <\\/div>\\n    <p>[[+text]]<\\/p>\\n    [[+reply_text]]\\n<\\/div>\\n\\n<!--ec_reply_text <div class=\\"ec-message__reply\\">[[+reply_author]]<p>[[+reply_text]]<\\/p><\\/div>-->\\n<!--ec_reply_author <p><strong>[[+reply_author]]<\\/strong><\\/p>-->","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/easycomm\\/elements\\/chunks\\/chunk.ec_messages_row.tpl","content":"<div id=\\"ec-[[+thread_name]]-message-[[+id]]\\" class=\\"ec-message\\">\\n    <p><strong>[[+user_name]]<\\/strong><span class=\\"ec-message__date\\"> [[+date:dateAgo]]<\\/span><\\/p>\\n    <div class=\\"ec-stars\\">\\n        <span class=\\"rating-[[+rating]]\\"><\\/span>\\n    <\\/div>\\n    <p>[[+text]]<\\/p>\\n    [[+reply_text]]\\n<\\/div>\\n\\n<!--ec_reply_text <div class=\\"ec-message__reply\\">[[+reply_author]]<p>[[+reply_text]]<\\/p><\\/div>-->\\n<!--ec_reply_author <p><strong>[[+reply_author]]<\\/strong><\\/p>-->"}',
+);

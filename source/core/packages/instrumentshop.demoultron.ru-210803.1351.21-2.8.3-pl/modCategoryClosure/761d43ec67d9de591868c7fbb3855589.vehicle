@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7d07a206e573643d6d2b19af71106105',
+  'package' => 'modx',
+  'class' => 'modCategoryClosure',
+  'signature' => '761d43ec67d9de591868c7fbb3855589',
+  'native_key' => 
+  array (
+    0 => 0,
+    1 => 6,
+  ),
+  'object' => '{"ancestor":0,"descendant":6,"depth":0}',
+);

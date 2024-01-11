@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cd8b3d8ad05486d8b4b58c9fc3eb0de5',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '4c050c889b376438adb44e64c4ef321e',
+  'native_key' => 235,
+  'object' => '{"id":235,"template":1,"name":"menu_trash","description":"perm.menu_trash_desc","value":1}',
+);

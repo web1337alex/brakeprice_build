@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b96cb6b21b3d586d86f58c990410e15d',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '3e1dfefcdb9bc8afe8461d4dcadbb3c2',
+  'native_key' => 65,
+  'object' => '{"id":65,"tmplvarid":31,"contentid":1,"value":"images\\/actions\\/action-t.jpg"}',
+);

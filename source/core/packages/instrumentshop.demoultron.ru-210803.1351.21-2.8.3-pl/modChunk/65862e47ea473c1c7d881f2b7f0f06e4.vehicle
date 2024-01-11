@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b0ce0295924674c8851a91e12c35fc6c',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '65862e47ea473c1c7d881f2b7f0f06e4',
+  'native_key' => 53,
+  'object' => '{"id":53,"source":1,"property_preprocess":0,"name":"tpl.msEmail.new.user","description":"\\u0427\\u0430\\u043d\\u043a \\u043f\\u0438\\u0441\\u044c\\u043c\\u0430 \\u043d\\u043e\\u0432\\u043e\\u0433\\u043e \\u0437\\u0430\\u043a\\u0430\\u0437\\u0430 \\u043f\\u043e\\u043b\\u044c\\u0437\\u043e\\u0432\\u0430\\u0442\\u0435\\u043b\\u044e.","editor_type":0,"category":22,"cache_type":0,"snippet":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_new_user\' | lexicon : $order}\\r\\n{\\/block}\\r\\n\\r\\n{block \'products\'}\\r\\n    {parent}\\r\\n    {if $payment_link?}\\r\\n        <p style=\\"margin-left:20px;{$style.p}\\">\\r\\n            {\'ms2_payment_link\' | lexicon : [\'link\' => $payment_link]}\\r\\n        <\\/p>\\r\\n    {\\/if}\\r\\n{\\/block}","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_email_new_user.tpl","content":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_new_user\' | lexicon : $order}\\r\\n{\\/block}\\r\\n\\r\\n{block \'products\'}\\r\\n    {parent}\\r\\n    {if $payment_link?}\\r\\n        <p style=\\"margin-left:20px;{$style.p}\\">\\r\\n            {\'ms2_payment_link\' | lexicon : [\'link\' => $payment_link]}\\r\\n        <\\/p>\\r\\n    {\\/if}\\r\\n{\\/block}"}',
+);

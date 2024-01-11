@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c62846ffb5a9c4a96e15ba180754341b',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'c202f79e2da678152ae5b9eb848eaca8',
+  'native_key' => 19,
+  'object' => '{"id":19,"source":1,"property_preprocess":0,"name":"tpl.ecMessages.Row2","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div id=\\"ec-[[+thread_name]]-message-[[+id]]\\" class=\\"ec-message element relative\\">\\n    <div class=\\"date\\"><span>[[+date:strtotime:date=`%d`]] [[+date:strtotime:dateRU]], [[+date:strtotime:date=`%Y`]]<\\/span><\\/div>\\n    <div class=\\"text italic\\">\\n        [[+text]]\\n    <\\/div>\\n    <div class=\\"rev-name bold\\">\\n        <div class=\\"push15\\"><\\/div>\\n        [[+user_name]]\\n    <\\/div>\\n    [[+reply_text:notempty=`\\n    <div class=\\"push15\\"><\\/div>\\n    <hr>\\n    <div class=\\"text reply-text\\">\\n        <strong>\\u0410\\u0434\\u043c\\u0438\\u043d\\u0438\\u0441\\u0442\\u0440\\u0430\\u0442\\u043e\\u0440:<\\/strong>\\n        [[+reply_text]]\\n    <\\/div>\\n    `]]\\n<\\/div>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div id=\\"ec-[[+thread_name]]-message-[[+id]]\\" class=\\"ec-message element relative\\">\\n    <div class=\\"date\\"><span>[[+date:strtotime:date=`%d`]] [[+date:strtotime:dateRU]], [[+date:strtotime:date=`%Y`]]<\\/span><\\/div>\\n    <div class=\\"text italic\\">\\n        [[+text]]\\n    <\\/div>\\n    <div class=\\"rev-name bold\\">\\n        <div class=\\"push15\\"><\\/div>\\n        [[+user_name]]\\n    <\\/div>\\n    [[+reply_text:notempty=`\\n    <div class=\\"push15\\"><\\/div>\\n    <hr>\\n    <div class=\\"text reply-text\\">\\n        <strong>\\u0410\\u0434\\u043c\\u0438\\u043d\\u0438\\u0441\\u0442\\u0440\\u0430\\u0442\\u043e\\u0440:<\\/strong>\\n        [[+reply_text]]\\n    <\\/div>\\n    `]]\\n<\\/div>"}',
+);

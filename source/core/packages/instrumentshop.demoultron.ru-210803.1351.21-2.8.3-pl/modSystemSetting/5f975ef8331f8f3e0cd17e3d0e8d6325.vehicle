@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '466bc0537a58be322ed6adb7de01c338',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '5f975ef8331f8f3e0cd17e3d0e8d6325',
+  'native_key' => 'ms2_cart_context',
+  'object' => '{"key":"ms2_cart_context","value":"","xtype":"combo-boolean","namespace":"minishop2","area":"ms2_cart","editedon":null}',
+);

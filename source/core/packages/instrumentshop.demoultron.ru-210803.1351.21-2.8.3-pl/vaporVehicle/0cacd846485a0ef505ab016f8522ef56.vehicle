@@ -1,0 +1,38 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ec_threads',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ec_threads`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ec_threads` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `resource` int(11) NOT NULL DEFAULT 0,
+  `name` varchar(255) NOT NULL DEFAULT \'\',
+  `title` varchar(255) NOT NULL DEFAULT \'\',
+  `message_last` int(10) unsigned NOT NULL DEFAULT 0,
+  `message_last_date` datetime DEFAULT NULL,
+  `count` int(10) unsigned NOT NULL DEFAULT 0,
+  `rating_simple` decimal(12,6) NOT NULL DEFAULT 0.000000,
+  `rating_wilson` decimal(12,6) NOT NULL DEFAULT 0.000000,
+  `properties` text DEFAULT NULL,
+  `extended` text DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `unique_key` (`name`),
+  KEY `resource` (`resource`),
+  KEY `message_last` (`message_last`),
+  KEY `message_last_date` (`message_last_date`)
+) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]ec_threads` (`id`, `resource`, `name`, `title`, `message_last`, `message_last_date`, `count`, `rating_simple`, `rating_wilson`, `properties`, `extended`) VALUES (\'1\', \'1\', \'resource-1\', \'\', \'0\', NULL, \'0\', \'0.000000\', \'0.000000\', \'{\\"thread\\":\\"resource-1\\",\\"formId\\":\\"resource-1\\",\\"allowedFields\\":\\"user_name,user_email,user_contacts,subject,rating,text\\",\\"requiredFields\\":\\"user_name,text\\",\\"antispamField\\":\\"address\\",\\"autoPublish\\":\\"\\",\\"tplForm\\":\\"tpl.ecForm\\",\\"tplSuccess\\":\\"tpl.ecForm.Success\\",\\"newEmailSubjUser\\":\\"\\",\\"tplNewEmailUser\\":\\"tpl.ecForm.New.Email.User\\",\\"newEmailSubjManager\\":\\"\\",\\"tplNewEmailManager\\":\\"tpl.ecForm.New.Email.Manager\\",\\"updateEmailSubjUser\\":\\"\\",\\"tplUpdateEmailUser\\":\\"tpl.ecForm.Update.Email.User\\"}\', NULL)',
+      1 => 'INSERT INTO `[[++table_prefix]]ec_threads` (`id`, `resource`, `name`, `title`, `message_last`, `message_last_date`, `count`, `rating_simple`, `rating_wilson`, `properties`, `extended`) VALUES (\'2\', \'7\', \'resource-7\', \'\', \'11\', \'2018-11-12 20:15:57\', \'5\', \'0.000000\', \'0.000000\', \'{\\"thread\\":\\"resource-7\\",\\"formId\\":\\"resource-7\\",\\"allowedFields\\":\\"user_name,user_email,user_contacts,subject,rating,text\\",\\"requiredFields\\":\\"user_name,user_email,text\\",\\"antispamField\\":\\"address\\",\\"autoPublish\\":\\"\\",\\"tplForm\\":\\"tpl.ecForm2\\",\\"tplFormReCaptcha\\":\\"tpl.ecForm.ReCaptcha\\",\\"tplSuccess\\":\\"tpl.ecForm.Success\\",\\"mailManager\\":\\"\\",\\"newEmailSubjUser\\":\\"\\",\\"tplNewEmailUser\\":\\"tpl.ecForm.New.Email.User\\",\\"newEmailSubjManager\\":\\"\\",\\"tplNewEmailManager\\":\\"tpl.ecForm.New.Email.Manager\\",\\"updateEmailSubjUser\\":\\"\\",\\"tplUpdateEmailUser\\":\\"tpl.ecForm.Update.Email.User\\"}\', NULL)',
+      2 => 'INSERT INTO `[[++table_prefix]]ec_threads` (`id`, `resource`, `name`, `title`, `message_last`, `message_last_date`, `count`, `rating_simple`, `rating_wilson`, `properties`, `extended`) VALUES (\'3\', \'3\', \'resource-3\', \'\', \'0\', NULL, \'0\', \'0.000000\', \'0.000000\', \'{\\"thread\\":\\"resource-3\\",\\"formId\\":\\"resource-3\\",\\"allowedFields\\":\\"user_name,user_email,user_contacts,subject,rating,text\\",\\"requiredFields\\":\\"user_name,text\\",\\"antispamField\\":\\"address\\",\\"autoPublish\\":\\"\\",\\"tplForm\\":\\"tpl.ecForm\\",\\"tplSuccess\\":\\"tpl.ecForm.Success\\",\\"newEmailSubjUser\\":\\"\\",\\"tplNewEmailUser\\":\\"tpl.ecForm.New.Email.User\\",\\"newEmailSubjManager\\":\\"\\",\\"tplNewEmailManager\\":\\"tpl.ecForm.New.Email.Manager\\",\\"updateEmailSubjUser\\":\\"\\",\\"tplUpdateEmailUser\\":\\"tpl.ecForm.Update.Email.User\\"}\', NULL)',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '6f34593729a80e38df7ee5fd2dd6b6e9',
+  'package' => '',
+  'signature' => '0cacd846485a0ef505ab016f8522ef56',
+  'native_key' => '6f34593729a80e38df7ee5fd2dd6b6e9',
+);

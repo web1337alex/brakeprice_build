@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'be00b65ec93acd12e39eecc79f40aea4',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'aaec1ab15c46f3eaddea2b04bc9c7ac5',
+  'native_key' => 240,
+  'object' => '{"id":240,"template":1,"name":"delete_static_resource","description":"perm.delete_static_resource_desc","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a8b703cd6eb0a23f8c0c51d6f762abe2',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => 'b076842df1f6c00c23d9ca2ef1283887',
+  'native_key' => 6,
+  'object' => '{"id":6,"type":"document","contentType":"text\\/html","pagetitle":"UpgradeMODX","longtitle":"","description":"View this resource to check for upgrades if your MODX version shows no widget","alias":"upgrade-modx","alias_visible":1,"link_attributes":"","published":0,"pub_date":0,"unpub_date":0,"parent":2,"isfolder":0,"introtext":null,"content":"[[!UpgradeMODXWidget]]","richtext":1,"template":0,"menuindex":3,"searchable":1,"cacheable":1,"createdby":1,"createdon":1478843625,"editedby":0,"editedon":0,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":0,"publishedby":0,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"upgrade-modx","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7efa872f57d4ceeb746c0a7a72e6fb9e',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'df44a04348d035a601f75526e17dddf5',
+  'native_key' => 67,
+  'object' => '{"id":67,"source":0,"property_preprocess":0,"name":"mapexMapTpl","description":"","editor_type":0,"category":23,"cache_type":0,"snippet":"<div id=\\"[[+mapId]]\\" [[+style]]><\\/div>\\n<script type=\\"text\\/javascript\\">\\nymaps.ready(function () {\\n    var [[+mapId]] = new ymaps.Map(\'[[+mapId]]\', {\\n            center: [[+map.center]],\\n            zoom: [[+map.zoom]],\\n            controls: [\'zoomControl\']\\n        }),\\n        \\n        \\n        [[+placemarks]]\\n        \\n});\\n<\\/script>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div id=\\"[[+mapId]]\\" [[+style]]><\\/div>\\n<script type=\\"text\\/javascript\\">\\nymaps.ready(function () {\\n    var [[+mapId]] = new ymaps.Map(\'[[+mapId]]\', {\\n            center: [[+map.center]],\\n            zoom: [[+map.zoom]],\\n            controls: [\'zoomControl\']\\n        }),\\n        \\n        \\n        [[+placemarks]]\\n        \\n});\\n<\\/script>"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e005bdb16ad8a1954049d22a042ba261',
+  'package' => 'modx',
+  'class' => 'modActionField',
+  'signature' => '068e645e2e56d36f473f028291d764c6',
+  'native_key' => 810,
+  'object' => '{"id":810,"action":"resource\\/update","name":"modx-symlink-content","type":"field","tab":"modx-resource-content","form":"modx-panel-resource","other":"","rank":1}',
+);

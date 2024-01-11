@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ddeb5deb27befa9039cd5a6f02f2d6df',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '6ee02844388d8e2b3f2a1d7fbb29068c',
+  'native_key' => 48,
+  'object' => '{"id":48,"tmplvarid":6,"contentid":103,"value":"images\\/catalog-categories\\/burger.jpg"}',
+);

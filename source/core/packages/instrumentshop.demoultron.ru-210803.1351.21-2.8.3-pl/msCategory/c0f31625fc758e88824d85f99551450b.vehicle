@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '82ad1110ae8d94d59dd29645c8ca08e9',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => 'c0f31625fc758e88824d85f99551450b',
+  'native_key' => 48,
+  'object' => '{"id":48,"type":"document","contentType":"text\\/html","pagetitle":"\\u0410\\u0432\\u0442\\u043e\\u0441\\u0435\\u0440\\u0432\\u0438\\u0441\\u043d\\u043e\\u0435 \\u043e\\u0431\\u043e\\u0440\\u0443\\u0434\\u043e\\u0432\\u0430\\u043d\\u0438\\u0435","longtitle":"","description":"","alias":"avtoservisnoe-oborudovanie","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":33,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":8,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487606039,"editedby":1,"editedon":1511874854,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487605980,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"avtoservisnoe-oborudovanie\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

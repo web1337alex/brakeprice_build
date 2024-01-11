@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'df219df31f65a8606d6d21b1cff9f2c7',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '82e553012dd53f6c523e5d481201672c',
+  'native_key' => 'ugm_versionlist_api_url',
+  'object' => '{"key":"ugm_versionlist_api_url","value":"\\/\\/api.github.com\\/repos\\/modxcms\\/revolution\\/tags","xtype":"textfield","namespace":"upgrademodx","area":"Widget","editedon":null}',
+);

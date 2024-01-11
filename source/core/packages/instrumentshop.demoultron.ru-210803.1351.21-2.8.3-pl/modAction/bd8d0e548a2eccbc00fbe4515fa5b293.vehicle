@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '386d019b121cd0a6b80c95f2c17034a9',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => 'bd8d0e548a2eccbc00fbe4515fa5b293',
+  'native_key' => 3,
+  'object' => '{"id":3,"namespace":"formit","controller":"index","haslayout":1,"lang_topics":"formit:mgr","assets":"","help_url":""}',
+);

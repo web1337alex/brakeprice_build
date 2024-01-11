@@ -1,0 +1,40 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_orders',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_orders`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_orders` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `user_id` int(10) unsigned NOT NULL,
+  `createdon` datetime DEFAULT \'0000-00-00 00:00:00\',
+  `updatedon` datetime DEFAULT \'0000-00-00 00:00:00\',
+  `num` varchar(20) DEFAULT \'\',
+  `cost` decimal(12,2) DEFAULT 0.00,
+  `cart_cost` decimal(12,2) DEFAULT 0.00,
+  `delivery_cost` decimal(12,2) DEFAULT 0.00,
+  `weight` decimal(13,3) DEFAULT 0.000,
+  `status` int(10) unsigned DEFAULT 0,
+  `delivery` int(10) unsigned DEFAULT 0,
+  `payment` int(10) unsigned DEFAULT 0,
+  `address` int(10) unsigned DEFAULT 0,
+  `context` varchar(100) DEFAULT \'web\',
+  `comment` text DEFAULT NULL,
+  `properties` text DEFAULT NULL,
+  `type` tinyint(3) unsigned DEFAULT 0,
+  PRIMARY KEY (`id`),
+  KEY `user_id` (`user_id`),
+  KEY `status` (`status`),
+  KEY `type` (`type`)
+) ENGINE=MyISAM AUTO_INCREMENT=117 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '650cae60a8fcee1dbda3b97078f7f14a',
+  'package' => '',
+  'signature' => 'dfe4705313054b042938cfbcaffd0052',
+  'native_key' => '650cae60a8fcee1dbda3b97078f7f14a',
+);

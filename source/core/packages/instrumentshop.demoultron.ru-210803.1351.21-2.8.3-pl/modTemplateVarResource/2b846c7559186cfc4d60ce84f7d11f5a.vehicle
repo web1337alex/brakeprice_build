@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c07483d0db13371f06d71e519729acd8',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '2b846c7559186cfc4d60ce84f7d11f5a',
+  'native_key' => 64,
+  'object' => '{"id":64,"tmplvarid":30,"contentid":1,"value":"rasxodka-krepezh-speczodezhda\\/"}',
+);

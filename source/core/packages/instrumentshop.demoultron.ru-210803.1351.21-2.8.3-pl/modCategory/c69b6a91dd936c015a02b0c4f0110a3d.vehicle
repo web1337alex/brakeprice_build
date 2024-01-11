@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7ce1f04b7218171a0dcc88ff6bc95829',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'c69b6a91dd936c015a02b0c4f0110a3d',
+  'native_key' => 30,
+  'object' => '{"id":30,"parent":0,"category":"ultron.pro.Templates","rank":0}',
+);

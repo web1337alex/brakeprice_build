@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'fb2253546b2d747c0968ea55b961cf39',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '4ddcaa73f6c585aecd669804bc043754',
+  'native_key' => 
+  array (
+    0 => 19,
+    1 => 'OnTVOutputRenderList',
+  ),
+  'object' => '{"pluginid":19,"event":"OnTVOutputRenderList","priority":0,"propertyset":0}',
+);

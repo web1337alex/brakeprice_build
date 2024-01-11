@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '98947b19ed966f08c6c1ba0e7733d676',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '13fa35a4b351171d8f88050ef5c9b78a',
+  'native_key' => 79,
+  'object' => '{"id":79,"source":1,"property_preprocess":0,"name":"tpl.msOptions","description":"\\u0427\\u0430\\u043d\\u043a \\u0432\\u044b\\u0432\\u043e\\u0434\\u0430 \\u0434\\u043e\\u043f\\u043e\\u043b\\u043d\\u0438\\u0442\\u0435\\u043b\\u044c\\u043d\\u044b\\u0445 \\u0441\\u0432\\u043e\\u0439\\u0441\\u0442\\u0432 \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 miniShop2.","editor_type":0,"category":22,"cache_type":0,"snippet":"{foreach $options as $name => $values}\\r\\n    <div class=\\"form-group\\">\\r\\n        <label class=\\"col-md-2 control-label\\" for=\\"option_{$name}\\">{(\'ms2_product_\' ~ $name) | lexicon}:<\\/label>\\r\\n        <div class=\\"col-md-10\\">\\r\\n            <select name=\\"options[{$name}]\\" class=\\"input-sm form-control\\" id=\\"option_{$name}\\">\\r\\n                {foreach $values as $value}\\r\\n                    <option value=\\"{$value}\\">{$value}<\\/option>\\r\\n                {\\/foreach}\\r\\n            <\\/select>\\r\\n        <\\/div>\\r\\n    <\\/div>\\r\\n{\\/foreach}","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_options.tpl","content":"{foreach $options as $name => $values}\\r\\n    <div class=\\"form-group\\">\\r\\n        <label class=\\"col-md-2 control-label\\" for=\\"option_{$name}\\">{(\'ms2_product_\' ~ $name) | lexicon}:<\\/label>\\r\\n        <div class=\\"col-md-10\\">\\r\\n            <select name=\\"options[{$name}]\\" class=\\"input-sm form-control\\" id=\\"option_{$name}\\">\\r\\n                {foreach $values as $value}\\r\\n                    <option value=\\"{$value}\\">{$value}<\\/option>\\r\\n                {\\/foreach}\\r\\n            <\\/select>\\r\\n        <\\/div>\\r\\n    <\\/div>\\r\\n{\\/foreach}"}',
+);

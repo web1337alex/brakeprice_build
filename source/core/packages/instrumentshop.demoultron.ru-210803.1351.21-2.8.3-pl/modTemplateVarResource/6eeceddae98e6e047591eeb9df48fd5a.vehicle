@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f75db6523f29a75b4a5e0af45145d25c',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '6eeceddae98e6e047591eeb9df48fd5a',
+  'native_key' => 55,
+  'object' => '{"id":55,"tmplvarid":23,"contentid":105,"value":"[{\\"MIGX_id\\":\\"1\\",\\"technical_characteristics_header\\":\\"\\\\u041d\\\\u043e\\\\u043c\\\\u0438\\\\u043d\\\\u0430\\\\u043b\\\\u044c\\\\u043d\\\\u0430\\\\u044f \\\\u043c\\\\u043e\\\\u0449\\\\u043d\\\\u043e\\\\u0441\\\\u0442\\\\u044c\\",\\"technical_characteristics_description\\":\\"580\\",\\"technical_characteristics_switch\\":\\"\\"},{\\"MIGX_id\\":\\"2\\",\\"technical_characteristics_header\\":\\"\\\\u041c\\\\u0430\\\\u043a\\\\u0441\\\\u0438\\\\u043c\\\\u0430\\\\u043b\\\\u044c\\\\u043d\\\\u043e\\\\u0435 \\\\u0447\\\\u0438\\\\u0441\\\\u043b\\\\u043e \\\\u043e\\\\u0431\\\\u043e\\\\u0440\\\\u043e\\\\u0442\\\\u043e\\\\u0432\\",\\"technical_characteristics_description\\":\\"10000\\",\\"technical_characteristics_switch\\":\\"\\"},{\\"MIGX_id\\":\\"3\\",\\"technical_characteristics_header\\":\\"\\\\u041f\\\\u0438\\\\u0442\\\\u0430\\\\u043d\\\\u0438\\\\u0435 \\\\u0443\\\\u0441\\\\u0442\\\\u0440\\\\u043e\\\\u0439\\\\u0441\\\\u0442\\\\u0432\\\\u0430\\",\\"technical_characteristics_description\\":\\"\\\\u043e\\\\u0442 \\\\u0441\\\\u0435\\\\u0442\\\\u0438\\",\\"technical_characteristics_switch\\":\\"\\"}]"}',
+);

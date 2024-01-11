@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3ec3f65569b0761fa106f38bc7213ea2',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'df3c7d4c4e91583c147142af04137202',
+  'native_key' => 238,
+  'object' => '{"id":238,"template":1,"name":"delete_weblink","description":"perm.delete_weblink_desc","value":1}',
+);

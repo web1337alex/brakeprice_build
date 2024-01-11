@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ab12de9dd22844bafb2866001cd92afc',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'ab5d4234c68544e4bed779c942c1b906',
+  'native_key' => 13,
+  'object' => '{"id":13,"template":1,"name":"customize_forms","description":"perm.customize_forms_desc","value":1}',
+);

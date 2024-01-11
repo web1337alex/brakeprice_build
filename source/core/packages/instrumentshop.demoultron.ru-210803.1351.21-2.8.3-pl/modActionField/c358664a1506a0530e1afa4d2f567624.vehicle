@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '89e8e5cdaa038e532a78e59462a009e6',
+  'package' => 'modx',
+  'class' => 'modActionField',
+  'signature' => 'c358664a1506a0530e1afa4d2f567624',
+  'native_key' => 794,
+  'object' => '{"id":794,"action":"resource\\/update","name":"pub_date","type":"field","tab":"modx-page-settings-right","form":"modx-panel-resource","other":"","rank":1}',
+);

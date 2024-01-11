@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '222dd01e92ecde64dd50659e169acdda',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'b14e8f6854eaab9a177b18cb46fe7e53',
+  'native_key' => 29,
+  'object' => '{"id":29,"source":1,"property_preprocess":0,"name":"tpl.mSearch2.ac","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div class=\\"mse2-ac-item\\">\\n\\t[[+idx]]. [[+pagetitle]] [[+weight]]\\n\\t[[+intro]]\\n<\\/div>\\n<!--msearch2_weight <span class=\\"mse2-ac-weight\\"><small>[[%mse2_weight]]: [[+weight]]<\\/small><\\/span>-->\\n<!--msearch2_intro <br\\/><small>[[+intro]]<\\/small>-->","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/msearch2\\/elements\\/chunks\\/chunk.msearch2.ac.tpl","content":"<div class=\\"mse2-ac-item\\">\\n\\t[[+idx]]. [[+pagetitle]] [[+weight]]\\n\\t[[+intro]]\\n<\\/div>\\n<!--msearch2_weight <span class=\\"mse2-ac-weight\\"><small>[[%mse2_weight]]: [[+weight]]<\\/small><\\/span>-->\\n<!--msearch2_intro <br\\/><small>[[+intro]]<\\/small>-->"}',
+);

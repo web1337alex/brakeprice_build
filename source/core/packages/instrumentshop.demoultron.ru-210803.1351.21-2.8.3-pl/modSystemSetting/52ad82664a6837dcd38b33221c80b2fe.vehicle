@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '846666f483f3f03ebcac6700c15025e4',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '52ad82664a6837dcd38b33221c80b2fe',
+  'native_key' => 'ace.font_size',
+  'object' => '{"key":"ace.font_size","value":"13px","xtype":"textfield","namespace":"ace","area":"general","editedon":null}',
+);

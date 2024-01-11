@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '290f60452e85430cdaa538dd44d4ddcb',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '82e8ccfef47369404225379c591b845d',
+  'native_key' => 'ms2_category_remember_tabs',
+  'object' => '{"key":"ms2_category_remember_tabs","value":"1","xtype":"combo-boolean","namespace":"minishop2","area":"ms2_category","editedon":null}',
+);

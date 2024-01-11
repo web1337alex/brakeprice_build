@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4086a030236ef10f94fb26ca923e4669',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c1d699ee08ae91ab80b57d01ba521fe4',
+  'native_key' => 'stercseo.follow',
+  'object' => '{"key":"stercseo.follow","value":"1","xtype":"combo-boolean","namespace":"stercseo","area":"general","editedon":null}',
+);

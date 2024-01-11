@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0b2a03caec58659dd9d9cb3ff99d59bc',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => 'e8d78f1e596ab1a1fedefdd1a74b48b5',
+  'native_key' => 32,
+  'object' => '{"id":32,"tmplvarid":6,"contentid":39,"value":"images\\/catalog-categories\\/rolls.jpg"}',
+);

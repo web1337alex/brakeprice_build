@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'dfda051ffdcb799c2b69f9d97d2eeb64',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'a91306a44bfb5101fe3206ef54f3285f',
+  'native_key' => 14,
+  'object' => '{"id":14,"parent":0,"category":"sdStore","rank":0}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd2b8d1795558d1d24fa9c41e6791ac58',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '29286b7c80ec94a9b065406d2fd8498b',
+  'native_key' => 71,
+  'object' => '{"id":71,"source":0,"property_preprocess":0,"name":"mapexRouteTpl","description":"","editor_type":0,"category":23,"cache_type":0,"snippet":"ymaps.route(\\n    [[+coords]],\\n    {mapStateAutoApply: false}\\n    ).then(function (route) {\\n            [[+mapId]].geoObjects.add(route);\\n            var points = route.getWayPoints();  \\n            points.get(0).options.set(\'preset\', \'twirl#carIcon\');\\n            points.get(1).options.set(\'preset\', \'twirl#houseIcon\');\\n        },\\n        function (error) {\\n            alert(error.message);\\n        });\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"ymaps.route(\\n    [[+coords]],\\n    {mapStateAutoApply: false}\\n    ).then(function (route) {\\n            [[+mapId]].geoObjects.add(route);\\n            var points = route.getWayPoints();  \\n            points.get(0).options.set(\'preset\', \'twirl#carIcon\');\\n            points.get(1).options.set(\'preset\', \'twirl#houseIcon\');\\n        },\\n        function (error) {\\n            alert(error.message);\\n        });\\n"}',
+);

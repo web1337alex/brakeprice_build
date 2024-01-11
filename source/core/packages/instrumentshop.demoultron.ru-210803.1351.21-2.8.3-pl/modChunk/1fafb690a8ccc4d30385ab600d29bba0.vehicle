@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6b6eca1bccb595b7f41560a743b51f87',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '1fafb690a8ccc4d30385ab600d29bba0',
+  'native_key' => 121,
+  'object' => '{"id":121,"source":1,"property_preprocess":0,"name":"tpl.ecForm.ReCaptcha","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div class=\\"form-group\\">\\r\\n    <div class=\\"ec-captcha\\" id=\\"ec-captcha-[[+fid]]\\"><\\/div>\\r\\n    <span class=\\"ec-error help-block\\" id=\\"ec-captcha-error-[[+fid]]\\"><\\/span>\\r\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/easycomm\\/elements\\/chunks\\/chunk.ec_form_recaptcha.tpl","content":"<div class=\\"form-group\\">\\r\\n    <div class=\\"ec-captcha\\" id=\\"ec-captcha-[[+fid]]\\"><\\/div>\\r\\n    <span class=\\"ec-error help-block\\" id=\\"ec-captcha-error-[[+fid]]\\"><\\/span>\\r\\n<\\/div>"}',
+);

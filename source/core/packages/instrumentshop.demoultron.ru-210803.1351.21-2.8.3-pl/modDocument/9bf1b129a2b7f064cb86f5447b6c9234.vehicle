@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'fb2d132ede2fff8c981eb144b4c339e8',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '9bf1b129a2b7f064cb86f5447b6c9234',
+  'native_key' => 98,
+  'object' => '{"id":98,"type":"document","contentType":"text\\/html","pagetitle":"\\u041e\\u0444\\u043e\\u0440\\u043c\\u043b\\u0435\\u043d\\u0438\\u0435 \\u0437\\u0430\\u043a\\u0430\\u0437\\u0430","longtitle":"","description":"","alias":"oformlenie-zakaza","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":2,"isfolder":0,"introtext":"","content":"[[!msOrder?tpl=`tpl.msOrder.custom`]]\\r\\n\\r\\n[[!msGetOrder?tpl=`tpl.msGetOrder.custom`]]","richtext":0,"template":1,"menuindex":5,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487680846,"editedby":1,"editedon":1534414375,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487680800,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"oformlenie-zakaza","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":null}}"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1bdac942b1668b3b5e97d3e68f321dbb',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '3b4b08b6824eac7b5bc66d713bdfe9e1',
+  'native_key' => 'reports',
+  'object' => '{"text":"reports","parent":"manage","action":"","description":"reports_desc","icon":"","menuindex":5,"params":"","handler":"","permissions":"menu_reports","namespace":"core"}',
+);

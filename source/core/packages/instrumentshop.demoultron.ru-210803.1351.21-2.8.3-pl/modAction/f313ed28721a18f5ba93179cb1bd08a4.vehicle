@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '85c96877304dc0ccc22af0919cb334c6',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => 'f313ed28721a18f5ba93179cb1bd08a4',
+  'native_key' => 5,
+  'object' => '{"id":5,"namespace":"clientconfig","controller":"index","haslayout":1,"lang_topics":"clientconfig:default","assets":"","help_url":""}',
+);

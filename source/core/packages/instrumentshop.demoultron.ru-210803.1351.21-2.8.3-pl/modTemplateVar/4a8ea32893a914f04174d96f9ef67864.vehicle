@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7d94384cd776fee11812b1af96dfeac5',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '4a8ea32893a914f04174d96f9ef67864',
+  'native_key' => 32,
+  'object' => '{"id":32,"source":1,"property_preprocess":0,"type":"date","name":"action_t_date","caption":"\\u0414\\u0430\\u0442\\u0430 \\u043e\\u043a\\u043e\\u043d\\u0447\\u0430\\u043d\\u0438\\u044f \\u0430\\u043a\\u0446\\u0438\\u0438","description":"","editor_type":0,"category":36,"locked":0,"elements":"","rank":5,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:10:{s:10:\\"allowBlank\\";s:4:\\"true\\";s:13:\\"disabledDates\\";s:0:\\"\\";s:12:\\"disabledDays\\";s:0:\\"\\";s:12:\\"minDateValue\\";s:0:\\"\\";s:12:\\"minTimeValue\\";s:0:\\"\\";s:12:\\"maxDateValue\\";s:0:\\"\\";s:12:\\"maxTimeValue\\";s:0:\\"\\";s:8:\\"startDay\\";s:0:\\"\\";s:13:\\"timeIncrement\\";s:0:\\"\\";s:8:\\"hideTime\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

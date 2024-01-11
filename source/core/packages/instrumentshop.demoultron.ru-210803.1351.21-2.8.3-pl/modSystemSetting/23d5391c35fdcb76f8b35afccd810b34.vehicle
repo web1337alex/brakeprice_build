@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e2362de293835eb39d9ec6f776327b0f',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '23d5391c35fdcb76f8b35afccd810b34',
+  'native_key' => 'ugm_github_timeout',
+  'object' => '{"key":"ugm_github_timeout","value":"6","xtype":"textfield","namespace":"upgrademodx","area":"GitHub","editedon":null}',
+);

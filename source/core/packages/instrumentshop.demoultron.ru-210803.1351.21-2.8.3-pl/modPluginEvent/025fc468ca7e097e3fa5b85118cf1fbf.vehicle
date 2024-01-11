@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9c72c57fef0fbd66cf24b208174bf753',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '025fc468ca7e097e3fa5b85118cf1fbf',
+  'native_key' => 
+  array (
+    0 => 18,
+    1 => 'OnUserSave',
+  ),
+  'object' => '{"pluginid":18,"event":"OnUserSave","priority":0,"propertyset":0}',
+);

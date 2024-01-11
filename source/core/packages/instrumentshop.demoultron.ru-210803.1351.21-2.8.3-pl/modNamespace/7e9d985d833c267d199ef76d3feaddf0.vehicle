@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '53c6a1f5b852272b87cb7a94dcdc7dfd',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => '7e9d985d833c267d199ef76d3feaddf0',
+  'native_key' => 'sdstore',
+  'object' => '{"name":"sdstore","path":"{core_path}components\\/sdstore\\/","assets_path":""}',
+);

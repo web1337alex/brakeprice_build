@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c9c8ddd8619d7dce3b9c3456cdc47a11',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '08307ed419ab0b6cad28fb1442d7bf88',
+  'native_key' => 'ms2_orders',
+  'object' => '{"text":"ms2_orders","parent":"minishop2","action":"mgr\\/orders","description":"ms2_orders_desc","icon":"","menuindex":0,"params":"","handler":"","permissions":"","namespace":"minishop2"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '89cd1cfac720420d0497e9bb39114cc5',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'e8ec6fa9384f68a65923cfa528f26284',
+  'native_key' => 'seopro.max_keywords_title',
+  'object' => '{"key":"seopro.max_keywords_title","value":"4","xtype":"textfield","namespace":"seopro","area":"general","editedon":null}',
+);

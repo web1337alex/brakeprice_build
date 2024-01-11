@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0b95afdab1324e2f5b347eba694aa3ae',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '565fa148c42a8c991ab4fc1d61b0bbec',
+  'native_key' => 'ms2_order_grid_fields',
+  'object' => '{"key":"ms2_order_grid_fields","value":"id,num,customer,status,cost,weight,delivery,payment,createdon,updatedon,comment","xtype":"textarea","namespace":"minishop2","area":"ms2_order","editedon":null}',
+);

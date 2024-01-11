@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1f8072bb6834a7ae1e39355ac71bd3c8',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'ca77af0ae5c418aaaafc878b338cf0f7',
+  'native_key' => 73,
+  'object' => '{"id":73,"source":1,"property_preprocess":0,"name":"tpl.msMiniCart.custom","description":"","editor_type":0,"category":26,"cache_type":0,"snippet":"<div id=\\"msMiniCart\\" class=\\"{$total_count > 0 ? \'full\' : \'\'}\\">\\n    <!-- cart full -->\\n    <a href=\\"[[~38]]\\" class=\\"absolute\\"><\\/a>\\n    <!-- \\/. cart full -->\\n    \\n    <div class=\\"inner\\">\\n        <div>\\n            <i class=\\"material-icons\\">shopping_basket<\\/i> <span class=\\"ms2_total_count\\">{$total_count}<\\/span>\\n        <\\/div>\\n    <\\/div>\\n<\\/div>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div id=\\"msMiniCart\\" class=\\"{$total_count > 0 ? \'full\' : \'\'}\\">\\n    <!-- cart full -->\\n    <a href=\\"[[~38]]\\" class=\\"absolute\\"><\\/a>\\n    <!-- \\/. cart full -->\\n    \\n    <div class=\\"inner\\">\\n        <div>\\n            <i class=\\"material-icons\\">shopping_basket<\\/i> <span class=\\"ms2_total_count\\">{$total_count}<\\/span>\\n        <\\/div>\\n    <\\/div>\\n<\\/div>"}',
+);

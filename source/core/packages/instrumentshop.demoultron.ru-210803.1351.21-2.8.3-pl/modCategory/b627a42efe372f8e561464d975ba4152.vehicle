@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '47a3c8e59299bb3289b11f2a7f09f323',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'b627a42efe372f8e561464d975ba4152',
+  'native_key' => 10,
+  'object' => '{"id":10,"parent":0,"category":"UpgradeMODX","rank":0}',
+);

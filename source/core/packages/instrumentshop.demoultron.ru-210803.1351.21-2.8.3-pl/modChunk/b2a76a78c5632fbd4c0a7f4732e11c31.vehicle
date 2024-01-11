@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd8eadef361f74b7fa0249b1ecf4e6785',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'b2a76a78c5632fbd4c0a7f4732e11c31',
+  'native_key' => 31,
+  'object' => '{"id":31,"source":1,"property_preprocess":0,"name":"tpl.mFilter2.filter.outer","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<span class=\\"title\\">\\n    <span class=\\"switch\\"><\\/span>\\n    [[%mse2_filter_[[+table]]_[[+filter]]]]\\n<\\/span>\\n<ul>\\n    <li>\\n        <figure>\\n            <div class=\\"form-group\\">\\n                <fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\">\\n                \\t[[+rows]]\\n                <\\/fieldset>\\n            <\\/div>\\n        <\\/figure>\\n    <\\/li>\\n<\\/ul>","locked":0,"properties":"a:0:{}","static":0,"static_file":"core\\/components\\/msearch2\\/elements\\/chunks\\/chunk.mfilter2.filter.outer.tpl","content":"<span class=\\"title\\">\\n    <span class=\\"switch\\"><\\/span>\\n    [[%mse2_filter_[[+table]]_[[+filter]]]]\\n<\\/span>\\n<ul>\\n    <li>\\n        <figure>\\n            <div class=\\"form-group\\">\\n                <fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\">\\n                \\t[[+rows]]\\n                <\\/fieldset>\\n            <\\/div>\\n        <\\/figure>\\n    <\\/li>\\n<\\/ul>"}',
+);

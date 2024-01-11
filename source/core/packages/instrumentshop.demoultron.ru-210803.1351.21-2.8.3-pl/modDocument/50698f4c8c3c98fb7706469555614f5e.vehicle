@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8f6d4198dd53c1be84142bbebd028ad6',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '50698f4c8c3c98fb7706469555614f5e',
+  'native_key' => 137,
+  'object' => '{"id":137,"type":"document","contentType":"text\\/html","pagetitle":"Huter","longtitle":"","description":"","alias":"huter","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":120,"isfolder":0,"introtext":"","content":"","richtext":1,"template":6,"menuindex":9,"searchable":1,"cacheable":1,"createdby":1,"createdon":1530359898,"editedby":0,"editedon":0,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1530359898,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"huter","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\"}}"}',
+);

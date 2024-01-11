@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3a76c8aa7fdfbcf7b8a1ca2fbb5b0af1',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '90815c01db5acdfa41887986fcf8a5d0',
+  'native_key' => 4,
+  'object' => '{"id":4,"tmplvarid":6,"contentid":12,"value":"images\\/news\\/maxresdefault-1.jpg"}',
+);

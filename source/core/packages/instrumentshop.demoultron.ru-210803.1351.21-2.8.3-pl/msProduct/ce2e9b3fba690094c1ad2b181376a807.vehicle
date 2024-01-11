@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5bdaf5fc1bbae4e2a052d0e563cae5d0',
+  'package' => 'minishop2',
+  'class' => 'msProduct',
+  'signature' => 'ce2e9b3fba690094c1ad2b181376a807',
+  'native_key' => 140,
+  'object' => '{"id":140,"type":"document","contentType":"text\\/html","pagetitle":"\\u0413\\u0435\\u043d\\u0435\\u0440\\u0430\\u0442\\u043e\\u0440 CHAMPION GG3300","longtitle":"","description":"","alias":"generator-champion-gg3300","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":133,"isfolder":0,"introtext":"","content":"","richtext":1,"template":3,"menuindex":2,"searchable":1,"cacheable":1,"createdby":1,"createdon":1530360403,"editedby":1,"editedon":1530360415,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1530360360,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msProduct","context_key":"web","content_type":1,"uri":"generator-champion-gg3300","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\"}}","article":"","price":14700,"old_price":0,"weight":0,"image":"\\/assets\\/images\\/products\\/140\\/119941752-champion-gg3300-1.jpg","thumb":"\\/assets\\/images\\/products\\/140\\/x220\\/119941752-champion-gg3300-1.jpg","vendor":10,"made_in":"","new":0,"popular":0,"favorite":0,"tags":null,"color":"[\\"\\\\u0436\\\\u0435\\\\u043b\\\\u0442\\\\u044b\\\\u0439\\"]","size":null,"source":2,"vendor.id":10,"vendor.name":"Champion","vendor.resource":136,"vendor.country":"","vendor.logo":"","vendor.address":"","vendor.phone":"","vendor.fax":"","vendor.email":"","vendor.description":"","vendor.properties":null}',
+);

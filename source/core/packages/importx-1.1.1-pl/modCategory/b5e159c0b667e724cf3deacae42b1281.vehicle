@@ -1,0 +1,29 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => false,
+  'namespace' => 'importx',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"importx-1.1.1-pl\\/modCategory\\/b5e159c0b667e724cf3deacae42b1281\\/0\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"importx"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"importx-1.1.1-pl\\/modCategory\\/b5e159c0b667e724cf3deacae42b1281\\/1\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"importx"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4c0039cfe74dd99dde2d3ccefe4a27a1',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'b5e159c0b667e724cf3deacae42b1281',
+  'native_key' => 1,
+  'object' => '{"id":1,"parent":0,"category":"ImportX"}',
+);

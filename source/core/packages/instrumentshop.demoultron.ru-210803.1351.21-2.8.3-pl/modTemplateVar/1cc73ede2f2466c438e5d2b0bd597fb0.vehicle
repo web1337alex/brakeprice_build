@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'dd4784baee137cdcab77ddf6e80157d0',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '1cc73ede2f2466c438e5d2b0bd597fb0',
+  'native_key' => 22,
+  'object' => '{"id":22,"source":1,"property_preprocess":0,"type":"checkbox","name":"switch","caption":"","description":"","editor_type":0,"category":0,"locked":0,"elements":"\\u0414\\u0430==true","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:2:{s:10:\\"allowBlank\\";s:4:\\"true\\";s:7:\\"columns\\";s:1:\\"1\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

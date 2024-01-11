@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '89579bedaff38c476f9a6a89d54166e2',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c5939cd3e1b91a972cffbf9aa53279bc',
+  'native_key' => 'ugm_modx_timeout',
+  'object' => '{"key":"ugm_modx_timeout","value":"6","xtype":"textfield","namespace":"upgrademodx","area":"Download","editedon":null}',
+);

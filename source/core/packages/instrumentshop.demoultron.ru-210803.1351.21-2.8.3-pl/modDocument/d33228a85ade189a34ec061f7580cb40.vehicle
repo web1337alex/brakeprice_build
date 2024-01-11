@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7a8dd5210143056f2ef02d11af575635',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => 'd33228a85ade189a34ec061f7580cb40',
+  'native_key' => 136,
+  'object' => '{"id":136,"type":"document","contentType":"text\\/html","pagetitle":"Champion","longtitle":"","description":"","alias":"champion","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":120,"isfolder":0,"introtext":"","content":"","richtext":1,"template":6,"menuindex":8,"searchable":1,"cacheable":1,"createdby":1,"createdon":1530359869,"editedby":0,"editedon":0,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1530359869,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"champion","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\"}}"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'aa3e1bd289daba0ff8253b9d586fc4ca',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '5351b448b1f3b94097b7379a6e166e76',
+  'native_key' => 29,
+  'object' => '{"id":29,"parent":0,"category":"ultron.pro.Snippets","rank":0}',
+);

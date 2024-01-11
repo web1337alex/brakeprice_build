@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '90982c591ff71a378ace80373f682c1f',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '95532b9f5e92ac5050b653b5d7df74e8',
+  'native_key' => 126,
+  'object' => '{"id":126,"source":1,"property_preprocess":0,"name":"tpl.ecThreadRating","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div class=\\"ec-stars\\" title=\\"[[+rating_wilson]]\\">\\r\\n    <span style=\\"width: [[+rating_wilson_percent]]%\\"><\\/span>\\r\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/easycomm\\/elements\\/chunks\\/chunk.ec_thread_rating.tpl","content":"<div class=\\"ec-stars\\" title=\\"[[+rating_wilson]]\\">\\r\\n    <span style=\\"width: [[+rating_wilson_percent]]%\\"><\\/span>\\r\\n<\\/div>"}',
+);

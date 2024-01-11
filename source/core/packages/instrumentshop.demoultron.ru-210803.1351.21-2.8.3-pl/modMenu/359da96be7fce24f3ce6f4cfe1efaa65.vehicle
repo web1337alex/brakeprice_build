@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '043b442028c83d3e469fba56ed74eb80',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '359da96be7fce24f3ce6f4cfe1efaa65',
+  'native_key' => 'user',
+  'object' => '{"text":"user","parent":"usernav","action":"","description":"","icon":"<span id=\\"user-avatar\\">{$userImage}<\\/span> <span id=\\"user-username\\">{$username}<\\/span>","menuindex":5,"params":"","handler":"","permissions":"menu_user","namespace":"core"}',
+);

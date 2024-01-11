@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'baf794f16ec81556b24366b65765c97a',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '2cc5aea245ec72434dc1e964dec9c3d0',
+  'native_key' => 41,
+  'object' => '{"id":41,"source":1,"property_preprocess":0,"name":"formFeedbackTpl","description":"","editor_type":0,"category":15,"cache_type":0,"snippet":"<h3>\\u0421\\u043e\\u043e\\u0431\\u0449\\u0435\\u043d\\u0438\\u0435 \\u0441 \\u0441\\u0430\\u0439\\u0442\\u0430 \\u00ab[[++site_name]]\\u00bb<\\/h3>\\n<p><b>\\u0418\\u043c\\u044f:<\\/b> [[+cf_name]]<\\/p>\\n<p><b>Email:<\\/b> [[+cf_email]]<\\/p>\\n[[+cf_phone:notempty=`<p><b>\\u0422\\u0435\\u043b\\u0435\\u0444\\u043e\\u043d:<\\/b> [[+cf_phone]]<\\/p>`]]\\n<p><b>\\u0421\\u043e\\u043e\\u0431\\u0449\\u0435\\u043d\\u0438\\u0435:<\\/b> [[+cf_message]]<\\/p>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<h3>\\u0421\\u043e\\u043e\\u0431\\u0449\\u0435\\u043d\\u0438\\u0435 \\u0441 \\u0441\\u0430\\u0439\\u0442\\u0430 \\u00ab[[++site_name]]\\u00bb<\\/h3>\\n<p><b>\\u0418\\u043c\\u044f:<\\/b> [[+cf_name]]<\\/p>\\n<p><b>Email:<\\/b> [[+cf_email]]<\\/p>\\n[[+cf_phone:notempty=`<p><b>\\u0422\\u0435\\u043b\\u0435\\u0444\\u043e\\u043d:<\\/b> [[+cf_phone]]<\\/p>`]]\\n<p><b>\\u0421\\u043e\\u043e\\u0431\\u0449\\u0435\\u043d\\u0438\\u0435:<\\/b> [[+cf_message]]<\\/p>"}',
+);

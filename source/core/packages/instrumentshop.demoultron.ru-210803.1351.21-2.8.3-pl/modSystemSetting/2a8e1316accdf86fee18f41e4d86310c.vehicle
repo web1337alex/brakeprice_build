@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a7c13e091cb6ba74c173e9be5bbf98ca',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '2a8e1316accdf86fee18f41e4d86310c',
+  'native_key' => 'compress_js_max_files',
+  'object' => '{"key":"compress_js_max_files","value":"10","xtype":"textfield","namespace":"core","area":"manager","editedon":null}',
+);

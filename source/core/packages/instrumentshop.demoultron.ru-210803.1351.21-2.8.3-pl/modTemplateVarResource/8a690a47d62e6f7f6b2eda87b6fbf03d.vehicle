@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '24a60e8c5a7cc0ec76fcb7590cb7ec18',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '8a690a47d62e6f7f6b2eda87b6fbf03d',
+  'native_key' => 43,
+  'object' => '{"id":43,"tmplvarid":6,"contentid":49,"value":"images\\/catalog-categories\\/napitki.jpg"}',
+);

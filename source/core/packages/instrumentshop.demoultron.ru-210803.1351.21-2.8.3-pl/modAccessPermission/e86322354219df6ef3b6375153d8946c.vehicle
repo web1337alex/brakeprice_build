@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bf048eeb4a74b200b5c366ae20a881d1',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'e86322354219df6ef3b6375153d8946c',
+  'native_key' => 225,
+  'object' => '{"id":225,"template":8,"name":"mssetting_save","description":"mssetting_save","value":1}',
+);

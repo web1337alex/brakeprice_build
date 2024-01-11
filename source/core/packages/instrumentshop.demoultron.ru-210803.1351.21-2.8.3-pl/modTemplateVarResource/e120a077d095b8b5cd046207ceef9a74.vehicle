@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '04c54963c27d861c2b43a3081a685eb8',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => 'e120a077d095b8b5cd046207ceef9a74',
+  'native_key' => 9,
+  'object' => '{"id":9,"tmplvarid":6,"contentid":17,"value":"images\\/news\\/raznoe-stroitelnye-instrumenty-zapchast-862447.jpg"}',
+);

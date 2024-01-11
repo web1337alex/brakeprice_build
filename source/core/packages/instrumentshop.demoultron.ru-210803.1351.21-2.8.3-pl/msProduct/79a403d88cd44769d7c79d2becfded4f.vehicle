@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ff3a1a6d23f7dd992c83742224b3db53',
+  'package' => 'minishop2',
+  'class' => 'msProduct',
+  'signature' => '79a403d88cd44769d7c79d2becfded4f',
+  'native_key' => 134,
+  'object' => '{"id":134,"type":"document","contentType":"text\\/html","pagetitle":"\\u0411\\u0435\\u043d\\u0437\\u0438\\u043d\\u043e\\u0432\\u044b\\u0439 \\u0433\\u0435\\u043d\\u0435\\u0440\\u0430\\u0442\\u043e\\u0440 Inforce IN6500E 04-03-06","longtitle":"","description":"","alias":"benzinovyij-generator-inforce-in6500e-04-03-06","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":133,"isfolder":0,"introtext":"","content":"","richtext":1,"template":3,"menuindex":0,"searchable":1,"cacheable":1,"createdby":1,"createdon":1530359829,"editedby":1,"editedon":1530360103,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1530359820,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msProduct","context_key":"web","content_type":1,"uri":"benzinovyij-generator-inforce-in6500e-04-03-06","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\"}}","article":"15560440","price":41740,"old_price":0,"weight":0,"image":"\\/assets\\/images\\/products\\/134\\/1125359.jpg","thumb":"\\/assets\\/images\\/products\\/134\\/x220\\/1125359.jpg","vendor":9,"made_in":"\\u0413\\u0435\\u0440\\u043c\\u0430\\u043d\\u0438\\u044f","new":0,"popular":0,"favorite":0,"tags":null,"color":"[\\"\\\\u0436\\\\u0435\\\\u043b\\\\u0442\\\\u044b\\\\u0439\\",\\"\\\\u043a\\\\u0440\\\\u0430\\\\u0441\\\\u043d\\\\u044b\\\\u0439\\"]","size":null,"source":2,"vendor.id":9,"vendor.name":"Inforce","vendor.resource":135,"vendor.country":"","vendor.logo":"","vendor.address":"","vendor.phone":"","vendor.fax":"","vendor.email":"","vendor.description":"","vendor.properties":null}',
+);

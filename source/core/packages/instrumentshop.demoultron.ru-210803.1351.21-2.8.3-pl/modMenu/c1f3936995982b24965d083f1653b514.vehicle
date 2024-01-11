@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '858505ddf9d78bc09d1165de2353057a',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'c1f3936995982b24965d083f1653b514',
+  'native_key' => 'site_schedule',
+  'object' => '{"text":"site_schedule","parent":"reports","action":"resource\\/site_schedule","description":"site_schedule_desc","icon":"","menuindex":0,"params":"","handler":"","permissions":"view_document","namespace":"core"}',
+);

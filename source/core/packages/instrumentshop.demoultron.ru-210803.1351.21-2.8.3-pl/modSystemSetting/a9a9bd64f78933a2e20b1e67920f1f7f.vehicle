@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '39ff6fc9caac06bdf47c0f14c0c1496c',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a9a9bd64f78933a2e20b1e67920f1f7f',
+  'native_key' => 'access_policies_version',
+  'object' => '{"key":"access_policies_version","value":"1.0","xtype":"textfield","namespace":"core","area":"system","editedon":null}',
+);

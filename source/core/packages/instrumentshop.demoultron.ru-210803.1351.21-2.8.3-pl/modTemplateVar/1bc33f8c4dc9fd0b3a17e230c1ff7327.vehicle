@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'afce603e3c7fbef902301cb85a047305',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '1bc33f8c4dc9fd0b3a17e230c1ff7327',
+  'native_key' => 25,
+  'object' => '{"id":25,"source":1,"property_preprocess":0,"type":"checkbox","name":"product_availability","caption":"\\u0422\\u043e\\u0432\\u0430\\u0440 \\u0432 \\u043d\\u0430\\u043b\\u0438\\u0447\\u0438\\u0438","description":"","editor_type":0,"category":0,"locked":0,"elements":"\\u0414\\u0430==true","rank":0,"display":"default","default_text":"true","properties":"a:0:{}","input_properties":"a:2:{s:10:\\"allowBlank\\";s:4:\\"true\\";s:7:\\"columns\\";s:1:\\"1\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":"true"}',
+);

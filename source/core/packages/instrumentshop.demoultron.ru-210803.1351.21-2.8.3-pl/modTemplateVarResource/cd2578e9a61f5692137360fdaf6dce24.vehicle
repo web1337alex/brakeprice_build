@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '356cacc71e3b5e016fb3db1b45c413ee',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => 'cd2578e9a61f5692137360fdaf6dce24',
+  'native_key' => 51,
+  'object' => '{"id":51,"tmplvarid":6,"contentid":61,"value":"images\\/catalog-categories\\/sushi.jpg"}',
+);

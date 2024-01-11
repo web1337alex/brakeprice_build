@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8cb5259cf44940e042c4358b07863d6e',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '9d057386685d1b0757f2cdd4f2a92754',
+  'native_key' => 'moddevtools',
+  'object' => '{"text":"moddevtools","parent":"components","action":"15","description":"moddevtools_menu_desc","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"","handler":"","permissions":"view_chunk,view_template","namespace":"core"}',
+);

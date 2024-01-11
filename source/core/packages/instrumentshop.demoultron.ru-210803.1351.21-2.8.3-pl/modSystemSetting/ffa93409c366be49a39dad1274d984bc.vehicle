@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '78e224db3d0fdfc62f4c830f2223a6ad',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'ffa93409c366be49a39dad1274d984bc',
+  'native_key' => 'log_deprecated',
+  'object' => '{"key":"log_deprecated","value":"0","xtype":"combo-boolean","namespace":"core","area":"system","editedon":"2020-12-12 10:15:12"}',
+);

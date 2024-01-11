@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bfe285ef0bcf282c16885f7c54dec25e',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '72d870d1371ab0b603afa671e34db18e',
+  'native_key' => 22,
+  'object' => '{"id":22,"parent":0,"category":"miniShop2","rank":0}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd100d1d94d61ad84cecbe52c8ab8964e',
+  'package' => 'modx',
+  'class' => 'modNamespace',
+  'signature' => 'a833c078fc368b5186af9bea9e38385e',
+  'native_key' => 'stercseo',
+  'object' => '{"name":"stercseo","path":"{core_path}components\\/stercseo\\/","assets_path":"{assets_path}components\\/stercseo\\/"}',
+);

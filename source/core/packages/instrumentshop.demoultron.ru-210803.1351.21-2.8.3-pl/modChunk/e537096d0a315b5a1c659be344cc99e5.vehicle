@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ee7629a378437a95443ed2810a39cb9f',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'e537096d0a315b5a1c659be344cc99e5',
+  'native_key' => 94,
+  'object' => '{"id":94,"source":0,"property_preprocess":0,"name":"fiDefaultOptGroupTpl","description":"The default chunk used by the FormItCountryOptions snippet for the select optgroup. Please do not edit this chunk, as this will be overwritten when updating FormIt.","editor_type":0,"category":11,"cache_type":0,"snippet":"<optgroup label=\\"[[+text]]\\">\\n    [[+options]]\\n<\\/optgroup>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<optgroup label=\\"[[+text]]\\">\\n    [[+options]]\\n<\\/optgroup>"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5eb5367da50dd5e88b5e3207cc4bbf21',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '769e85fbe9b8d5053aa16625c067ae64',
+  'native_key' => 27,
+  'object' => '{"id":27,"template":1,"name":"delete_role","description":"perm.delete_role_desc","value":1}',
+);

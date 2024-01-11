@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9760047a02c2187943fa4945d1ff1887',
+  'package' => 'modx',
+  'class' => 'modClassMap',
+  'signature' => 'aa824a9c57a0b03aefb02d867db7b817',
+  'native_key' => 8,
+  'object' => '{"id":8,"class":"modSnippet","parent_class":"modElement","name_field":"name","path":"","lexicon":"core:resource"}',
+);

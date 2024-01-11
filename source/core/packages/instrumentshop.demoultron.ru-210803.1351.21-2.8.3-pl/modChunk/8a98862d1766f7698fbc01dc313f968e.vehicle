@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1b4d196389df5123f61c25a24b59d52c',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '8a98862d1766f7698fbc01dc313f968e',
+  'native_key' => 54,
+  'object' => '{"id":54,"source":1,"property_preprocess":0,"name":"tpl.msEmail.new.manager","description":"\\u0427\\u0430\\u043d\\u043a \\u043f\\u0438\\u0441\\u044c\\u043c\\u0430 \\u043d\\u043e\\u0432\\u043e\\u0433\\u043e \\u0437\\u0430\\u043a\\u0430\\u0437\\u0430 \\u043c\\u0435\\u043d\\u0435\\u0434\\u0436\\u0435\\u0440\\u0443.","editor_type":0,"category":22,"cache_type":0,"snippet":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_new_manager\' | lexicon : $order}\\r\\n{\\/block}","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_email_new_manager.tpl","content":"{extends \'tpl.msEmail\'}\\r\\n\\r\\n{block \'title\'}\\r\\n    {\'ms2_email_subject_new_manager\' | lexicon : $order}\\r\\n{\\/block}"}',
+);

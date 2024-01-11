@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f45fd9b2d769ff220172f412b9983b9b',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '95561ce3b7423e5bc86f1445f24f7130',
+  'native_key' => 236,
+  'object' => '{"id":236,"template":1,"name":"set_sudo","description":"perm.set_sudo_desc","value":1}',
+);

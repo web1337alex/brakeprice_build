@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a1699e1369eda6bdabbf291d210c5f03',
+  'package' => 'minishop2',
+  'class' => 'msProduct',
+  'signature' => 'd989b1f51dc244c6c895ef975bd9d279',
+  'native_key' => 132,
+  'object' => '{"id":132,"type":"document","contentType":"text\\/html","pagetitle":"\\u0414\\u0440\\u0435\\u043b\\u044c-\\u0448\\u0443\\u0440\\u0443\\u043f\\u043e\\u0432\\u0435\\u0440\\u0442 Dewalt DCD771S2","longtitle":"","description":"","alias":"drel-shurupovert-dewalt-dcd771s2","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":50,"isfolder":0,"introtext":"","content":"","richtext":1,"template":3,"menuindex":10,"searchable":1,"cacheable":1,"createdby":1,"createdon":1530359538,"editedby":1,"editedon":1530359624,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1530359520,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msProduct","context_key":"web","content_type":1,"uri":"drel-shurupovert-dewalt-dcd771s2","uri_override":0,"hide_children_in_tree":0,"show_in_tree":0,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\"}}","article":"15568708","price":8600,"old_price":0,"weight":1600,"image":"\\/assets\\/images\\/products\\/132\\/6726234662e360a51098874c35ec3500.jpg","thumb":"\\/assets\\/images\\/products\\/132\\/x220\\/6726234662e360a51098874c35ec3500.jpg","vendor":5,"made_in":"\\u041a\\u0438\\u0442\\u0430\\u0439","new":1,"popular":0,"favorite":0,"tags":null,"color":"[\\"\\\\u0436\\\\u0435\\\\u043b\\\\u0442\\\\u044b\\\\u0439\\"]","size":null,"source":2,"vendor.id":5,"vendor.name":"Dewalt","vendor.resource":125,"vendor.country":"","vendor.logo":"","vendor.address":"","vendor.phone":"","vendor.fax":"","vendor.email":"","vendor.description":"","vendor.properties":null}',
+);

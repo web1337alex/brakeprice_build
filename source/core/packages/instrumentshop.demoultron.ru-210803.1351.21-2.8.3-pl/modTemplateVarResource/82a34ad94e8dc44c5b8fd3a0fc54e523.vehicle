@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '35c931a9bd7f6b6f028793e041f4802f',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '82a34ad94e8dc44c5b8fd3a0fc54e523',
+  'native_key' => 3,
+  'object' => '{"id":3,"tmplvarid":6,"contentid":11,"value":"images\\/news\\/dewalt-guaranteed-tough-since-1924.jpg"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '25112cfadadb9aebe67bec7199d0aa36',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '46e6c12a97a492364ec54c5329f3d835',
+  'native_key' => 'stercseo.user_name',
+  'object' => '{"key":"stercseo.user_name","value":"","xtype":"textfield","namespace":"stercseo","area":"general","editedon":null}',
+);

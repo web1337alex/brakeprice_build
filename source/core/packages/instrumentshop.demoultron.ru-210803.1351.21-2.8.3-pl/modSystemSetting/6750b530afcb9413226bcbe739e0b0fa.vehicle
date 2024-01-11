@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f63ba079458e3aa4c871e5b5ec6b124d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '6750b530afcb9413226bcbe739e0b0fa',
+  'native_key' => 'formit.form_encryptkey',
+  'object' => '{"key":"formit.form_encryptkey","value":"modx59732cc541e7a2.26389339","xtype":"textfield","namespace":"formit","area":"system","editedon":null}',
+);

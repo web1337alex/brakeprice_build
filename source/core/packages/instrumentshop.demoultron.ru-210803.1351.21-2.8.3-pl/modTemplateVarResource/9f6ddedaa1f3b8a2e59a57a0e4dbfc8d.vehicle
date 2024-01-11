@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3c4f07ea72a67df9e4a68c37c6a76508',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '9f6ddedaa1f3b8a2e59a57a0e4dbfc8d',
+  'native_key' => 33,
+  'object' => '{"id":33,"tmplvarid":6,"contentid":40,"value":"images\\/catalog-categories\\/tempura.jpg"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3c9fe827bf883806423477cbb05191d9',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '7629c3d22501177c48aefae0981caffb',
+  'native_key' => 239,
+  'object' => '{"id":239,"template":1,"name":"delete_symlink","description":"perm.delete_symlink_desc","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3815b876733457f5c91834f1aa0b8d1b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a2d6d414f99cb57fcfe952eee54848e2',
+  'native_key' => 'tiny.fix_table_elements',
+  'object' => '{"key":"tiny.fix_table_elements","value":"","xtype":"combo-boolean","namespace":"tinymce","area":"cleanup-output","editedon":null}',
+);

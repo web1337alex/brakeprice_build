@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '253bbaeb5015d9b59569fcec03874878',
+  'package' => 'modx',
+  'class' => 'modActionField',
+  'signature' => 'ab29bf80567e48f674f72dbef1cd8196',
+  'native_key' => 848,
+  'object' => '{"id":848,"action":"resource\\/create","name":"modx-panel-resource-tv","type":"tab","tab":"","form":"modx-panel-resource","other":"tv","rank":8}',
+);

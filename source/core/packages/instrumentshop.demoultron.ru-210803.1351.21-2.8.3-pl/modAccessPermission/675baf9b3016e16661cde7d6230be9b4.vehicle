@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '737b7ead086b088a3e8b3ba8db270516',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '675baf9b3016e16661cde7d6230be9b4',
+  'native_key' => 141,
+  'object' => '{"id":141,"template":1,"name":"source_edit","description":"perm.source_edit_desc","value":1}',
+);

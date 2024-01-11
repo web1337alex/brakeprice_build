@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ec00eeb3d8f5c009ecad30b71661d79b',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'd07c943b21e1a1b60c089a6eba642f3e',
+  'native_key' => 116,
+  'object' => '{"id":116,"source":1,"property_preprocess":0,"name":"tpl.msGetOrder.custom","description":"","editor_type":0,"category":26,"cache_type":0,"snippet":"<div class=\\"push20\\"><\\/div>\\n<h5>\\u0421\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e! \\u0412\\u0430\\u0448 \\u0437\\u0430\\u043a\\u0430\\u0437 \\u043e\\u0444\\u043e\\u0440\\u043c\\u043b\\u0435\\u043d!<\\/h5>\\n<p>\\u041d\\u0430\\u0448 \\u043c\\u0435\\u043d\\u0435\\u0434\\u0436\\u0435\\u0440 \\u0441\\u0432\\u044f\\u0436\\u0435\\u0442\\u0441\\u044f \\u0441 \\u0432\\u0430\\u043c\\u0438 \\u0432 \\u0431\\u043b\\u0438\\u0436\\u0430\\u0439\\u0448\\u0435\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f.<\\/p>","locked":0,"properties":"a:0:{}","static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_get_order.tpl","content":"<div class=\\"push20\\"><\\/div>\\n<h5>\\u0421\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e! \\u0412\\u0430\\u0448 \\u0437\\u0430\\u043a\\u0430\\u0437 \\u043e\\u0444\\u043e\\u0440\\u043c\\u043b\\u0435\\u043d!<\\/h5>\\n<p>\\u041d\\u0430\\u0448 \\u043c\\u0435\\u043d\\u0435\\u0434\\u0436\\u0435\\u0440 \\u0441\\u0432\\u044f\\u0436\\u0435\\u0442\\u0441\\u044f \\u0441 \\u0432\\u0430\\u043c\\u0438 \\u0432 \\u0431\\u043b\\u0438\\u0436\\u0430\\u0439\\u0448\\u0435\\u0435 \\u0432\\u0440\\u0435\\u043c\\u044f.<\\/p>"}',
+);

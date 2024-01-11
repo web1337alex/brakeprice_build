@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cfafe2c8377a5d9dedd2a252b26912ef',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => 'e6c227dd3995c416bceefee65874dbb3',
+  'native_key' => 37,
+  'object' => '{"id":37,"type":"document","contentType":"text\\/html","pagetitle":"\\u0420\\u0435\\u0437\\u0443\\u043b\\u044c\\u0442\\u0430\\u0442\\u044b \\u043f\\u043e\\u0438\\u0441\\u043a\\u0430","longtitle":"","description":"","alias":"rezultatyi-poiska","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":2,"isfolder":0,"introtext":"","content":"<div class=\\"catalog main-catalog\\">\\r\\n    <div class=\\"catalog-inner\\">\\r\\n        [[!mFilter2?\\r\\n            &element=`msProducts`\\r\\n            &pageLimit=`7`\\r\\n            &limit=`24`\\r\\n            &parents=`33`\\r\\n            &resources=`[[!mSearch2?&returnIds=`true`&limit=`0`]]`\\r\\n            &depth=`0`\\r\\n            &class=`msProduct`\\r\\n            &tpl=`tpl.msProducts.row.custom`\\r\\n            &tplOuter=`mFilter2.outer`\\r\\n            &includeThumbs=`250x250`\\r\\n            &includeContent=`1`\\r\\n            &includeTVs=`crop`\\r\\n            &tplPageWrapper=`@INLINE <div class=\\"cleaner\\"><\\/div><div class=\\"pagination\\"><ul>[[+prev]][[+pages]][[+next]]<\\/ul><\\/div><\\/div>`\\r\\n            &where=`{\\"template\\":3}`\\r\\n        ]]\\r\\n    <\\/div>\\r\\n<\\/div>\\r\\n[[!+page.nav]]","richtext":0,"template":1,"menuindex":3,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487603213,"editedby":1,"editedon":1559722873,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487603160,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"rezultatyi-poiska","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":null}}"}',
+);

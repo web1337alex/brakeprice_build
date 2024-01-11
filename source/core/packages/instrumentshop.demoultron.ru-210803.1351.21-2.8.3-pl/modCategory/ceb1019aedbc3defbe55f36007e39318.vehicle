@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '309ebd6e10714e69ba1c62c298578d6d',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'ceb1019aedbc3defbe55f36007e39318',
+  'native_key' => 7,
+  'object' => '{"id":7,"parent":0,"category":"Media","rank":0}',
+);

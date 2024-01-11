@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0cd23702ca55a8a95b9fc157d0129298',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '971c9bf6feaa93bcb0dc23765e63d348',
+  'native_key' => 9,
+  'object' => '{"id":9,"source":0,"property_preprocess":0,"name":"UpgradeMODXTpl","description":"Tpl chunk for alert widget","editor_type":0,"category":10,"cache_type":0,"snippet":"<div id=\\"Upgrade_modx\\">\\r\\n    <h3 style=\\"color:[[+ugm_notice_color]]\\">[[+ugm_notice]]<\\/h3>\\r\\n    <br\\/>[[+ugm_current_version_caption]]: [[+ugm_current_version]]\\r\\n    <br\\/>[[+ugm_latest_version_caption]]: [[+ugm_latest_version]]\\r\\n\\r\\n\\r\\n\\r\\n    [[+ugm_version_form]]\\r\\n    <div id=\\"ugm_errors\\">[[+ugm_errors]]<\\/div>\\r\\n<\\/div>\\r\\n<script src=\\"[[+ugm_assets_url]]js\\/classie.js\\"><\\/script>\\r\\n<script src=\\"[[+ugm_assets_url]]js\\/progressButton.js\\"><\\/script>\\r\\n<script src=\\"[[+ugm_assets_url]]js\\/ugm-bottom.js\\"><\\/script>\\r\\n<p>&nbsp;<\\/p>\\r\\n\\r\\n\\r\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div id=\\"Upgrade_modx\\">\\r\\n    <h3 style=\\"color:[[+ugm_notice_color]]\\">[[+ugm_notice]]<\\/h3>\\r\\n    <br\\/>[[+ugm_current_version_caption]]: [[+ugm_current_version]]\\r\\n    <br\\/>[[+ugm_latest_version_caption]]: [[+ugm_latest_version]]\\r\\n\\r\\n\\r\\n\\r\\n    [[+ugm_version_form]]\\r\\n    <div id=\\"ugm_errors\\">[[+ugm_errors]]<\\/div>\\r\\n<\\/div>\\r\\n<script src=\\"[[+ugm_assets_url]]js\\/classie.js\\"><\\/script>\\r\\n<script src=\\"[[+ugm_assets_url]]js\\/progressButton.js\\"><\\/script>\\r\\n<script src=\\"[[+ugm_assets_url]]js\\/ugm-bottom.js\\"><\\/script>\\r\\n<p>&nbsp;<\\/p>\\r\\n\\r\\n\\r\\n"}',
+);

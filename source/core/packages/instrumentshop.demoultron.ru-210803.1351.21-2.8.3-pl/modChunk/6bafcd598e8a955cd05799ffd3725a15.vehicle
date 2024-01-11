@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '506c94f038e9ca426c620d06a5c4e594',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '6bafcd598e8a955cd05799ffd3725a15',
+  'native_key' => 80,
+  'object' => '{"id":80,"source":1,"property_preprocess":0,"name":"tpl.msProductOptions","description":"\\u0427\\u0430\\u043d\\u043a \\u0432\\u044b\\u0432\\u043e\\u0434\\u0430 \\u0434\\u043e\\u043f\\u043e\\u043b\\u043d\\u0438\\u0442\\u0435\\u043b\\u044c\\u043d\\u044b\\u0445 \\u043e\\u043f\\u0446\\u0438\\u0439 \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 miniShop2.","editor_type":0,"category":22,"cache_type":0,"snippet":"{foreach $options as $option}\\r\\n    <div class=\\"form-group\\">\\r\\n        <label class=\\"col-md-2 control-label\\">{$option.caption}:<\\/label>\\r\\n        <div class=\\"col-md-10 form-control-static\\">\\r\\n            {if $option.value is array}\\r\\n                {$option.value | join : \', \'}\\r\\n            {else}\\r\\n                {$option.value}\\r\\n            {\\/if}\\r\\n        <\\/div>\\r\\n    <\\/div>\\r\\n{\\/foreach}\\r\\n","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_product_options.tpl","content":"{foreach $options as $option}\\r\\n    <div class=\\"form-group\\">\\r\\n        <label class=\\"col-md-2 control-label\\">{$option.caption}:<\\/label>\\r\\n        <div class=\\"col-md-10 form-control-static\\">\\r\\n            {if $option.value is array}\\r\\n                {$option.value | join : \', \'}\\r\\n            {else}\\r\\n                {$option.value}\\r\\n            {\\/if}\\r\\n        <\\/div>\\r\\n    <\\/div>\\r\\n{\\/foreach}\\r\\n"}',
+);

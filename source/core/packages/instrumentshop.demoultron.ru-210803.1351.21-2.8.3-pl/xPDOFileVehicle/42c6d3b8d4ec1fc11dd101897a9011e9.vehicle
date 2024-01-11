@@ -1,0 +1,15 @@
+<?php return array (
+  'class' => 'xPDOFileVehicle',
+  'object' => 
+  array (
+    'source' => '/home/users/a/artmodelru/domains/instrumentshop.demoultron.ru/manager/components',
+    'target' => 'return MODX_MANAGER_PATH;',
+    'name' => 'components',
+  ),
+  'vehicle_class' => 'xPDOFileVehicle',
+  'vehicle_package' => 'transport',
+  'guid' => '69c98b77be8a1d0d2d3908a7a1b7d61d',
+  'package' => '',
+  'signature' => '42c6d3b8d4ec1fc11dd101897a9011e9',
+  'native_key' => '69c98b77be8a1d0d2d3908a7a1b7d61d',
+);

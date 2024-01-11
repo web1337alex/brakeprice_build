@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8263909a1a890c85b06229d9a47047e6',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => '4e71d8baccb7bc6bca3921f0a6a43415',
+  'native_key' => 56,
+  'object' => '{"id":56,"type":"document","contentType":"text\\/html","pagetitle":"\\u0417\\u0430\\u043a\\u043b\\u0435\\u043f\\u043e\\u0447\\u043d\\u0438\\u043a\\u0438","longtitle":"\\u0410\\u043a\\u043a\\u0443\\u043c\\u0443\\u043b\\u044f\\u0442\\u043e\\u0440\\u043d\\u044b\\u0435 \\u0437\\u0430\\u043a\\u043b\\u0435\\u043f\\u043e\\u0447\\u043d\\u0438\\u043a\\u0438","description":"","alias":"akkumulyatornyie-zaklepochniki","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":128,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":5,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487606251,"editedby":1,"editedon":1511874133,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487606220,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"akkumulyatornyie-zaklepochniki\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

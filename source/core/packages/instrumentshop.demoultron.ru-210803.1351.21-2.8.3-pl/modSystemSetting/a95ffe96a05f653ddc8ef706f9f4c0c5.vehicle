@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0cdd44d40f9abbcaf5fcd9607811b71b',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a95ffe96a05f653ddc8ef706f9f4c0c5',
+  'native_key' => 'ms2_order_handler_class',
+  'object' => '{"key":"ms2_order_handler_class","value":"msOrderHandler","xtype":"textfield","namespace":"minishop2","area":"ms2_order","editedon":null}',
+);

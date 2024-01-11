@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '71cb5247286d07d2513a5b264b01d2ea',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '7d142988dba41a02728836a9b1aaed36',
+  'native_key' => 23,
+  'object' => '{"id":23,"source":1,"property_preprocess":0,"type":"migx","name":"characteristics","caption":"\\u0422\\u0430\\u0431\\u043b\\u0438\\u0446\\u0430 \\u0445\\u0430\\u0440\\u0430\\u043a\\u0442\\u0435\\u0440\\u0438\\u0441\\u0442\\u0438\\u043a","description":"","editor_type":0,"category":0,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:7:{s:7:\\"configs\\";s:0:\\"\\";s:8:\\"formtabs\\";s:329:\\"[{\\"caption\\":\\"Technical characteristics\\", \\"fields\\": [\\n{\\"field\\":\\"technical_characteristics_header\\",\\"caption\\":\\"\\u0421\\u0432\\u043e\\u0439\\u0441\\u0442\\u0432\\u043e\\"},   {\\"field\\":\\"technical_characteristics_description\\",\\"caption\\":\\"\\u0417\\u043d\\u0430\\u0447\\u0435\\u043d\\u0438\\u0435\\"},\\n{\\"field\\":\\"technical_characteristics_switch\\",\\"caption\\":\\"\\u0412\\u044b\\u0432\\u0435\\u0441\\u0442\\u0438  \\u0437\\u0430\\u0433\\u043e\\u043b\\u043e\\u0432\\u043a\\u043e\\u043c\\",\\"inputTV\\":\\"switch\\"}\\n  ]\\n}]\\";s:7:\\"columns\\";s:323:\\"[{\\n  \\"header\\": \\"\\u0421\\u0432\\u043e\\u0439\\u0441\\u0442\\u0432\\u043e\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"technical_characteristics_header\\"\\n},{\\n  \\"header\\": \\"\\u0417\\u043d\\u0430\\u0447\\u0435\\u043d\\u0438\\u0435\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"technical_characteristics_description\\"\\n},\\n{\\n  \\"header\\": \\"\\u0417\\u0430\\u0433\\u043e\\u043b\\u043e\\u0432\\u043e\\u043a\\", \\"sortable\\": \\"false\\", \\"dataIndex\\": \\"technical_characteristics_switch\\"\\n}\\n]\\";s:7:\\"btntext\\";s:0:\\"\\";s:10:\\"previewurl\\";s:0:\\"\\";s:10:\\"jsonvarkey\\";s:0:\\"\\";s:19:\\"autoResourceFolders\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

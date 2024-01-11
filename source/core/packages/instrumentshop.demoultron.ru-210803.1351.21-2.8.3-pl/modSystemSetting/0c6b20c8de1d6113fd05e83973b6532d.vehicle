@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e5be0113c70c9943ec33f81d7eeb789d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '0c6b20c8de1d6113fd05e83973b6532d',
+  'native_key' => 'ace.grow',
+  'object' => '{"key":"ace.grow","value":"","xtype":"textfield","namespace":"ace","area":"general","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd9f7d945f3c515146e40404984d2e063',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => '865b16b039a502e59d811306ddd7c18f',
+  'native_key' => 25,
+  'object' => '{"id":25,"source":0,"property_preprocess":0,"name":"migxJsonToPlaceholders","description":"","editor_type":0,"category":3,"cache_type":0,"snippet":"$value = $modx->getOption(\'value\',$scriptProperties,\'\');\\r\\n$prefix = $modx->getOption(\'prefix\',$scriptProperties,\'\');\\r\\n\\r\\n\\/\\/$modx->setPlaceholders($modx->fromJson($value),$prefix,\'\',true);\\r\\n\\r\\n$values = json_decode($value, true);\\r\\n\\r\\n$it = new RecursiveIteratorIterator(new RecursiveArrayIterator($values));\\r\\n\\r\\nif (is_array($values)){\\r\\n    foreach ($it as $key => $value){\\r\\n        $value = $value == null ? \'\' : $value;\\r\\n        $modx->setPlaceholder($prefix . $key, $value);\\r\\n    }\\r\\n}","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"$value = $modx->getOption(\'value\',$scriptProperties,\'\');\\r\\n$prefix = $modx->getOption(\'prefix\',$scriptProperties,\'\');\\r\\n\\r\\n\\/\\/$modx->setPlaceholders($modx->fromJson($value),$prefix,\'\',true);\\r\\n\\r\\n$values = json_decode($value, true);\\r\\n\\r\\n$it = new RecursiveIteratorIterator(new RecursiveArrayIterator($values));\\r\\n\\r\\nif (is_array($values)){\\r\\n    foreach ($it as $key => $value){\\r\\n        $value = $value == null ? \'\' : $value;\\r\\n        $modx->setPlaceholder($prefix . $key, $value);\\r\\n    }\\r\\n}"}',
+);

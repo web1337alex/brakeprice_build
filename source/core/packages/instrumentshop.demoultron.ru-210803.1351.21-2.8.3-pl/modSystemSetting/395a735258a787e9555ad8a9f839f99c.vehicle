@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '219a23451a9bfedfa30dd2c394c5af6a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '395a735258a787e9555ad8a9f839f99c',
+  'native_key' => 'ugm_interval',
+  'object' => '{"key":"ugm_interval","value":"1 day","xtype":"textfield","namespace":"upgrademodx","area":"Widget","editedon":null}',
+);

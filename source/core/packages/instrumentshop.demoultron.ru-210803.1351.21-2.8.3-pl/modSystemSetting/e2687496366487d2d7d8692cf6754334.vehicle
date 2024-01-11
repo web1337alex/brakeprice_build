@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5159dc58477f48baffe0d9f63744ea63',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'e2687496366487d2d7d8692cf6754334',
+  'native_key' => 'mail_smtp_autotls',
+  'object' => '{"key":"mail_smtp_autotls","value":"1","xtype":"combo-boolean","namespace":"core","area":"mail","editedon":null}',
+);

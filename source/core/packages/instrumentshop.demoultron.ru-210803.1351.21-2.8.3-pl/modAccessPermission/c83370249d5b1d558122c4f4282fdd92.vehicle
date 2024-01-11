@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c2135a6e8dcf48b2852283ac09d1ef7e',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'c83370249d5b1d558122c4f4282fdd92',
+  'native_key' => 230,
+  'object' => '{"id":230,"template":8,"name":"msproductfile_list","description":"msproductfile_list","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3a79b065474b9f074af5d5cfdb908876',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '74e2baaa4e2750e4f308c632f9f71609',
+  'native_key' => 221,
+  'object' => '{"id":221,"template":8,"name":"msproduct_save","description":"msproduct_save","value":1}',
+);

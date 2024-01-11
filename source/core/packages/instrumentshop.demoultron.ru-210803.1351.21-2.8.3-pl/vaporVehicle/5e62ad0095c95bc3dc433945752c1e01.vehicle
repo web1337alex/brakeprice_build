@@ -1,0 +1,31 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_order_products',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_order_products`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_order_products` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `product_id` int(10) unsigned NOT NULL,
+  `order_id` int(10) unsigned NOT NULL,
+  `name` varchar(255) DEFAULT NULL,
+  `count` int(10) unsigned DEFAULT 1,
+  `price` decimal(12,2) DEFAULT 0.00,
+  `weight` decimal(13,3) DEFAULT 0.000,
+  `cost` decimal(12,2) DEFAULT 0.00,
+  `options` text DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `product_id` (`product_id`),
+  KEY `order_id` (`order_id`)
+) ENGINE=MyISAM AUTO_INCREMENT=199 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => 'aa15fbfbfdaf7f4dda890c8a944d4783',
+  'package' => '',
+  'signature' => '5e62ad0095c95bc3dc433945752c1e01',
+  'native_key' => 'aa15fbfbfdaf7f4dda890c8a944d4783',
+);

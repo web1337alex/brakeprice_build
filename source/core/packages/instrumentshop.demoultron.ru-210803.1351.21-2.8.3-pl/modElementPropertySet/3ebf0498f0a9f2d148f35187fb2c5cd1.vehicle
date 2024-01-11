@@ -1,0 +1,17 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c90b051a4cd590a0d1978c428a99799f',
+  'package' => 'modx',
+  'class' => 'modElementPropertySet',
+  'signature' => '3ebf0498f0a9f2d148f35187fb2c5cd1',
+  'native_key' => 
+  array (
+    0 => 60,
+    1 => 'modSnippet',
+    2 => 1,
+  ),
+  'object' => '{"element":60,"element_class":"modSnippet","property_set":1}',
+);

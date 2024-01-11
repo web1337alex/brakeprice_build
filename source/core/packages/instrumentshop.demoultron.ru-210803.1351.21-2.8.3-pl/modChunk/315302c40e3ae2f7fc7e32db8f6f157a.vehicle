@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5d9553e5d25277f7a7523bec8f20ddb5',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '315302c40e3ae2f7fc7e32db8f6f157a',
+  'native_key' => 46,
+  'object' => '{"id":46,"source":1,"property_preprocess":0,"name":"tpl.msMiniCart","description":"\\u0427\\u0430\\u043d\\u043a \\u0432\\u044b\\u0432\\u043e\\u0434\\u0430 \\u043c\\u0438\\u043d\\u0438 \\u043a\\u043e\\u0440\\u0437\\u0438\\u043d\\u044b miniShop2.","editor_type":0,"category":22,"cache_type":0,"snippet":"<div id=\\"msMiniCart\\" class=\\"{$total_count > 0 ? \'full\' : \'\'}\\">\\r\\n    <div class=\\"empty\\">\\r\\n        <h5><i class=\\"glyphicon glyphicon-shopping-cart\\"><\\/i> {\'ms2_minicart\' | lexicon}<\\/h5>\\r\\n        {\'ms2_minicart_is_empty\' | lexicon}\\r\\n    <\\/div>\\r\\n    <div class=\\"not_empty\\">\\r\\n        <h5><i class=\\"glyphicon glyphicon-shopping-cart\\"><\\/i> {\'ms2_minicart\' | lexicon}<\\/h5>\\r\\n        {\'ms2_minicart_goods\' | lexicon} <strong class=\\"ms2_total_count\\">{$total_count}<\\/strong> {\'ms2_frontend_count_unit\' | lexicon},\\r\\n        {\'ms2_minicart_cost\' | lexicon} <strong class=\\"ms2_total_cost\\">{$total_cost}<\\/strong> {\'ms2_frontend_currency\' | lexicon}\\r\\n    <\\/div>\\r\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_minicart.tpl","content":"<div id=\\"msMiniCart\\" class=\\"{$total_count > 0 ? \'full\' : \'\'}\\">\\r\\n    <div class=\\"empty\\">\\r\\n        <h5><i class=\\"glyphicon glyphicon-shopping-cart\\"><\\/i> {\'ms2_minicart\' | lexicon}<\\/h5>\\r\\n        {\'ms2_minicart_is_empty\' | lexicon}\\r\\n    <\\/div>\\r\\n    <div class=\\"not_empty\\">\\r\\n        <h5><i class=\\"glyphicon glyphicon-shopping-cart\\"><\\/i> {\'ms2_minicart\' | lexicon}<\\/h5>\\r\\n        {\'ms2_minicart_goods\' | lexicon} <strong class=\\"ms2_total_count\\">{$total_count}<\\/strong> {\'ms2_frontend_count_unit\' | lexicon},\\r\\n        {\'ms2_minicart_cost\' | lexicon} <strong class=\\"ms2_total_cost\\">{$total_cost}<\\/strong> {\'ms2_frontend_currency\' | lexicon}\\r\\n    <\\/div>\\r\\n<\\/div>"}',
+);

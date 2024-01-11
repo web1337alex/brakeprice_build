@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd7cd8129cb1e40f365fa7ff806175c09',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '1b2b49a91d24f58a74d727b2845bc82c',
+  'native_key' => 
+  array (
+    0 => 15,
+    1 => 'pdoToolsOnFenomInit',
+  ),
+  'object' => '{"pluginid":15,"event":"pdoToolsOnFenomInit","priority":0,"propertyset":0}',
+);

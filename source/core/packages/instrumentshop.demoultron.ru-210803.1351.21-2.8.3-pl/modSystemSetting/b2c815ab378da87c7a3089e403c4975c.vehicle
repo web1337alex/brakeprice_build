@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '83bd27b21e320f0187084cec7aa60723',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'b2c815ab378da87c7a3089e403c4975c',
+  'native_key' => 'tiny.fix_nesting',
+  'object' => '{"key":"tiny.fix_nesting","value":"","xtype":"combo-boolean","namespace":"tinymce","area":"cleanup-output","editedon":null}',
+);

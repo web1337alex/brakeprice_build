@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '97af401d6c81d1dce7ae43c56eb1162c',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '953abc5057d77fda69aa91b964ab60be',
+  'native_key' => 231,
+  'object' => '{"id":231,"template":8,"name":"msproduct_publish","description":"msproduct_publish","value":1}',
+);

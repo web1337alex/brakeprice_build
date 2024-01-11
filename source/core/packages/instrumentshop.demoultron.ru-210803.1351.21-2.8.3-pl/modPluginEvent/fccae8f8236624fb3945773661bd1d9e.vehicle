@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '97011109d4adab9420d908b94203cf7a',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => 'fccae8f8236624fb3945773661bd1d9e',
+  'native_key' => 
+  array (
+    0 => 7,
+    1 => 'OnBeforeDocFormSave',
+  ),
+  'object' => '{"pluginid":7,"event":"OnBeforeDocFormSave","priority":0,"propertyset":0}',
+);

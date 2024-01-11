@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f9d8c72d4efd2ea239d06380eb480d5e',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '4d6d564201b1615869a84dc36638b142',
+  'native_key' => 7,
+  'object' => '{"id":7,"source":1,"property_preprocess":0,"name":"breadcrumbs","description":"","editor_type":0,"category":5,"cache_type":0,"snippet":"[[pdoCrumbs? &showHome=`1` &exclude=`2,120`]]","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"[[pdoCrumbs? &showHome=`1` &exclude=`2,120`]]"}',
+);

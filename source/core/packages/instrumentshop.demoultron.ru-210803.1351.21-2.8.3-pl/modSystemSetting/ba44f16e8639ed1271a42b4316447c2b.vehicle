@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c4e34fa92aca1972ff75fdf981057fa4',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'ba44f16e8639ed1271a42b4316447c2b',
+  'native_key' => 'ms2_frontend_message_js_settings',
+  'object' => '{"key":"ms2_frontend_message_js_settings","value":"[[+jsUrl]]web\\/message_settings.js","xtype":"textfield","namespace":"minishop2","area":"ms2_frontend","editedon":null}',
+);

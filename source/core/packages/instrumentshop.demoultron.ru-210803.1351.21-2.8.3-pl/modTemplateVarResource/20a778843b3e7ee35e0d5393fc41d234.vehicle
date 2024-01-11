@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '072803ea8fec643715eaefbc85cf8c1d',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '20a778843b3e7ee35e0d5393fc41d234',
+  'native_key' => 47,
+  'object' => '{"id":47,"tmplvarid":6,"contentid":63,"value":"images\\/catalog-categories\\/sashimi.jpg"}',
+);

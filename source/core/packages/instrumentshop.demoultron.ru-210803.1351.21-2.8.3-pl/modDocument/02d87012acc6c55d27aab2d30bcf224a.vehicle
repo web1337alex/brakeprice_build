@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '81ebaa0afdac46006382d6af1a092629',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => '02d87012acc6c55d27aab2d30bcf224a',
+  'native_key' => 120,
+  'object' => '{"id":120,"type":"document","contentType":"text\\/html","pagetitle":"\\u041f\\u0440\\u043e\\u0438\\u0437\\u0432\\u043e\\u0434\\u0438\\u0442\\u0435\\u043b\\u0438","longtitle":"","description":"","alias":"proizvoditeli","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":1,"introtext":"","content":"","richtext":1,"template":6,"menuindex":10,"searchable":0,"cacheable":1,"createdby":1,"createdon":1511870974,"editedby":1,"editedon":1511871085,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1511870940,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":1,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"proizvoditeli\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\"}}"}',
+);

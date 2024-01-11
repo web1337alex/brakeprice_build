@@ -1,0 +1,27 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'migx_formtabs',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]migx_formtabs`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]migx_formtabs` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `config_id` int(10) NOT NULL DEFAULT 0,
+  `caption` varchar(255) NOT NULL DEFAULT \'\',
+  `pos` int(10) NOT NULL DEFAULT 0,
+  `print_before_tabs` tinyint(1) unsigned NOT NULL DEFAULT 0,
+  `extended` text NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `config_id` (`config_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => 'adaad8e57d43c403e199bd30b6a7cb06',
+  'package' => '',
+  'signature' => '9a3c7c9b3e13edf5799c28deb92963cc',
+  'native_key' => 'adaad8e57d43c403e199bd30b6a7cb06',
+);

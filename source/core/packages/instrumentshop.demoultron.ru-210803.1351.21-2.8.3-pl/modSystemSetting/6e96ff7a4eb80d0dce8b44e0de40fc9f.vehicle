@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '133d6dee4646b0e950367c8c102737fa',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '6e96ff7a4eb80d0dce8b44e0de40fc9f',
+  'native_key' => 'manager_js_cache_file_locking',
+  'object' => '{"key":"manager_js_cache_file_locking","value":"1","xtype":"combo-boolean","namespace":"core","area":"manager","editedon":null}',
+);

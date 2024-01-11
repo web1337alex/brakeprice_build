@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '059876698599a07c04d34e7c1556e6d4',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => '2eceedf9d412a88f22d7529e147530a2',
+  'native_key' => 85,
+  'object' => '{"id":85,"source":0,"property_preprocess":0,"name":"migx_example_validate","description":"","editor_type":0,"category":3,"cache_type":0,"snippet":"$properties = &$modx->getOption(\'scriptProperties\', $scriptProperties, array());\\n$object = &$modx->getOption(\'object\', $scriptProperties, null);\\n$postvalues = &$modx->getOption(\'postvalues\', $scriptProperties, array());\\n$form_field = $modx->getOption(\'form_field\', $scriptProperties, array());\\n$value = $modx->getOption(\'value\', $scriptProperties, \'\');\\n$validation_type = $modx->getOption(\'validation_type\', $scriptProperties, \'\');\\n$result = \'\';\\nswitch ($validation_type) {\\n    case \'gt25\':\\n        if ((int) $value > 25) {\\n        } else {\\n            $error_message = $validation_type; \\/\\/ may be custom validation message\\n            $error[\'caption\'] = $form_field;\\n            $error[\'validation_type\'] = $error_message;\\n            $result[\'error\'] = $error;\\n            $result = $modx->toJson($result);\\n        }\\n        break;\\n}\\nreturn $result;","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"$properties = &$modx->getOption(\'scriptProperties\', $scriptProperties, array());\\n$object = &$modx->getOption(\'object\', $scriptProperties, null);\\n$postvalues = &$modx->getOption(\'postvalues\', $scriptProperties, array());\\n$form_field = $modx->getOption(\'form_field\', $scriptProperties, array());\\n$value = $modx->getOption(\'value\', $scriptProperties, \'\');\\n$validation_type = $modx->getOption(\'validation_type\', $scriptProperties, \'\');\\n$result = \'\';\\nswitch ($validation_type) {\\n    case \'gt25\':\\n        if ((int) $value > 25) {\\n        } else {\\n            $error_message = $validation_type; \\/\\/ may be custom validation message\\n            $error[\'caption\'] = $form_field;\\n            $error[\'validation_type\'] = $error_message;\\n            $result[\'error\'] = $error;\\n            $result = $modx->toJson($result);\\n        }\\n        break;\\n}\\nreturn $result;"}',
+);

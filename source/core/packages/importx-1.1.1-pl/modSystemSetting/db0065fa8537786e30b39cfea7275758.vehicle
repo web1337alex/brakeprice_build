@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'importx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a477c72a11af097563d5bfda6b0059d9',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'db0065fa8537786e30b39cfea7275758',
+  'native_key' => 'importx.datatype',
+  'object' => '{"key":"importx.datatype","value":"csv","xtype":"textfield","namespace":"importx","area":"Default","editedon":null}',
+);

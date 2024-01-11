@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '212caf09a9f312924ab96b6785237442',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '9fa42319ae656f41a2f417e6d7fcfea5',
+  'native_key' => 'seopro.version',
+  'object' => '{"key":"seopro.version","value":"1.0.4","xtype":"textfield","namespace":"seopro","area":"general","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b1c0f1f0bf5678e23dd1d00b4d0bc2f8',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '4af7118ac29e9b184a67d4d30c241289',
+  'native_key' => 16,
+  'object' => '{"id":16,"template":1,"name":"database_truncate","description":"perm.database_truncate_desc","value":1}',
+);

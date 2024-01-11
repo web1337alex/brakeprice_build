@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6a6ec2281b7c314bd6fe146db934dc4d',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => 'c58892b0ff5793346a3ee0bcc52b50eb',
+  'native_key' => 42,
+  'object' => '{"id":42,"type":"document","contentType":"text\\/html","pagetitle":"\\u0413\\u0430\\u0439\\u043a\\u043e\\u0432\\u0435\\u0440\\u0442\\u044b","longtitle":"","description":"","alias":"gajkovertyi","alias_visible":1,"link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":127,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":2,"searchable":1,"cacheable":1,"createdby":1,"createdon":1487605945,"editedby":1,"editedon":1511874239,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487605920,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"gajkovertyi\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

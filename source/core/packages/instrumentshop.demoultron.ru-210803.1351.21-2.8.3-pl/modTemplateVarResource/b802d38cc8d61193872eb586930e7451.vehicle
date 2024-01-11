@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '638b2bff1201a1d57e06fdda5fa1bc4d',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => 'b802d38cc8d61193872eb586930e7451',
+  'native_key' => 50,
+  'object' => '{"id":50,"tmplvarid":6,"contentid":101,"value":"images\\/catalog-categories\\/beer.jpg"}',
+);

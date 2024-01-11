@@ -1,0 +1,44 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_product_options',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_product_options`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_product_options` (
+  `product_id` int(10) unsigned NOT NULL,
+  `key` varchar(255) NOT NULL,
+  `value` text DEFAULT NULL,
+  KEY `product` (`product_id`,`key`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'119\', \'color\', \'синий\')',
+      1 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'119\', \'color\', \'зеленый\')',
+      2 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'106\', \'color\', \'зеленый\')',
+      3 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'105\', \'color\', \'зеленый\')',
+      4 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'107\', \'color\', \'серый\')',
+      5 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'85\', \'color\', \'синий\')',
+      6 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'84\', \'color\', \'синий\')',
+      7 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'83\', \'color\', \'синий\')',
+      8 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'82\', \'color\', \'синий\')',
+      9 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'80\', \'color\', \'синий\')',
+      10 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'86\', \'color\', \'синий\')',
+      11 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'88\', \'color\', \'синий\')',
+      12 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'89\', \'color\', \'синий\')',
+      13 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'90\', \'color\', \'зеленый\')',
+      14 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'91\', \'color\', \'синий\')',
+      15 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'131\', \'color\', \'оранжевый\')',
+      16 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'132\', \'color\', \'желтый\')',
+      17 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'134\', \'color\', \'красный\')',
+      18 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'134\', \'color\', \'желтый\')',
+      19 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'139\', \'color\', \'серый\')',
+      20 => 'INSERT INTO `[[++table_prefix]]ms2_product_options` (`product_id`, `key`, `value`) VALUES (\'140\', \'color\', \'желтый\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '5edd0018a3bea8b4ec22bb6c5bd6e28f',
+  'package' => '',
+  'signature' => '54482b500fcf1b2ace4433fd888f4014',
+  'native_key' => '5edd0018a3bea8b4ec22bb6c5bd6e28f',
+);

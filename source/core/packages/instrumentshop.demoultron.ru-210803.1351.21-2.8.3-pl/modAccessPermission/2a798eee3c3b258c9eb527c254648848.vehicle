@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a5cf7f9c50cb059dfe93b21da8718be3',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '2a798eee3c3b258c9eb527c254648848',
+  'native_key' => 89,
+  'object' => '{"id":89,"template":1,"name":"new_plugin","description":"perm.new_plugin_desc","value":1}',
+);

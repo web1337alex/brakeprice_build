@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '20d50907d1ffd29efbb55d8f1a8fb682',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'c3181c2f823682161cbe3af760150969',
+  'native_key' => 88,
+  'object' => '{"id":88,"template":1,"name":"new_document_in_root","description":"perm.new_document_in_root_desc","value":1}',
+);

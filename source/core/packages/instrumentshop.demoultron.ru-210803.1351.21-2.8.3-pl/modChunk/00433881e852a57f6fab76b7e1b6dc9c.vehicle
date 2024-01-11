@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a85dec19d5926c917f29414c6e90feb5',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '00433881e852a57f6fab76b7e1b6dc9c',
+  'native_key' => 90,
+  'object' => '{"id":90,"source":1,"property_preprocess":0,"name":"sidebar","description":"","editor_type":0,"category":5,"cache_type":0,"snippet":"<div class=\\"aside\\">\\n    <div class=\\"aside-menu\\">\\n        <div class=\\"title relative\\">\\n            <div><\\/div>\\n            <i class=\\"material-icons\\">view_module<\\/i> <span class=\\"hidden-xs\\">\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0438 \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432<\\/span>\\n        <\\/div>\\n        [[pdoMenu? \\n        &parents=`33` \\n        &level=`3` \\n        &showHidden=`1`\\n        &where=`{\\"template\\":5}`\\n        ]]\\n    <\\/div>\\n<\\/div>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div class=\\"aside\\">\\n    <div class=\\"aside-menu\\">\\n        <div class=\\"title relative\\">\\n            <div><\\/div>\\n            <i class=\\"material-icons\\">view_module<\\/i> <span class=\\"hidden-xs\\">\\u041a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0438 \\u0442\\u043e\\u0432\\u0430\\u0440\\u043e\\u0432<\\/span>\\n        <\\/div>\\n        [[pdoMenu? \\n        &parents=`33` \\n        &level=`3` \\n        &showHidden=`1`\\n        &where=`{\\"template\\":5}`\\n        ]]\\n    <\\/div>\\n<\\/div>"}',
+);

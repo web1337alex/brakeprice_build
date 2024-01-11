@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2b99930451c118c17be35264f27a4e5a',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '597152b8aa1e349139c6c3dd485cee6f',
+  'native_key' => 
+  array (
+    0 => 6,
+    1 => 'OnResourceDuplicate',
+  ),
+  'object' => '{"pluginid":6,"event":"OnResourceDuplicate","priority":0,"propertyset":0}',
+);

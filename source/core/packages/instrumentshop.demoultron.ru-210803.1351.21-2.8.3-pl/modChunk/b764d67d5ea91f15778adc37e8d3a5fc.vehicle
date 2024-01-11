@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '672169fa453ec278f2a5ecc023b3112d',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'b764d67d5ea91f15778adc37e8d3a5fc',
+  'native_key' => 70,
+  'object' => '{"id":70,"source":0,"property_preprocess":0,"name":"mapexPolylineTpl","description":"","editor_type":0,"category":23,"cache_type":0,"snippet":"[[+mapId]].geoObjects.add(new ymaps.Polyline([[+coords]], [[+properties]], [[+options]]));\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"[[+mapId]].geoObjects.add(new ymaps.Polyline([[+coords]], [[+properties]], [[+options]]));\\n"}',
+);

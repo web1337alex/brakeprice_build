@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cbd34134c1e7e1f78006e4e7484deb32',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '7e3b69ee92240fb98be30818fddc9db3',
+  'native_key' => 'clientconfig.google_fonts_api_key',
+  'object' => '{"key":"clientconfig.google_fonts_api_key","value":"","xtype":"textfield","namespace":"clientconfig","area":"Default","editedon":null}',
+);

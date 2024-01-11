@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b0d0e21fc05564ee381d03ca993619f8',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'cd3c2dc9736001434c1067d4742d990f',
+  'native_key' => 35,
+  'object' => '{"id":35,"source":1,"property_preprocess":0,"name":"tpl.mFilter2.filter.slider","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<span class=\\"title\\">\\n    <span class=\\"switch\\"><\\/span>\\n    [[%mse2_filter_[[+table]]_[[+filter]]]]\\n<\\/span>\\n<ul>\\n    <li>\\n        <figure>\\n            <fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\" style=\\"padding: 0 15px;\\">\\n            \\t<div class=\\"mse2_number_slider\\"><\\/div>\\n            \\t<div class=\\"mse2_number_inputs\\">\\n            \\t    <div class=\\"row\\">\\n            \\t        [[+rows]]\\n            \\t    <\\/div>\\n            \\t<\\/div>\\n            <\\/fieldset>\\n        <\\/figure>\\n    <\\/li>\\n<\\/ul>","locked":0,"properties":"a:0:{}","static":0,"static_file":"core\\/components\\/msearch2\\/elements\\/chunks\\/chunk.mfilter2.filter.slider.tpl","content":"<span class=\\"title\\">\\n    <span class=\\"switch\\"><\\/span>\\n    [[%mse2_filter_[[+table]]_[[+filter]]]]\\n<\\/span>\\n<ul>\\n    <li>\\n        <figure>\\n            <fieldset id=\\"mse2_[[+table]][[+delimeter]][[+filter]]\\" style=\\"padding: 0 15px;\\">\\n            \\t<div class=\\"mse2_number_slider\\"><\\/div>\\n            \\t<div class=\\"mse2_number_inputs\\">\\n            \\t    <div class=\\"row\\">\\n            \\t        [[+rows]]\\n            \\t    <\\/div>\\n            \\t<\\/div>\\n            <\\/fieldset>\\n        <\\/figure>\\n    <\\/li>\\n<\\/ul>"}',
+);

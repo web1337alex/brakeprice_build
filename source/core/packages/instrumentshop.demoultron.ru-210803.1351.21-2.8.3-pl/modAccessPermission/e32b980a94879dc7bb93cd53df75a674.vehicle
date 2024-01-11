@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd727dd9008ef4382c0d7e9e214c8f723',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'e32b980a94879dc7bb93cd53df75a674',
+  'native_key' => 65,
+  'object' => '{"id":65,"template":1,"name":"languages","description":"perm.languages_desc","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'cfffd73df3fcfda1cc04b100ff9c6ff2',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '21f5fc9a00b14e9e879ee6a7b930e534',
+  'native_key' => 69,
+  'object' => '{"id":69,"source":0,"property_preprocess":0,"name":"mapexPolygoneTpl","description":"","editor_type":0,"category":23,"cache_type":0,"snippet":"[[+mapId]].geoObjects.add(new ymaps.Polygon(\\n    [[+coords]],\\n    [[+properties]],\\n    [[+options]]\\n));\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"[[+mapId]].geoObjects.add(new ymaps.Polygon(\\n    [[+coords]],\\n    [[+properties]],\\n    [[+options]]\\n));\\n"}',
+);

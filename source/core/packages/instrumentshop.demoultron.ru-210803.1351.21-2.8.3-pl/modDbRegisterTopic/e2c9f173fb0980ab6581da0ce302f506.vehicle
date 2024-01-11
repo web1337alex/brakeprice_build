@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd5dcad171a132ce85b9c7d110f456479',
+  'package' => 'modx.registry.db',
+  'class' => 'modDbRegisterTopic',
+  'signature' => 'e2c9f173fb0980ab6581da0ce302f506',
+  'native_key' => 3,
+  'object' => '{"id":3,"queue":3,"name":"\\/modstore\\/","created":"2017-12-07 19:21:09","updated":null,"options":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8894278899fc6237f9e80ba6456de142',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'ca998081cee47cdbe94dfb8936a6ae5e',
+  'native_key' => 8,
+  'object' => '{"id":8,"parent":0,"category":"StercSEO","rank":0}',
+);

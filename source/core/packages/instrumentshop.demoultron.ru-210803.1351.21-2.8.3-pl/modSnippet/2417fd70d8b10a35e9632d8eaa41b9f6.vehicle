@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a6c727155cb910f0423d53fd4ba68501',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => '2417fd70d8b10a35e9632d8eaa41b9f6',
+  'native_key' => 40,
+  'object' => '{"id":40,"source":1,"property_preprocess":0,"name":"dateRu","description":"","editor_type":0,"category":29,"cache_type":0,"snippet":"$month_arr = array(\'01\' => \'\\u042f\\u043d\\u0432\\u0430\\u0440\\u044f\', \\n\'02\' => \'\\u0424\\u0435\\u0432\\u0440\\u0430\\u043b\\u044f\',\\n\'03\' => \'\\u041c\\u0430\\u0440\\u0442\\u0430\',\\n\'04\' => \'\\u0410\\u043f\\u0440\\u0435\\u043b\\u044f\',\\n\'05\' => \'\\u041c\\u0430\\u044f\',\\n\'06\' => \'\\u0418\\u044e\\u043d\\u044f\',\\n\'07\' => \'\\u0418\\u044e\\u043b\\u044f\',\\n\'08\' => \'\\u0410\\u0432\\u0433\\u0443\\u0441\\u0442\\u0430\',\\n\'09\' => \'\\u0421\\u0435\\u043d\\u0442\\u044f\\u0431\\u0440\\u044f\',\\n\'10\' => \'\\u041e\\u043a\\u0442\\u044f\\u0431\\u0440\\u044f\',\\n\'11\' => \'\\u041d\\u043e\\u044f\\u0431\\u0440\\u044f\',\\n\'12\' => \'\\u0414\\u0435\\u043a\\u0430\\u0431\\u0440\\u044f\'\\n);\\n\\n$d = $input; \\n$month = strftime(\\"%m\\",$d); \\n$year = strftime(\\"%Y\\",$d); \\n$day = strftime(\\"%d\\",$d); \\n$month = $month_arr[$month]; \\n\\nreturn $month;","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"$month_arr = array(\'01\' => \'\\u042f\\u043d\\u0432\\u0430\\u0440\\u044f\', \\n\'02\' => \'\\u0424\\u0435\\u0432\\u0440\\u0430\\u043b\\u044f\',\\n\'03\' => \'\\u041c\\u0430\\u0440\\u0442\\u0430\',\\n\'04\' => \'\\u0410\\u043f\\u0440\\u0435\\u043b\\u044f\',\\n\'05\' => \'\\u041c\\u0430\\u044f\',\\n\'06\' => \'\\u0418\\u044e\\u043d\\u044f\',\\n\'07\' => \'\\u0418\\u044e\\u043b\\u044f\',\\n\'08\' => \'\\u0410\\u0432\\u0433\\u0443\\u0441\\u0442\\u0430\',\\n\'09\' => \'\\u0421\\u0435\\u043d\\u0442\\u044f\\u0431\\u0440\\u044f\',\\n\'10\' => \'\\u041e\\u043a\\u0442\\u044f\\u0431\\u0440\\u044f\',\\n\'11\' => \'\\u041d\\u043e\\u044f\\u0431\\u0440\\u044f\',\\n\'12\' => \'\\u0414\\u0435\\u043a\\u0430\\u0431\\u0440\\u044f\'\\n);\\n\\n$d = $input; \\n$month = strftime(\\"%m\\",$d); \\n$year = strftime(\\"%Y\\",$d); \\n$day = strftime(\\"%d\\",$d); \\n$month = $month_arr[$month]; \\n\\nreturn $month;"}',
+);

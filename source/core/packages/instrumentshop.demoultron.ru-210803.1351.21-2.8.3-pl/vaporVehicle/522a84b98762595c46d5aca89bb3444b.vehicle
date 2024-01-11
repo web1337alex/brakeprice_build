@@ -1,0 +1,22 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'collection_resource_template',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]collection_resource_template`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]collection_resource_template` (
+  `collection_template` int(10) unsigned NOT NULL,
+  `resource_template` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`collection_template`,`resource_template`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '3894cb2e83f7a84da32a6fdb019566b7',
+  'package' => '',
+  'signature' => '522a84b98762595c46d5aca89bb3444b',
+  'native_key' => '3894cb2e83f7a84da32a6fdb019566b7',
+);

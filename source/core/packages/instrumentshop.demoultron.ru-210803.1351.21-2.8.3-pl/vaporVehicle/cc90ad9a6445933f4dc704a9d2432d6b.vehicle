@@ -1,0 +1,37 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_deliveries',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_deliveries`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_deliveries` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL,
+  `description` text DEFAULT NULL,
+  `price` varchar(11) DEFAULT \'0\',
+  `weight_price` decimal(12,2) DEFAULT 0.00,
+  `distance_price` decimal(12,2) DEFAULT 0.00,
+  `logo` varchar(255) DEFAULT NULL,
+  `rank` tinyint(1) unsigned DEFAULT 0,
+  `active` tinyint(1) DEFAULT 1,
+  `class` varchar(50) DEFAULT NULL,
+  `properties` text DEFAULT NULL,
+  `requires` varchar(255) DEFAULT \'email,receiver\',
+  `free_delivery_amount` decimal(12,2) DEFAULT 0.00,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]ms2_deliveries` (`id`, `name`, `description`, `price`, `weight_price`, `distance_price`, `logo`, `rank`, `active`, `class`, `properties`, `requires`, `free_delivery_amount`) VALUES (\'1\', \'Самовывоз с улицы Фруктовой, д.12\', \'<b>Телефон:</b> 8 (999) 001-01-55\', \'0\', \'0.00\', \'0.00\', \'\', \'0\', \'1\', \'\', NULL, \'receiver,phone\', \'0.00\')',
+      1 => 'INSERT INTO `[[++table_prefix]]ms2_deliveries` (`id`, `name`, `description`, `price`, `weight_price`, `distance_price`, `logo`, `rank`, `active`, `class`, `properties`, `requires`, `free_delivery_amount`) VALUES (\'2\', \'Курьером по городу\', \'+100 руб.\', \'100\', \'0.00\', \'0.00\', \'\', \'2\', \'1\', \'\', NULL, \'receiver,phone\', \'0.00\')',
+      2 => 'INSERT INTO `[[++table_prefix]]ms2_deliveries` (`id`, `name`, `description`, `price`, `weight_price`, `distance_price`, `logo`, `rank`, `active`, `class`, `properties`, `requires`, `free_delivery_amount`) VALUES (\'3\', \'Самовывоз с улицы Гончарова, д.5\', \'<b>Телефон:</b> 8 (999) 001-01-66\', \'0\', \'0.00\', \'0.00\', \'\', \'1\', \'1\', \'\', NULL, \'receiver,phone\', \'0.00\')',
+      3 => 'INSERT INTO `[[++table_prefix]]ms2_deliveries` (`id`, `name`, `description`, `price`, `weight_price`, `distance_price`, `logo`, `rank`, `active`, `class`, `properties`, `requires`, `free_delivery_amount`) VALUES (\'4\', \'Почтой России (наложенный платеж)\', \'Стоимость зависит от пункта назначения. Тарифы можно посмотреть на сайте <a href=\\"https://www.pochta.ru/parcels\\" target=\\"_blank\\">Почты России</a>\', \'0\', \'0.00\', \'0.00\', \'\', \'3\', \'1\', \'\', NULL, \'\', \'0.00\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '4019aba37982b57d13a7a7abd84dbe95',
+  'package' => '',
+  'signature' => 'cc90ad9a6445933f4dc704a9d2432d6b',
+  'native_key' => '4019aba37982b57d13a7a7abd84dbe95',
+);

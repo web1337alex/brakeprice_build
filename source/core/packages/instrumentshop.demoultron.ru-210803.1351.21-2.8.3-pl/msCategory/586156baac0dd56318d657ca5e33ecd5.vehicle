@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c3c33a48d7f739d1d55c88e46674ca01',
+  'package' => 'minishop2',
+  'class' => 'msCategory',
+  'signature' => '586156baac0dd56318d657ca5e33ecd5',
+  'native_key' => 33,
+  'object' => '{"id":33,"type":"document","contentType":"text\\/html","pagetitle":"\\u041c\\u0430\\u0433\\u0430\\u0437\\u0438\\u043d","longtitle":"","description":"","alias":"magazin","alias_visible":1,"link_attributes":"class=\\"catalog-link\\"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":1,"introtext":"","content":"","richtext":1,"template":5,"menuindex":2,"searchable":0,"cacheable":1,"createdby":1,"createdon":1487581284,"editedby":1,"editedon":1512472805,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":1487581260,"publishedby":1,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"msCategory","context_key":"web","content_type":1,"uri":"magazin\\/","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":"{\\"stercseo\\":{\\"index\\":\\"1\\",\\"follow\\":\\"1\\",\\"sitemap\\":\\"1\\",\\"priority\\":\\"0.5\\",\\"changefreq\\":\\"weekly\\",\\"urls\\":\\"\\"}}"}',
+);

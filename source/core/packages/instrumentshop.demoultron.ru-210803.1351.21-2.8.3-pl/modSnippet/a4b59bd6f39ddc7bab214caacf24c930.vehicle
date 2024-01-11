@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c5b0696b326f059f42facb15f3e87b93',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => 'a4b59bd6f39ddc7bab214caacf24c930',
+  'native_key' => 113,
+  'object' => '{"id":113,"source":1,"property_preprocess":0,"name":"robots","description":"","editor_type":0,"category":29,"cache_type":0,"snippet":"$output = \'\';\\n$site_status = (int)$modx->getOption(\'site_status\', $scriptProperties, 1);\\n$site_url = $modx->getOption(\'site_url\', null, \'\');\\n$sitemap = (int)$modx->getOption(\'sitemap\', $scriptProperties, 0);\\n\\n$disallow = [\\n\\t\'User-agent: *\',\\n\\t\'Disallow: \\/assets\\/components\',\\n\\t\'Disallow: \\/connectors\',\\n\\t\'Disallow: \\/core\',\\n\\t\'Disallow: \\/manager\',\\n\\t\'Disallow: \\/search\',\\n\\t\'Disallow: \\/index.php\',\\n\\t\'Disallow: \\/?\',\\n];\\n\\n$offlineText = [\\n\\t\'User-agent: *\',\\n\\t\'Disallow: \\/\'\\n];\\n\\nif ($site_status === 1) {\\n\\t$output = implode(\\"\\\\n\\", $disallow);\\n\\t$output .= \\"\\\\nHost: \\".$modx->getOption(\'site_url\', null, \'\');\\n\\tif ($sitemap > 0) {\\n\\t\\t$output .= \\"\\\\nSitemap: \\".$modx->makeUrl($sitemap, \'\', \'\', \'full\');\\n\\t}\\n} else {\\n\\t$output = implode(\\"\\\\n\\", $offlineText);\\n}\\n\\nreturn $output;","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"$output = \'\';\\n$site_status = (int)$modx->getOption(\'site_status\', $scriptProperties, 1);\\n$site_url = $modx->getOption(\'site_url\', null, \'\');\\n$sitemap = (int)$modx->getOption(\'sitemap\', $scriptProperties, 0);\\n\\n$disallow = [\\n\\t\'User-agent: *\',\\n\\t\'Disallow: \\/assets\\/components\',\\n\\t\'Disallow: \\/connectors\',\\n\\t\'Disallow: \\/core\',\\n\\t\'Disallow: \\/manager\',\\n\\t\'Disallow: \\/search\',\\n\\t\'Disallow: \\/index.php\',\\n\\t\'Disallow: \\/?\',\\n];\\n\\n$offlineText = [\\n\\t\'User-agent: *\',\\n\\t\'Disallow: \\/\'\\n];\\n\\nif ($site_status === 1) {\\n\\t$output = implode(\\"\\\\n\\", $disallow);\\n\\t$output .= \\"\\\\nHost: \\".$modx->getOption(\'site_url\', null, \'\');\\n\\tif ($sitemap > 0) {\\n\\t\\t$output .= \\"\\\\nSitemap: \\".$modx->makeUrl($sitemap, \'\', \'\', \'full\');\\n\\t}\\n} else {\\n\\t$output = implode(\\"\\\\n\\", $offlineText);\\n}\\n\\nreturn $output;"}',
+);

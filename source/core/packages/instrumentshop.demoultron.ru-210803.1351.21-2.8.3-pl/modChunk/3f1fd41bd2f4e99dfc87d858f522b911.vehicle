@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '31aa8967b7b86e3e8cbcc2f6aa4059ab',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '3f1fd41bd2f4e99dfc87d858f522b911',
+  'native_key' => 34,
+  'object' => '{"id":34,"source":1,"property_preprocess":0,"name":"tpl.mFilter2.filter.radio","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<label for=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" class=\\"[[+disabled]]\\">\\n\\t<input type=\\"radio\\" name=\\"[[+table]][[+delimeter]][[+filter]]\\" id=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" value=\\"[[+value]]\\" [[+checked]] [[+disabled]]\\/> [[+title]] <sup>[[+num]]<\\/sup>\\n<\\/label><br\\/>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/msearch2\\/elements\\/chunks\\/chunk.mfilter2.filter.radio.tpl","content":"<label for=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" class=\\"[[+disabled]]\\">\\n\\t<input type=\\"radio\\" name=\\"[[+table]][[+delimeter]][[+filter]]\\" id=\\"mse2_[[+table]][[+delimeter]][[+filter]]_[[+idx]]\\" value=\\"[[+value]]\\" [[+checked]] [[+disabled]]\\/> [[+title]] <sup>[[+num]]<\\/sup>\\n<\\/label><br\\/>"}',
+);

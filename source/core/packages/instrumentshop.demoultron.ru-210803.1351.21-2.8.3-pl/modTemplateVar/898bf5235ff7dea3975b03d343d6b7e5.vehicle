@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd1595835f4f0bdf75d5f15e71fd885c0',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => '898bf5235ff7dea3975b03d343d6b7e5',
+  'native_key' => 9,
+  'object' => '{"id":9,"source":1,"property_preprocess":0,"type":"text","name":"changeTemplate","caption":"","description":"","editor_type":0,"category":0,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:5:{s:10:\\"allowBlank\\";s:4:\\"true\\";s:9:\\"maxLength\\";s:0:\\"\\";s:9:\\"minLength\\";s:0:\\"\\";s:5:\\"regex\\";s:0:\\"\\";s:9:\\"regexText\\";s:0:\\"\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

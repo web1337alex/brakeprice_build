@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ec5e5c21d140c1080578ff213720baa9',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => 'cc84acee1dbdcfe71a31ec18172bb613',
+  'native_key' => 5,
+  'object' => '{"id":5,"source":1,"property_preprocess":0,"type":"richtext","name":"editorFM","caption":"","description":"","editor_type":0,"category":3,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:0:{}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

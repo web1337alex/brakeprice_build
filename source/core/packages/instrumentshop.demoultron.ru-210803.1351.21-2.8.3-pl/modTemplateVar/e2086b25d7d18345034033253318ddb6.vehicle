@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'daf44a5ca451ff6d66c1d43952a0903d',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => 'e2086b25d7d18345034033253318ddb6',
+  'native_key' => 24,
+  'object' => '{"id":24,"source":1,"property_preprocess":0,"type":"migx","name":"video","caption":"\\u0412\\u0438\\u0434\\u0435\\u043e \\u0441 YouTube","description":"","editor_type":0,"category":7,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:7:{s:7:\\"configs\\";s:0:\\"\\";s:8:\\"formtabs\\";s:392:\\"[{\\"caption\\":\\"video\\", \\"fields\\": [\\n{\\"field\\":\\"video-name\\",\\"caption\\":\\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u0432\\u0438\\u0434\\u0435\\u043e\\"},\\n{\\"field\\":\\"video-description\\",\\"caption\\":\\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0432\\u0438\\u0434\\u0435\\u043e\\",\\"inputTV\\":\\"textareaFM\\"},\\n{\\"field\\":\\"video\\",\\"caption\\":\\"\\u0418\\u0434\\u0435\\u043d\\u0442\\u0438\\u0444\\u0438\\u043a\\u0430\\u0442\\u043e\\u0440 \\u0432\\u0438\\u0434\\u0435\\u043e \\u0441 youtube, \\u043d\\u0430\\u043f\\u0440\\u0438\\u043c\\u0435\\u0440 6OflaNlHbcA\\"}, \\n{\\"field\\":\\"video-preview\\",\\"caption\\":\\"\\u0412\\u0438\\u0434\\u0435\\u043e-\\u043f\\u0440\\u0435\\u0432\\u044c\\u044e\\",\\"inputTV\\":\\"pictureFM\\"}\\n  ]\\n}]\\";s:7:\\"columns\\";s:397:\\"[\\n{\\"header\\": \\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u0432\\u0438\\u0434\\u0435\\u043e\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"video-name\\"},\\n{\\"header\\": \\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0432\\u0438\\u0434\\u0435\\u043e\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"video-description\\"},\\n{ \\"header\\": \\"\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430 \\u043d\\u0430 \\u0432\\u0438\\u0434\\u0435\\u043e\\", \\"sortable\\": \\"true\\", \\"dataIndex\\": \\"video\\"},\\n{\\"header\\": \\"\\u0412\\u0438\\u0434\\u0435\\u043e-\\u043f\\u0440\\u0435\\u0432\\u044c\\u044e\\", \\"sortable\\": \\"false\\", \\"dataIndex\\": \\"video-preview\\",\\"renderer\\": \\"this.renderImage\\"}\\n]\\";s:7:\\"btntext\\";s:0:\\"\\";s:10:\\"previewurl\\";s:0:\\"\\";s:10:\\"jsonvarkey\\";s:0:\\"\\";s:19:\\"autoResourceFolders\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

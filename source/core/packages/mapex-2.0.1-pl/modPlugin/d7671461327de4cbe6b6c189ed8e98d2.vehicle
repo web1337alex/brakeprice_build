@@ -1,0 +1,130 @@
+<?php return array (
+  'preserve_keys' => false,
+  'update_object' => true,
+  'unique_key' => 'name',
+  'related_objects' => 
+  array (
+    'PluginEvents' => 
+    array (
+      '9ac43bea4bf70781986f22cceb227e72' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":2,"event":"OnDocFormRender","priority":0,"propertyset":0}',
+        'guid' => 'f0cdc0162127f3b3ff2826cbe37b76dd',
+        'native_key' => 
+        array (
+          0 => 2,
+          1 => 'OnDocFormRender',
+        ),
+        'signature' => 'c5a6dbdfe6f1d3033f8f9941b22e07d3',
+      ),
+      'fda71af749ba665ad1467edf80fcfa3c' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":2,"event":"OnTVInputPropertiesList","priority":0,"propertyset":0}',
+        'guid' => 'a2bf9c930cb02fda690b1127dbcf84eb',
+        'native_key' => 
+        array (
+          0 => 2,
+          1 => 'OnTVInputPropertiesList',
+        ),
+        'signature' => '114067155db3b411bfced45b6ba31230',
+      ),
+      '449673e20b7c041727792ed03169ad3b' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":2,"event":"OnTVInputRenderList","priority":0,"propertyset":0}',
+        'guid' => '3236fd8ef470cde9bb146f0043a250d0',
+        'native_key' => 
+        array (
+          0 => 2,
+          1 => 'OnTVInputRenderList',
+        ),
+        'signature' => '613c06cab5fa36301ed6f5b18f566c17',
+      ),
+      '623b1e8e7f920675e3f82ee4f7182a28' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":2,"event":"OnTVOutputRenderList","priority":0,"propertyset":0}',
+        'guid' => 'ed4203468b6429272861fb73046938c2',
+        'native_key' => 
+        array (
+          0 => 2,
+          1 => 'OnTVOutputRenderList',
+        ),
+        'signature' => '435755edb6c0cc310f293d0756ac80b3',
+      ),
+      '45177029b8512a853763c87e20174113' => 
+      array (
+        'preserve_keys' => true,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'pluginid',
+          1 => 'event',
+        ),
+        'class' => 'modPluginEvent',
+        'object' => '{"pluginid":2,"event":"OnTVOutputRenderPropertiesList","priority":0,"propertyset":0}',
+        'guid' => '0ea6d215a44a9513f5b98ca464d70617',
+        'native_key' => 
+        array (
+          0 => 2,
+          1 => 'OnTVOutputRenderPropertiesList',
+        ),
+        'signature' => 'c35398a593f91938799c23a804c7d014',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'PluginEvents' => 
+    array (
+      'preserve_keys' => true,
+      'update_object' => false,
+      'unique_key' => 
+      array (
+        0 => 'pluginid',
+        1 => 'event',
+      ),
+    ),
+  ),
+  'namespace' => 'mapex',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '436de9c987554a6a20abc1ab9788681e',
+  'package' => 'modx',
+  'class' => 'modPlugin',
+  'signature' => 'd7671461327de4cbe6b6c189ed8e98d2',
+  'native_key' => 2,
+  'object' => '{"id":2,"source":1,"property_preprocess":0,"name":"MapexPlugin","description":"","editor_type":0,"category":0,"cache_type":0,"plugincode":"$corePath = $modx->getOption(\'core_path\', null, MODX_CORE_PATH).\'components\\/mapex\\/\';\\nswitch ($modx->event->name) {\\n    case \'OnTVInputRenderList\':\\n        $modx->event->output($corePath.\'tv\\/input\\/\');\\n        break;\\n    case \'OnTVOutputRenderList\':\\n        $modx->event->output($corePath.\'tv\\/output\\/\');\\n        break;\\n    case \'OnTVInputPropertiesList\':\\n        $modx->event->output($corePath.\'tv\\/inputoptions\\/\');\\n        break;\\n    case \'OnTVOutputRenderPropertiesList\':\\n        $modx->event->output($corePath.\'tv\\/properties\\/\');\\n        break;\\n    case \'OnManagerPageBeforeRender\':\\n        break;\\n    case \'OnDocFormRender\':\\n        $modx->regClientCSS($modx->config[\'assets_url\'].\'components\\/mapex\\/css\\/mapex.css\');\\n        \\n        \\/\\/$modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/jquery-1.7.1.min.js\');\\n        $modx->regClientStartupScript(\'https:\\/\\/ajax.googleapis.com\\/ajax\\/libs\\/jquery\\/1.8.2\\/jquery.min.js\');\\n        $modx->regClientStartupScript(\'http:\\/\\/api-maps.yandex.ru\\/2.0\\/?load=package.full&;lang=ru-RU\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.init.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.storage.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.layouts.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.placemark.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.line.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.polygon.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.route.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.map.js\');\\n\\n        break;\\n}","locked":0,"properties":"a:0:{}","disabled":0,"moduleguid":"","static":0,"static_file":"","content":"$corePath = $modx->getOption(\'core_path\', null, MODX_CORE_PATH).\'components\\/mapex\\/\';\\nswitch ($modx->event->name) {\\n    case \'OnTVInputRenderList\':\\n        $modx->event->output($corePath.\'tv\\/input\\/\');\\n        break;\\n    case \'OnTVOutputRenderList\':\\n        $modx->event->output($corePath.\'tv\\/output\\/\');\\n        break;\\n    case \'OnTVInputPropertiesList\':\\n        $modx->event->output($corePath.\'tv\\/inputoptions\\/\');\\n        break;\\n    case \'OnTVOutputRenderPropertiesList\':\\n        $modx->event->output($corePath.\'tv\\/properties\\/\');\\n        break;\\n    case \'OnManagerPageBeforeRender\':\\n        break;\\n    case \'OnDocFormRender\':\\n        $modx->regClientCSS($modx->config[\'assets_url\'].\'components\\/mapex\\/css\\/mapex.css\');\\n        \\n        \\/\\/$modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/jquery-1.7.1.min.js\');\\n        $modx->regClientStartupScript(\'https:\\/\\/ajax.googleapis.com\\/ajax\\/libs\\/jquery\\/1.8.2\\/jquery.min.js\');\\n        $modx->regClientStartupScript(\'http:\\/\\/api-maps.yandex.ru\\/2.0\\/?load=package.full&;lang=ru-RU\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.init.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.storage.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.layouts.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.placemark.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.line.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.polygon.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.route.js\');\\n        $modx->regClientStartupScript($modx->config[\'assets_url\'].\'components\\/mapex\\/js\\/mapex.map.js\');\\n\\n        break;\\n}"}',
+);

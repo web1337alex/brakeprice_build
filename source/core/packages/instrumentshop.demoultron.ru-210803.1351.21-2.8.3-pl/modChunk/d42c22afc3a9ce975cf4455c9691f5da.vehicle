@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '99b144b971923a73b7c230372353af17',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'd42c22afc3a9ce975cf4455c9691f5da',
+  'native_key' => 115,
+  'object' => '{"id":115,"source":1,"property_preprocess":0,"name":"tpl.msGallery.custom","description":"","editor_type":0,"category":26,"cache_type":0,"snippet":"<div id=\\"msGallery\\">\\n    {if $files?}\\n        <div class=\\"fotorama\\"\\n             data-nav=\\"thumbs\\"\\n             data-thumbheight=\\"50\\"\\n             data-allowfullscreen=\\"true\\"\\n             data-swipe=\\"true\\"\\n             data-autoplay=\\"5000\\">\\n            {foreach $files as $file}\\n                <a href=\\"{$file[\'url\']}\\" target=\\"_blank\\">\\n                    <img src=\\"{$file[\'small\']}\\" alt=\\"\\" title=\\"\\">\\n                <\\/a>\\n            {\\/foreach}\\n        <\\/div>\\n    {else}\\n        <img src=\\"{(\'assets_url\' | option) ~ \'template\\/images\\/empty-medium.png\'}\\"\\n             alt=\\"\\u043d\\u0435\\u0442 \\u0438\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u044f\\" title=\\"\\"\\/>\\n    {\\/if}\\n<\\/div>","locked":0,"properties":"a:0:{}","static":0,"static_file":"core\\/components\\/minishop2\\/elements\\/chunks\\/chunk.ms_gallery.tpl","content":"<div id=\\"msGallery\\">\\n    {if $files?}\\n        <div class=\\"fotorama\\"\\n             data-nav=\\"thumbs\\"\\n             data-thumbheight=\\"50\\"\\n             data-allowfullscreen=\\"true\\"\\n             data-swipe=\\"true\\"\\n             data-autoplay=\\"5000\\">\\n            {foreach $files as $file}\\n                <a href=\\"{$file[\'url\']}\\" target=\\"_blank\\">\\n                    <img src=\\"{$file[\'small\']}\\" alt=\\"\\" title=\\"\\">\\n                <\\/a>\\n            {\\/foreach}\\n        <\\/div>\\n    {else}\\n        <img src=\\"{(\'assets_url\' | option) ~ \'template\\/images\\/empty-medium.png\'}\\"\\n             alt=\\"\\u043d\\u0435\\u0442 \\u0438\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u044f\\" title=\\"\\"\\/>\\n    {\\/if}\\n<\\/div>"}',
+);

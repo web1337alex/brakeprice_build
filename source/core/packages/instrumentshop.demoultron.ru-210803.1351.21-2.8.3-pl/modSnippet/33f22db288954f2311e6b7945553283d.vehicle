@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1ded441b5ed5b4ef96a7862550dfd38d',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => '33f22db288954f2311e6b7945553283d',
+  'native_key' => 83,
+  'object' => '{"id":83,"source":1,"property_preprocess":0,"name":"time","description":"","editor_type":0,"category":29,"cache_type":0,"snippet":"return time();","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"return time();"}',
+);

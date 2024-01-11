@@ -1,0 +1,33 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'migx_elements',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]migx_elements`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]migx_elements` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `type` varchar(100) NOT NULL DEFAULT \'\',
+  `content` text NOT NULL,
+  `createdby` int(10) NOT NULL DEFAULT 0,
+  `createdon` datetime NOT NULL,
+  `editedby` int(10) NOT NULL DEFAULT 0,
+  `editedon` datetime NOT NULL,
+  `deleted` tinyint(1) unsigned NOT NULL DEFAULT 0,
+  `deletedon` datetime NOT NULL,
+  `deletedby` int(10) NOT NULL DEFAULT 0,
+  `published` tinyint(1) unsigned NOT NULL DEFAULT 0,
+  `publishedon` datetime NOT NULL,
+  `publishedby` int(10) NOT NULL DEFAULT 0,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '8c8449d954cbfc0568ac2502a6ead3a5',
+  'package' => '',
+  'signature' => '8a234e670e432ebd4ec59e4da91190f6',
+  'native_key' => '8c8449d954cbfc0568ac2502a6ead3a5',
+);

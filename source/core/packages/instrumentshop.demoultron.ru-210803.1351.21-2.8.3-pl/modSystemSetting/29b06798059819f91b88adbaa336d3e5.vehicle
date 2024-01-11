@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '878654fa0346284e07de54d562ff4ee6',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '29b06798059819f91b88adbaa336d3e5',
+  'native_key' => 'ms2_order_address_fields',
+  'object' => '{"key":"ms2_order_address_fields","value":"receiver,phone,index,country,region,city,metro,street,building,room,comment","xtype":"textarea","namespace":"minishop2","area":"ms2_order","editedon":null}',
+);

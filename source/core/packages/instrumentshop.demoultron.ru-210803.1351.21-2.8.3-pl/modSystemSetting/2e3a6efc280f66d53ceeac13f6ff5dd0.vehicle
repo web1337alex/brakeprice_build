@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '99c4a78944660aea13d88bdd89d2b853',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '2e3a6efc280f66d53ceeac13f6ff5dd0',
+  'native_key' => 'which_element_editor',
+  'object' => '{"key":"which_element_editor","value":"Ace","xtype":"modx-combo-rte","namespace":"core","area":"editor","editedon":null}',
+);

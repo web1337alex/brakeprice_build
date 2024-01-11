@@ -1,0 +1,23 @@
+<?php return array (
+  'class' => 'vaporVehicle',
+  'object' => 
+  array (
+    'tableName' => 'ms2_product_categories',
+    'drop' => 'DROP TABLE IF EXISTS `[[++table_prefix]]ms2_product_categories`',
+    'table' => 'CREATE TABLE `[[++table_prefix]]ms2_product_categories` (
+  `product_id` int(10) unsigned NOT NULL,
+  `category_id` int(10) unsigned NOT NULL,
+  PRIMARY KEY (`product_id`,`category_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8',
+    'data' => 
+    array (
+      0 => 'INSERT INTO `[[++table_prefix]]ms2_product_categories` (`product_id`, `category_id`) VALUES (\'119\', \'40\')',
+    ),
+  ),
+  'vehicle_package' => 'vapor',
+  'vehicle_class' => 'vaporVehicle',
+  'guid' => '89f78cc02b896678ce05dc03f233901e',
+  'package' => '',
+  'signature' => 'ac642ccf8cc16e22e4a0cc17eedfff88',
+  'native_key' => '89f78cc02b896678ce05dc03f233901e',
+);

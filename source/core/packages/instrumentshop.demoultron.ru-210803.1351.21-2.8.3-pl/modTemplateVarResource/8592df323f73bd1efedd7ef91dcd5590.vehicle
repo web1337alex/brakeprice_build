@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '46b8bca5e8d6b44fdb8b026fe1256876',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '8592df323f73bd1efedd7ef91dcd5590',
+  'native_key' => 1,
+  'object' => '{"id":1,"tmplvarid":6,"contentid":9,"value":"images\\/news\\/news5.jpg"}',
+);

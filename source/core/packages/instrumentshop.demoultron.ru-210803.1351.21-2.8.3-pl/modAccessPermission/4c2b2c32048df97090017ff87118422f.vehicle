@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '47c03d887d143dbc58cfb6d382bf3309',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '4c2b2c32048df97090017ff87118422f',
+  'native_key' => 127,
+  'object' => '{"id":127,"template":1,"name":"save_context","description":"perm.save_context_desc","value":1}',
+);

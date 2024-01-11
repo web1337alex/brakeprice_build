@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2da0605756205bd546ba1367fe77ad1d',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'ce66fffe5da57166a2513f8eb99ecc55',
+  'native_key' => 91,
+  'object' => '{"id":91,"source":1,"property_preprocess":0,"name":"characteristic.row","description":"","editor_type":0,"category":6,"cache_type":0,"snippet":"[[+technical_characteristics_switch:notempty=`\\n<tr>\\n    <th colspan=\\"2\\">\\n        [[+technical_characteristics_header]]\\n    <\\/th>\\n<\\/tr>\\n`:default=`\\n<tr>\\n    <td>\\n        [[+technical_characteristics_header]]\\n    <\\/td>\\n    <td>\\n        [[+technical_characteristics_description]]\\n    <\\/td>\\n<\\/tr>\\n`]]\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"[[+technical_characteristics_switch:notempty=`\\n<tr>\\n    <th colspan=\\"2\\">\\n        [[+technical_characteristics_header]]\\n    <\\/th>\\n<\\/tr>\\n`:default=`\\n<tr>\\n    <td>\\n        [[+technical_characteristics_header]]\\n    <\\/td>\\n    <td>\\n        [[+technical_characteristics_description]]\\n    <\\/td>\\n<\\/tr>\\n`]]\\n"}',
+);

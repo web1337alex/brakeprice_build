@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1bc55805a40ba2420c5aca1b79e64ee7',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '1bff2730703f6e6d58defd6fc3043e27',
+  'native_key' => 147,
+  'object' => '{"id":147,"template":1,"name":"undelete_document","description":"perm.undelete_document_desc","value":1}',
+);
