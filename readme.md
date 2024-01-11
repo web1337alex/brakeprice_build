@@ -10,7 +10,6 @@ sudo find source -type f -exec chmod 644 {} \;
 ```
 
 ```bash
-docker-compose build
-docker-compose up -d
+docker-compose up -d --build
 ```
 
