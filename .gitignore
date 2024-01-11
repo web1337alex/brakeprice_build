@@ -1,0 +1,5 @@
+.idea/
+.idea/*
+services/apache/logs/*
+services/php/logs/*
+/source/core/cache/*

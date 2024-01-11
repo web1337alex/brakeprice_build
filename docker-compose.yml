@@ -1,0 +1,41 @@
+version: '3'
+
+services:
+  php-apache:
+    build: .
+    volumes:
+      - ./source:/var/www/html
+      - ./services/php/php.ini:/usr/local/etc/php/php.ini
+      - ./services/apache/logs:/var/log/apache2
+      - ./services/apache/config/000-default.conf:/etc/apache2/sites-available/000-default.conf
+      - ./services/apache/config/000-default.conf:/etc/apache2/sites-enabled/000-default.conf
+      - ./services/php/logs/php_errors.log:/var/log/php_errors.log
+    ports:
+      - "80:80"
+    depends_on:
+      - mysql
+
+  mysql:
+    image: mysql:latest
+    command: --default-authentication-plugin=mysql_native_password
+    volumes:
+      - ./services/mysql/data:/var/lib/mysql
+      - ./services/mysql/config:/etc/mysql/conf.d
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    ports:
+      - "3306:3306"
+
+  phpmyadmin:
+    build: ./services/phpmyadmin
+    ports:
+      - "8080:80"
+    environment:
+      PMA_HOST: ${PMA_HOST}
+      PMA_USER: ${PMA_USER}
+      PMA_PASSWORD: ${PMA_PASSWORD}
+    depends_on:
+      - mysql
