@@ -1,0 +1,3 @@
+[2017-03-15 17:20:21] (INFO @ /home/b/bolvina/template.ultron.pro/public_html/core/components/stercseo/processors/mgr/redirect/migrate.class.php : 116) -------------------------------------------------------------
+[2017-03-15 17:20:21] (INFO @ /home/b/bolvina/template.ultron.pro/public_html/core/components/stercseo/processors/mgr/redirect/migrate.class.php : 116) 73 Redirect urls migrated from resource properties to seoUrl objects.
+[2017-03-15 17:20:21] (INFO @ /home/b/bolvina/template.ultron.pro/public_html/core/components/stercseo/processors/mgr/redirect/migrate.class.php : 116) No 301 redirect urls found in resource properties.
