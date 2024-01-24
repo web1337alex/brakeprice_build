@@ -38,3 +38,4 @@
 127.0.0.1 - - [24/Jan/2024:18:19:35 +0000] "OPTIONS * HTTP/1.0" 200 126 "-" "Apache/2.4.57 (Debian) PHP/8.2.8 (internal dummy connection)"
 127.0.0.1 - - [24/Jan/2024:18:19:36 +0000] "OPTIONS * HTTP/1.0" 200 126 "-" "Apache/2.4.57 (Debian) PHP/8.2.8 (internal dummy connection)"
 127.0.0.1 - - [24/Jan/2024:18:19:37 +0000] "OPTIONS * HTTP/1.0" 200 126 "-" "Apache/2.4.57 (Debian) PHP/8.2.8 (internal dummy connection)"
+172.30.0.1 - - [24/Jan/2024:18:43:24 +0000] "POST /index.php?route=/ HTTP/1.1" 200 2118 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"
