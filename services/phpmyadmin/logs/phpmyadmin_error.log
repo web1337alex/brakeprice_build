@@ -1,0 +1,8 @@
+[Wed Jan 24 18:11:20.371966 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Jan 24 18:11:20.372096 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jan 24 18:14:29.171516 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jan 24 18:14:49.859001 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Jan 24 18:14:49.859877 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jan 24 18:18:57.341161 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Jan 24 18:19:21.471963 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.2.8 configured -- resuming normal operations
+[Wed Jan 24 18:19:21.472196 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
