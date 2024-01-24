@@ -4,10 +4,8 @@
  *
  * @package MCManager.includes
  * @author Moxiecode
- * @copyright Copyright ï¿½ 2007, Moxiecode Systems AB, All rights reserved.
+ * @copyright Copyright © 2007, Moxiecode Systems AB, All rights reserved.
  */
-
-use assets\components\tinymce\jscripts\tiny_mce\plugins\spellchecker\classes\utils\Moxiecode_Logger;
 
 @error_reporting(E_ALL ^ E_NOTICE);
 $config = array();
